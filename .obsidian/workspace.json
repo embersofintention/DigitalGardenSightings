@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "fb8305649994dafb",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c2ce86d36ea13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c882cf016da01ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e54beed573c7420e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e7789057469ff23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28f56bf987464be4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fed6a184a2e0bfe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e88160083c7f108c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d6181921873c80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1982d75a65c616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8f616b4c697ba4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DigitalGardenSightings/Vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vault"
+            }
+          },
+          {
+            "id": "7eb8ead66b1109c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DigitalGardenSightings/Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vault"
+            }
+          },
+          {
+            "id": "6c269fea8e7aeee7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69890a92061cf99f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bcb0c826cf9df295",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DigitalGardenSightings/Vault.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vault"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "c882cf016da01ff1",
+  "lastOpenFiles": [
+    "src/site/notes/test index.md",
+    "src/site/img/user/attachments/placeholder rappy.png",
+    "src/site/img/user/attachments",
+    "src/site/img/user",
+    "attachments/placeholder rappy.png",
+    "attachments",
+    "test index.md",
+    "DigitalGardenSightings/README.md",
+    "DigitalGardenSightings/vercel.json",
+    "DigitalGardenSightings/plugin-info.json",
+    "DigitalGardenSightings/package-lock.json",
+    "DigitalGardenSightings/package.json",
+    "DigitalGardenSightings/netlify.toml",
+    "DigitalGardenSightings/src/site/_includes/layouts/random.njk",
+    "DigitalGardenSightings/src/site/_includes/layouts/note.njk",
+    "DigitalGardenSightings/src/site/img/tree-3.svg",
+    "DigitalGardenSightings/src/site/img/tree-2.svg",
+    "DigitalGardenSightings/src/site/img/tree-1.svg",
+    "DigitalGardenSightings/src/site/img/outgoing.svg",
+    "DigitalGardenSightings/src/site/img/default-note-icon.svg",
+    "DigitalGardenSightings/src/site/random.md",
+    "DigitalGardenSightings/src/site/favicon.svg"
+  ]
+}
