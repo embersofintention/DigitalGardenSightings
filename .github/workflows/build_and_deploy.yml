@@ -1,43 +1,53 @@
-name: Deploy to neocities
+name: Deploy to Neocities
 
-# only run on changes to main. Use main or master depending on whatever your default branch is called.
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
+  workflow_dispatch:
 
-concurrency: # prevent concurrent deploys doing strange things
+# Neocities does not need the special GitHub Pages permissions
+permissions:
+  contents: read
+  
+ # from other thing
+ concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    # The checkout step copies your repo into the action runner. Important!
-    - uses: actions/checkout@v4
-    # Set up any tools and build steps here
-    # This example uses a Node.js toolchain to build a site
-    # If you don't need Node.js to build your site, you can omit this.
-    - name: Use Node.js 22
-      uses: actions/setup-node@v4
-      with:
-        node-version: 22.x
-    # If you have a different build process, replace this with your own build steps
-    - name: Install deps and build
-      run: |
-        npm install
-        npm run build
-    # When the dist_dir is ready, deploy it to neocities
-    # Here we deploy the folder named `public`
-    # except I changed it to dist becuase tutorial said so
-    # cleanup was defaulted to false but I changed that too for now
-    - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v3
-      with:
-        api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: false
-        neocities_supporter: false # set this to true if you have a supporter account and want to bypass unsuported files filter.
-        preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
-        dist_dir: dist
+      - name: Checkout
+        uses: actions/checkout@v4
+
+ #      - name: Setup Kiln
+ #       run: |
+ #         # Download the latest Linux binary
+ #         curl -L -o kiln https://github.com/otaleghani/kiln/releases/latest/download/kiln_linux_amd64
+
+          # Make it executable
+#          chmod +x kiln
+
+#      - name: Build Site
+#        run: |
+#          mkdir -p ./public
+#          ./kiln generate
+
+      - name: Install deps and build
+        run: |
+          npm install
+          npm run build
+
+ 
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v3
+        with:
+          # Add this secret in: Settings → Secrets and variables → Actions
+          # Name: NEOCITIES_API_TOKEN   Value: your Neocities API key
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: dist
+          cleanup: true
+          # Note: make cleanup false to leave old files put and rely on other action in repo to clean it once a week
+          # making it true seems to make neocities angry
