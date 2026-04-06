@@ -51,3 +51,6 @@ jobs:
           cleanup: true
           # Note: make cleanup false to leave old files put and rely on other action in repo to clean it once a week
           # making it true seems to make neocities angry
+
+
+# ASS LOL
