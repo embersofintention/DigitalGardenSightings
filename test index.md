@@ -23,7 +23,6 @@ Once everything is connected properly and stuff publishes, here are the next ord
 
 Wish me luck please, I am clueless but stubborn. 
 
-Squemch.
-SQUOOSH.
+Also aaaaaaaaaaaaaaaaaaaa.
 
 ...

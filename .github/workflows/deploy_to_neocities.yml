@@ -24,4 +24,4 @@
           with:
             api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
             dist_dir: dist
-            cleanup: false
+            cleanup: true
