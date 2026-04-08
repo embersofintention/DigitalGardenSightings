@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# AAAAAAAAAAAAAAAAAAhiAAAAAAAAAAAA
 While we get everything all figured out, and also my head hurts
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
@@ -54,6 +54,7 @@ And what if we test a gallery in the page?
         - file.name
         - tags
         - created_date
+        - coverImage
   
 ```
 
