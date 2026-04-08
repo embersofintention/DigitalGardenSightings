@@ -26,8 +26,40 @@ Wish me luck please, I am clueless but stubborn. :D
 
 ## A Few Test Thingies
 
-* testing a potential way to do a [[Gallery Test.base|gallery]]
 
 
+> This is a test quote
+
+- [ ] This is a test checkbox
+- [x] And this one's checked
+
+```
+oh hey look! A test code block!
+```
+
+And what if we test a gallery in the page?
+
+
+```base
+filters:
+  and:
+    - file.tags.contains("art")
+    - '!file.path.contains("_templates")'
+views:
+  - type: cards
+    name: Art
+    order:
+      - file.name
+      - tags
+      - created_date
+    image: note.image
+
+```
+
+
+Also how 'bout some **bold**, *italic*, and ~~strikethrough~~ mayhaps?
+also [[test art/Apr07 2026 20-19 - Test Art 1\|links]] are neato, let's test those. 
+
+Okay! Welp. Here's hoping these work!
 
 ...
