@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"created":"2026-04-03T19:35:09.209-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # hi! Hopefully this works..? 
@@ -22,5 +22,12 @@ Once everything is connected properly and stuff publishes, here are the next ord
 * other stuff but for now let's just see if this publishes
 
 Wish me luck please, I am clueless but stubborn. :D
+
+
+## A Few Test Thingies
+
+* testing a potential way to do a [[Gallery Test.base|gallery]]
+
+
 
 ...
