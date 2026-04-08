@@ -3,7 +3,7 @@ dg-home: true
 dg-publish: true
 ---
 # O BOY PLACEHOLDERS!
-While we get everything all figured out
+While we get everything all figured out, and also my head hurts
 
 ![[placeholder rappy.png]]
 

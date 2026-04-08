@@ -1,14 +1,14 @@
 {
   "test index.md": {
-    "scroll": 32.486979166666664,
+    "scroll": 3.334851936218679,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 0
+        "line": 5,
+        "ch": 63
       },
       "to": {
-        "line": 17,
-        "ch": 0
+        "line": 5,
+        "ch": 63
       }
     },
     "expandedKeys": [
@@ -100,7 +100,7 @@
     "expandedKeys": []
   },
   "test art/Rappy Placeholder Test Post.md": {
-    "scroll": 6.593673965936739,
+    "scroll": 9.732360097323602,
     "cursor": {
       "from": {
         "line": 13,
