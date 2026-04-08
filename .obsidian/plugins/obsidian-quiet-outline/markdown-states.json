@@ -1,13 +1,13 @@
 {
   "test index.md": {
-    "scroll": 31.5703125,
+    "scroll": 32.486979166666664,
     "cursor": {
       "from": {
-        "line": 59,
+        "line": 17,
         "ch": 0
       },
       "to": {
-        "line": 59,
+        "line": 17,
         "ch": 0
       }
     },
@@ -30,14 +30,14 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 0,
+    "scroll": 1.2048192771084338,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 10,
         "ch": 0
       }
     },
@@ -52,6 +52,62 @@
       },
       "to": {
         "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/_ADD DATE AND TAGLINE STUFF.md": {
+    "scroll": 1.1173184357541899,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr08 2026 14-58 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Rappy Placeholder Test Post.md": {
+    "scroll": 6.593673965936739,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
         "ch": 0
       }
     },

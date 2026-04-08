@@ -1,12 +1,11 @@
 ---
 tags:
 tagline: (empty)
-publish: false
 date:
 created: <% tp.file.creation_date("YYYY-MM-DD, HH:mm") %>
 created_date: <% tp.file.creation_date("YYYY, MM/DD") %>
 created_time: <% tp.file.creation_date("HH:mm") %>
-dg-publish: true
+dg-publish: false
 ---
 <%*
 await tp.file.rename("subject - " + tp.date.now("MMMDD YYYY HH-mm"));

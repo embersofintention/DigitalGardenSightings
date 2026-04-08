@@ -5,7 +5,7 @@
   "gardenBaseUrl": "https://whimsyscoundrel.neocities.org",
   "prHistory": [],
   "baseTheme": "light",
-  "theme": "{\"name\":\"Retroma\",\"author\":\"emarpiee\",\"repo\":\"emarpiee/Retroma\",\"screenshot\":\"assets/screenshots/retroma-banner.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/emarpiee/Retroma/HEAD/theme.css\"}",
+  "theme": "{\"name\":\"Golden Topaz\",\"author\":\"Mouth on Cloud\",\"repo\":\"shaggyfeng/obsidian-Golden-Topaz-theme\",\"screenshot\":\"screenshot.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/shaggyfeng/obsidian-Golden-Topaz-theme/HEAD/theme.css\"}",
   "faviconPath": "",
   "logoPath": "attachments/rappy smile png.png",
   "useFullResolutionImages": false,

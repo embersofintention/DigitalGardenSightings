@@ -40,20 +40,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test index"
-            }
-          },
-          {
-            "id": "5db70aa8e02a1e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_templates/add Art Entry.md",
                 "mode": "source",
                 "source": false
@@ -63,21 +49,21 @@
             }
           },
           {
-            "id": "3324b81d093d32b2",
+            "id": "dfebb9e1887d3847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/_ADD DATE AND TAGLINE STUFF.md",
+                "file": "test art/Rappy Placeholder Test Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_ADD DATE AND TAGLINE STUFF"
+              "title": "Rappy Placeholder Test Post"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,21 +247,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7fd5ff66f46f757",
+  "active": "dfebb9e1887d3847",
   "lastOpenFiles": [
+    "attachments/placeholder rappy.png",
+    "test art/Rappy Placeholder Test Post.md",
+    "test art/Rappy Smile Test Post.md",
+    "_templates/add Art Entry.md",
+    "test index.md",
+    "_templates/_ADD DATE AND TAGLINE STUFF.md",
+    "Gallery Test.base",
+    "attachments/rappy whimsy sketch 2.png",
+    "Untitled.md",
     "src/site/notes/test index.md",
     "src/site/notes/test art/Rappy Smile Test Post.md",
     "src/site/notes/test art",
     "src/site/notes/_templates/_ADD DATE AND TAGLINE STUFF.md",
     "src/site/notes/_templates",
     "src/site/img/user/attachments/rappy smile png.png",
-    "test art/Rappy Smile Test Post.md",
-    "test index.md",
-    "Gallery Test.base",
-    "attachments/rappy whimsy sketch 2.png",
     "attachments/rappy smile png.png",
-    "_templates/add Art Entry.md",
-    "_templates/_ADD DATE AND TAGLINE STUFF.md",
     "_templates/add Whimsy Scoundrel.md",
     "_templates/_user scripts",
     "_templates/tag.md",
@@ -288,7 +277,6 @@
     "src/site/notes/src/site/notes/src",
     "src/site/notes/src/site/notes/test index.md",
     "src/site/img/user/attachments/placeholder rappy.png",
-    "attachments/placeholder rappy.png",
     "DigitalGardenSightings/README.md",
     "DigitalGardenSightings/src/site/img/tree-3.svg",
     "DigitalGardenSightings/src/site/img/tree-2.svg",

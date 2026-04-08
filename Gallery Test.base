@@ -11,3 +11,4 @@ views:
       - tags
       - created_date
     image: note.coverImage
+    imageFit: contain
