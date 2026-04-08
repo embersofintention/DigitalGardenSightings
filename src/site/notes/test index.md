@@ -41,7 +41,7 @@ And what if we test a gallery in the page?
 
 ```base
   filters:
-    file.hasProperty("coverImage")
+    "!coverImage.isEmpty()"
   views:
     - type: cards
       name: "Image Gallery"
@@ -51,15 +51,15 @@ And what if we test a gallery in the page?
       imageAspectRatio: 1.33
       order:
         - file.name
-        - category
-        - description
+        - tags
+        - created_date
   
 ```
 
 
 
 Also how 'bout some **bold**, *italic*, and ~~strikethrough~~ mayhaps?
-also [[test art/Apr07 2026 20-19 - Test Art 1\|links]] are neato, let's test those. 
+also [[test art/Rappy Smile Test Post\|links]] are neato, let's test those. 
 
 Okay! Welp. Here's hoping these work!
 
