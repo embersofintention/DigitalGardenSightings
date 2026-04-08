@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/test-index/","tags":["gardenEntry"],"dg-note-properties":{"permalink":"/test-index/","tags":["gardenEntry"]}}
+{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/test-index/","tags":["gardenEntry"],"dg-note-properties":{"permalink":"/src/site/notes/test-index/","tags":["gardenEntry"]}}
 ---
 
 
-# O BOY PLACEHOLDERS!
-While we get everything all figured out
+
+# hi! Hopefully this works..? 
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
 
@@ -48,9 +48,9 @@ And what if we test a gallery in the page?
     - type: cards
       name: "Image Gallery"
       image: coverImage
-      cardSize: 250
+      cardSize: 220
       imageFit: cover
-      imageAspectRatio: 1
+      imageAspectRatio: 1.33
       order:
         - file.name
         - tags
