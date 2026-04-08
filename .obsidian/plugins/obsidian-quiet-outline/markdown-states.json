@@ -1,0 +1,60 @@
+{
+  "test index.md": {
+    "scroll": 23.489583333333332,
+    "cursor": {
+      "from": {
+        "line": 43,
+        "ch": 27
+      },
+      "to": {
+        "line": 43,
+        "ch": 27
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "test art/Apr07 2026 20-19 - Test Art 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Art Entry.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Rappy Smile Test Post.md": {
+    "scroll": 2.67639902676399,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  }
+}

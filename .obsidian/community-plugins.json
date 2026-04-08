@@ -1,3 +1,8 @@
 [
-  "digitalgarden"
+  "digitalgarden",
+  "templater-obsidian",
+  "make-md",
+  "buttons",
+  "dataview",
+  "obsidian-quiet-outline"
 ]

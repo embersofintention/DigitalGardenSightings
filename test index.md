@@ -21,8 +21,46 @@ Once everything is connected properly and stuff publishes, here are the next ord
 * changing vault settings so a few of the defaults don't drive me nuts
 * other stuff but for now let's just see if this publishes
 
-Wish me luck please, I am clueless but stubborn. 
+Wish me luck please, I am clueless but stubborn. :D
 
-Also aaaaaaaaaaaaaaaaaaaa.
+
+## A Few Test Thingies
+
+
+
+> This is a test quote
+
+- [ ] This is a test checkbox
+- [x] And this one's checked
+
+```
+oh hey look! A test code block!
+```
+
+And what if we test a gallery in the page?
+
+```base
+  filters:
+    "!coverImage.isEmpty()"
+  views:
+    - type: cards
+      name: "Image Gallery"
+      image: coverImage
+      cardSize: 220
+      imageFit: cover
+      imageAspectRatio: 1.33
+      order:
+        - file.name
+        - tags
+        - created_date
+  
+```
+
+
+
+Also how 'bout some **bold**, *italic*, and ~~strikethrough~~ mayhaps?
+also [[Rappy Smile Test Post|links]] are neato, let's test those. 
+
+Okay! Welp. Here's hoping these work!
 
 ...
