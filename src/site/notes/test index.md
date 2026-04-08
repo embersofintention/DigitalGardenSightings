@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# hi! Hopefully this works..? 
+# O BOY PLACEHOLDERS!
+While we get everything all figured out
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
 
@@ -46,9 +47,9 @@ And what if we test a gallery in the page?
     - type: cards
       name: "Image Gallery"
       image: coverImage
-      cardSize: 220
+      cardSize: 250
       imageFit: cover
-      imageAspectRatio: 1.33
+      imageAspectRatio: 1
       order:
         - file.name
         - tags
