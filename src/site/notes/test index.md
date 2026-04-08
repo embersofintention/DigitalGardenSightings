@@ -39,22 +39,23 @@ oh hey look! A test code block!
 
 And what if we test a gallery in the page?
 
-
 ```base
-filters:
-  and:
-    - file.tags.contains("art")
-    - '!file.path.contains("_templates")'
-views:
-  - type: cards
-    name: Art
-    order:
-      - file.name
-      - tags
-      - created_date
-    image: note.image
-
+  filters:
+    file.hasProperty("coverImage")
+  views:
+    - type: cards
+      name: "Image Gallery"
+      image: coverImage
+      cardSize: 220
+      imageFit: cover
+      imageAspectRatio: 1.33
+      order:
+        - file.name
+        - category
+        - description
+  
 ```
+
 
 
 Also how 'bout some **bold**, *italic*, and ~~strikethrough~~ mayhaps?
