@@ -40,6 +40,8 @@ oh hey look! A test code block!
 
 And what if we test a gallery in the page?
 
+
+Created with a code block:
 ```base
   filters:
     "!coverImage.isEmpty()"
@@ -57,6 +59,28 @@ And what if we test a gallery in the page?
         - coverImage
   
 ```
+
+
+
+slightly different one embedded directly: 
+
+```base
+filters:
+  and:
+    - '!file.path.contains("_templates")'
+    - "!coverImage.isEmpty()"
+views:
+  - type: cards
+    name: Art
+    order:
+      - file.name
+      - tags
+      - created_date
+    image: note.coverImage
+    imageFit: contain
+
+```
+
 
 
 
