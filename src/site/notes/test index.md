@@ -64,7 +64,7 @@ Base, Created with a code block:
 
 ---
 
-Experimental Dataview Gallery: osfjdos
+Experimental Dataview Gallery: MAYBE IT'LL WORK I DO NOT KNOW PLZ WORK OK
 | Preview                                     | About                                                                                          |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)   | [[test art/Rappy Smile Test Post\|Rappy Smile Test Post]] \| test rappy smile               |
