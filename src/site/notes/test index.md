@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"]}}
 ---
 
-# AAAAAAAAAAAAAAAAAAhiAAAAAAAAAAAA
+# 4/10, 3:37pm edit
 While we get everything all figured out, and also my head hurts
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
