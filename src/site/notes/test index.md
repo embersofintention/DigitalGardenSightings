@@ -27,7 +27,7 @@ Wish me luck please, I am clueless but stubborn. :D
 
 ## A Few Test Thingies
 
-
+[[Test Dataview Gallery\|Test Dataview Gallery]] <-link
 
 > This is a test quote
 
@@ -38,10 +38,12 @@ Wish me luck please, I am clueless but stubborn. :D
 oh hey look! A test code block!
 ```
 
+
+### Test Galleries
 And what if we test a gallery in the page?
 
 
-Created with a code block:
+Base, Created with a code block:
 ```base
   filters:
     "!coverImage.isEmpty()"
@@ -61,26 +63,13 @@ Created with a code block:
 ```
 
 
+Dataview Gallery: 
+| Preview                                     | About                                                                                          |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)   | [[test art/Rappy Smile Test Post\|Rappy Smile Test Post]] \| test rappy smile               |
+| ![attachments/placeholder rappy.png\|250](/img/user/attachments/placeholder%20rappy.png) | [[test art/Rappy Placeholder Test Post\|Rappy Placeholder Test Post]] \| another test Rappy |
 
-slightly different one embedded directly: 
-
-```base
-filters:
-  and:
-    - '!file.path.contains("_templates")'
-    - "!coverImage.isEmpty()"
-views:
-  - type: cards
-    name: Art
-    order:
-      - file.name
-      - tags
-      - created_date
-    image: note.coverImage
-    imageFit: contain
-
-```
-
+{ .block-language-dataview}
 
 
 
