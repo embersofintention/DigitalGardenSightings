@@ -563,6 +563,7 @@ module.exports = function(eleventyConfig) {
       let inner = t.innerHTML;
       t.tagName = "div";
       t.classList.add("table-wrapper");
+	  t.classList.add("flip-cards");
       t.innerHTML = `<table>${inner}</table>`;
     }
 
