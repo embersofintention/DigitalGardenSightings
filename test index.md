@@ -1,8 +1,10 @@
 ---
 dg-home: true
 dg-publish: true
+cssclasses:
+  - cards
 ---
-# O BOY PLACEHOLDERS!
+# AAAAAAAAAAAAAAAAAAhiAAAAAAAAAAAA
 While we get everything all figured out, and also my head hurts
 
 ![[placeholder rappy.png]]
@@ -27,7 +29,7 @@ Wish me luck please, I am clueless but stubborn. :D
 
 ## A Few Test Thingies
 
-
+[[Test Dataview Gallery]] <-link
 
 > This is a test quote
 
@@ -38,15 +40,19 @@ Wish me luck please, I am clueless but stubborn. :D
 oh hey look! A test code block!
 ```
 
+
+### Test Galleries
 And what if we test a gallery in the page?
 
+
+Base, Created with a code block:
 ```base
   filters:
-    "!coverImage.isEmpty()"
+    "!image_path.isEmpty()"
   views:
     - type: cards
       name: "Image Gallery"
-      image: coverImage
+      image: image_path
       cardSize: 250
       imageFit: cover
       imageAspectRatio: 1
@@ -54,8 +60,75 @@ And what if we test a gallery in the page?
         - file.name
         - tags
         - created_date
+        - image_path
   
 ```
+
+---
+
+Experimental Dataview Gallery: osfjdos
+```dataview
+
+TABLE WITHOUT ID 
+EmbededCoverImg 
+	as "Preview", 
+
+
+link(file.name) 
+	+ " | " 
+	+ tagline 
+	  as "About"
+
+
+
+
+FROM "test art" AND !"_Templates" AND !"index"
+SORT created_date
+
+WHERE file.name != this.file.name AND coverImage
+FLATTEN choice(typeof(coverImage)="link",
+    embed(link(meta(
+        choice(
+            typeof(coverImage)="link",
+                coverImage, this.file.link
+        )
+    ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
+
+```
+---
+
+
+
+Working Dataview Gallery: 
+```dataview
+
+TABLE WITHOUT ID 
+EmbededCoverImg as "Preview", 
+link(file.name) 
+	+ " | " 
+	+ tagline 
+	  as "About"
+
+
+
+
+FROM "test art" AND !"_Templates" AND !"index"
+SORT created_date
+
+WHERE file.name != this.file.name AND coverImage
+FLATTEN choice(typeof(coverImage)="link",
+    embed(link(meta(
+        choice(
+            typeof(coverImage)="link",
+                coverImage, this.file.link
+        )
+    ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
+
+```
+
+
+
+
 
 
 

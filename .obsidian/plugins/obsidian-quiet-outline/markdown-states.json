@@ -1,18 +1,19 @@
 {
   "test index.md": {
-    "scroll": 3.334851936218679,
+    "scroll": 64.20403002555366,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 63
+        "line": 68,
+        "ch": 38
       },
       "to": {
-        "line": 5,
-        "ch": 63
+        "line": 68,
+        "ch": 38
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-3"
     ]
   },
   "test art/Apr07 2026 20-19 - Test Art 1.md": {
@@ -30,21 +31,21 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 1.2048192771084338,
+    "scroll": 4.8997772828507795,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 0
+        "line": 18,
+        "ch": 10
       },
       "to": {
-        "line": 10,
-        "ch": 0
+        "line": 18,
+        "ch": 10
       }
     },
     "expandedKeys": []
   },
   "test art/Rappy Smile Test Post.md": {
-    "scroll": 2.67639902676399,
+    "scroll": 5.2383073496659245,
     "cursor": {
       "from": {
         "line": 14,
@@ -100,14 +101,56 @@
     "expandedKeys": []
   },
   "test art/Rappy Placeholder Test Post.md": {
-    "scroll": 9.732360097323602,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
+        "line": 18,
         "ch": 0
       },
       "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Test Dataview Gallery.md": {
+    "scroll": 8.78048780487805,
+    "cursor": {
+      "from": {
+        "line": 34,
+        "ch": 3
+      },
+      "to": {
         "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "subject - Apr10 2026 14-37.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 38,
+        "ch": 0
+      },
+      "to": {
+        "line": 38,
         "ch": 0
       }
     },

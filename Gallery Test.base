@@ -1,7 +1,6 @@
 filters:
   and:
     - '!file.path.contains("_templates")'
-    - file.tags.contains("art")
     - "!coverImage.isEmpty()"
 views:
   - type: cards
