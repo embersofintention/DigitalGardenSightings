@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"]}}
 ---
 
 # AAAAAAAAAAAAAAAAAAhiAAAAAAAAAAAA
@@ -46,11 +46,11 @@ And what if we test a gallery in the page?
 Base, Created with a code block:
 ```base
   filters:
-    "!coverImage.isEmpty()"
+    "!image_path.isEmpty()"
   views:
     - type: cards
       name: "Image Gallery"
-      image: coverImage
+      image: image_path
       cardSize: 250
       imageFit: cover
       imageAspectRatio: 1
@@ -58,18 +58,34 @@ Base, Created with a code block:
         - file.name
         - tags
         - created_date
-        - coverImage
+        - image_path
   
 ```
 
+---
 
-Dataview Gallery: 
+Experimental Dataview Gallery: osfjdos
 | Preview                                     | About                                                                                          |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)   | [[test art/Rappy Smile Test Post\|Rappy Smile Test Post]] \| test rappy smile               |
 | ![attachments/placeholder rappy.png\|250](/img/user/attachments/placeholder%20rappy.png) | [[test art/Rappy Placeholder Test Post\|Rappy Placeholder Test Post]] \| another test Rappy |
 
 { .block-language-dataview}
+---
+
+
+
+Working Dataview Gallery: 
+| Preview                                     | About                                                                                          |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)   | [[test art/Rappy Smile Test Post\|Rappy Smile Test Post]] \| test rappy smile               |
+| ![attachments/placeholder rappy.png\|250](/img/user/attachments/placeholder%20rappy.png) | [[test art/Rappy Placeholder Test Post\|Rappy Placeholder Test Post]] \| another test Rappy |
+
+{ .block-language-dataview}
+
+
+
+
 
 
 
