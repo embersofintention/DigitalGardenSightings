@@ -66,7 +66,7 @@ Base, Created with a code block:
 
 ---
 
-Experimental Dataview Gallery: osfjdos
+Experimental Dataview Gallery: MAYBE IT'LL WORK I DO NOT KNOW PLZ WORK OK
 ```dataview
 
 TABLE WITHOUT ID 

@@ -247,12 +247,8 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45ab876dc7a2eb05",
+  "active": "28f56bf987464be4",
   "lastOpenFiles": [
-    "src/site/styles/flip-cards.css",
-    "src/site/styles/user/flip-cards.css",
-    "src/site/styles/user",
-    "src/site/styles/New folder",
     "src/site/notes/src/site/notes/test art/Rappy Smile Test Post.md",
     "src/site/notes/src/site/notes/test art/Rappy Placeholder Test Post.md",
     "src/site/notes/src/site/notes/test index.md",
@@ -261,6 +257,10 @@
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
     "src/site/notes/src",
+    "src/site/styles/flip-cards.css",
+    "src/site/styles/user/flip-cards.css",
+    "src/site/styles/user",
+    "src/site/styles/New folder",
     "src/site/notes/test index.md",
     "src/site/notes/test art/Rappy Smile Test Post.md",
     "src/site/notes/test art/Rappy Placeholder Test Post.md",
@@ -273,7 +273,6 @@
     "Test Dataview Gallery.md",
     "test art/Rappy Smile Test Post.md",
     "src/site/notes/src/site/notes/_templates/_ADD DATE AND TAGLINE STUFF.md",
-    "src/site/notes/src/site/notes/_templates",
     "src/site/logo.png",
     "attachments/placeholder rappy.png",
     "_templates/_ADD DATE AND TAGLINE STUFF.md",
