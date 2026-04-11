@@ -1,19 +1,19 @@
 {
   "test index.md": {
-    "scroll": 68.607421875,
+    "scroll": 38.86684782608695,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 62
+        "line": 82,
+        "ch": 0
       },
       "to": {
-        "line": 6,
-        "ch": 62
+        "line": 82,
+        "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-0",
-      "item-2-3"
+      "item-2-3",
+      "item-1-0"
     ]
   },
   "test art/Apr07 2026 20-19 - Test Art 1.md": {
@@ -31,7 +31,7 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 4.8997772828507795,
+    "scroll": 1.2320328542094456,
     "cursor": {
       "from": {
         "line": 18,
@@ -101,14 +101,14 @@
     "expandedKeys": []
   },
   "test art/Rappy Placeholder Test Post.md": {
-    "scroll": 11.083333333333334,
+    "scroll": 6.332962138084633,
     "cursor": {
       "from": {
-        "line": 18,
+        "line": 12,
         "ch": 0
       },
       "to": {
-        "line": 18,
+        "line": 12,
         "ch": 0
       }
     },
@@ -129,14 +129,14 @@
     "expandedKeys": []
   },
   "Test Dataview Gallery.md": {
-    "scroll": 3.676829268292683,
+    "scroll": 7.871111111111111,
     "cursor": {
       "from": {
-        "line": 13,
+        "line": 15,
         "ch": 0
       },
       "to": {
-        "line": 13,
+        "line": 15,
         "ch": 0
       }
     },

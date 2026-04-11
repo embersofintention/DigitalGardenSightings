@@ -45,24 +45,6 @@ oh hey look! A test code block!
 And what if we test a gallery in the page?
 
 
-Base, Created with a code block:
-```base
-  filters:
-    "!image_path.isEmpty()"
-  views:
-    - type: cards
-      name: "Image Gallery"
-      image: image_path
-      cardSize: 250
-      imageFit: cover
-      imageAspectRatio: 1
-      order:
-        - file.name
-        - tags
-        - created_date
-        - image_path
-  
-```
 
 ---
 
@@ -70,14 +52,16 @@ Experimental Dataview Gallery: MAYBE IT'LL WORK I DO NOT KNOW PLZ WORK OK
 ```dataview
 
 TABLE WITHOUT ID 
+
 EmbededCoverImg 
 	as "Preview", 
 
 
 link(file.name) 
-	+ " | " 
-	+ tagline 
-	  as "About"
+	  as "Link",
+
+tagline
+	as "tagline"
 
 
 
@@ -100,6 +84,7 @@ FLATTEN choice(typeof(coverImage)="link",
 
 
 Working Dataview Gallery: 
+(uses class `pws-tables-cards`)
 ```dataview
 
 TABLE WITHOUT ID 
