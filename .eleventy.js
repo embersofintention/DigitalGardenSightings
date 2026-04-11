@@ -562,9 +562,8 @@ module.exports = function(eleventyConfig) {
     for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
       let inner = t.innerHTML;
       t.tagName = "div";
-      t.classList.add("table-wrapper");
-	  t.classList.add("flip-cards");
-      t.innerHTML = `<table>${inner}</table>`;
+      t.classList.add("pws-tables-cards");
+      t.innerHTML = `<div class="table-wrapper"><table>${inner}</table></div>`;
     }
 
     for (const t of parsed.querySelectorAll(
