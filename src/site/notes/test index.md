@@ -3,7 +3,7 @@
 ---
 
 # 4/11 - Getting the whole gallery thing working
-While we get everything all figured out, and also my head hurts. It's pretty though! Rainbows.
+While we get everything all figured out, and also my head hurts. It's pretty though! Rainbows.  And pain for my head. 
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
 
