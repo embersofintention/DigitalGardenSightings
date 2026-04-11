@@ -2,6 +2,7 @@
 dg-home: true
 dg-publish: true
 cssclasses:
+  - pws-tables-cards
 ---
 # 4/10, 3:37pm edit While I break my brain trying to fix stuff
 While we get everything all figured out, and also my head hurts

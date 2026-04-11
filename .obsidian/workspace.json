@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +247,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfebb9e1887d3847",
+  "active": "45ab876dc7a2eb05",
   "lastOpenFiles": [
-    "test art/Rappy Placeholder Test Post.md",
+    "Gallery Test.base",
     "test index.md",
+    "Test Dataview Gallery.md",
+    "src/site/styles/user/pws-tables-cards.css",
+    "src/site/styles/user/New Text Document.txt",
+    "test art/Rappy Placeholder Test Post.md",
     "src/site/notes/src/site/notes/test index.md",
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
@@ -266,11 +270,8 @@
     "src/site/notes/test index.md",
     "src/site/notes/test art/Rappy Smile Test Post.md",
     "src/site/notes/test art/Rappy Placeholder Test Post.md",
-    "src/site/notes/test art",
     "src/site/notes/Test Dataview Gallery.md",
     "_templates/add Art Entry.md",
-    "Gallery Test.base",
-    "Test Dataview Gallery.md",
     "test art/Rappy Smile Test Post.md",
     "src/site/notes/src/site/notes/_templates/_ADD DATE AND TAGLINE STUFF.md",
     "src/site/logo.png",

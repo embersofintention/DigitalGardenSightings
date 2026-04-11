@@ -1,13 +1,13 @@
 {
   "test index.md": {
-    "scroll": 63.7271347955707,
+    "scroll": 68.607421875,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 6,
         "ch": 62
       },
       "to": {
-        "line": 5,
+        "line": 6,
         "ch": 62
       }
     },
