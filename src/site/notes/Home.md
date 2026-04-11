@@ -41,10 +41,18 @@ oh hey look! A test code block!
 ### Test Gallery
 
 Just to see if formatting etc can happen and look ok
-| Preview                                        | Link                                                                                | info                                                                                      |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ![attachments/bg/smbg-lines-yellow.png\|250](/img/user/attachments/bg/smbg-lines-yellow.png) | ** *[[test art/2026-04-11-1550 - yellow square\|Yellow Square of Lines lol]]* ** | **2026, 04/11** -- a background image here just for the sake of testing the gallery stuff |
-| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)      | ** *[[test art/2026-04-11-1536 - rappy smile\|Rappy Smile]]* **                  | **2026, 04/11** -- a large placeholder image                                              |
+| Preview                                        | Link                                                                            | info                                                                                      |
+| ---------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![attachments/bg/smbg-lines-yellow.png\|250](/img/user/attachments/bg/smbg-lines-yellow.png) | **[[test art/2026-04-11-1550 - yellow square\|Yellow Square of Lines lol]]** | **2026, 04/11** -- a background image here just for the sake of testing the gallery stuff |
+| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)      | **[[test art/2026-04-11-1536 - rappy smile\|Rappy Smile]]**                  | **2026, 04/11** -- a large placeholder image                                              |
 
 { .block-language-dataview}
+# header 1
+## header 2
+
+### header 3
+
+#### header 4
+
+##### header 5
 
