@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/test-index/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["pws-tables-cards"]}}
 ---
 
-# 4/10, 3:37pm edit While I break my brain trying to fix stuff
-While we get everything all figured out, and also my head hurts
+# 4/11 - Getting the whole gallery thing working
+While we get everything all figured out, and also my head hurts. It's pretty though!
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
 
@@ -25,7 +25,9 @@ Once everything is connected properly and stuff publishes, here are the next ord
 Wish me luck please, I am clueless but stubborn. :D
 
 
-## A Few Test Thingies
+## Testing Various Stuff:
+
+### Formatting
 
 [[Test Dataview Gallery\|Test Dataview Gallery]] <-link
 
@@ -40,58 +42,10 @@ oh hey look! A test code block!
 
 
 ### Test Galleries
-And what if we test a gallery in the page?
 
-
-Base, Created with a code block:
-```base
-  filters:
-    "!image_path.isEmpty()"
-  views:
-    - type: cards
-      name: "Image Gallery"
-      image: image_path
-      cardSize: 250
-      imageFit: cover
-      imageAspectRatio: 1
-      order:
-        - file.name
-        - tags
-        - created_date
-        - image_path
-  
-```
-
----
-
-Experimental Dataview Gallery: MAYBE IT'LL WORK I DO NOT KNOW PLZ WORK OK
-| Preview                                     | About                                                                                          |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)   | [[test art/Rappy Smile Test Post\|Rappy Smile Test Post]] \| test rappy smile               |
-| ![attachments/placeholder rappy.png\|250](/img/user/attachments/placeholder%20rappy.png) | [[test art/Rappy Placeholder Test Post\|Rappy Placeholder Test Post]] \| another test Rappy |
+| Preview                                        | Link                                                                        | info                                                                                      |
+| ---------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![attachments/bg/smbg-lines-yellow.png\|250](/img/user/attachments/bg/smbg-lines-yellow.png) | [[test art/2026-04-11-1550 - yellow square\|Yellow Square of Lines lol]] | **2026, 04/11** -- a background image here just for the sake of testing the gallery stuff |
+| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)      | [[test art/2026-04-11-1536 - rappy smile\|Rappy Smile]]                  | **2026, 04/11** -- a large placeholder image                                              |
 
 { .block-language-dataview}
----
-
-
-
-Working Dataview Gallery: 
-| Preview                                     | About                                                                                          |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)   | [[test art/Rappy Smile Test Post\|Rappy Smile Test Post]] \| test rappy smile               |
-| ![attachments/placeholder rappy.png\|250](/img/user/attachments/placeholder%20rappy.png) | [[test art/Rappy Placeholder Test Post\|Rappy Placeholder Test Post]] \| another test Rappy |
-
-{ .block-language-dataview}
-
-
-
-
-
-
-
-Also how 'bout some **bold**, *italic*, and ~~strikethrough~~ mayhaps?
-also [[test art/Rappy Smile Test Post\|links]] are neato, let's test those. 
-
-Okay! Welp. Here's hoping these work!
-
-...
