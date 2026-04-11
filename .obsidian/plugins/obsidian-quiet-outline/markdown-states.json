@@ -1,13 +1,13 @@
 {
   "test index.md": {
-    "scroll": 3.4566473988439306,
+    "scroll": 63.7271347955707,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 5,
         "ch": 62
       },
       "to": {
-        "line": 6,
+        "line": 5,
         "ch": 62
       }
     },
@@ -101,7 +101,7 @@
     "expandedKeys": []
   },
   "test art/Rappy Placeholder Test Post.md": {
-    "scroll": 0,
+    "scroll": 11.083333333333334,
     "cursor": {
       "from": {
         "line": 18,
@@ -129,11 +129,11 @@
     "expandedKeys": []
   },
   "Test Dataview Gallery.md": {
-    "scroll": 8.78048780487805,
+    "scroll": 3.676829268292683,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 3
+        "line": 13,
+        "ch": 0
       },
       "to": {
         "line": 13,

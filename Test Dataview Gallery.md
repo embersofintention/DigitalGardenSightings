@@ -9,30 +9,9 @@ dg-publish: true
 ---
 
 
-Dataview Gallery Test: 
-
-```dataview
-
-TABLE WITHOUT ID 
-EmbededCoverImg as "Preview", 
-link(file.name) + " | " + tagline as "About"
+Dataview Gallery Test, using Jon Lee's Pub Wrap stuff
 
 
-
-
-FROM "test art" AND !"_Templates" AND !"index"
-SORT created_date
-
-WHERE file.name != this.file.name AND coverImage
-FLATTEN choice(typeof(coverImage)="link",
-    embed(link(meta(
-        choice(
-            typeof(coverImage)="link",
-                coverImage, this.file.link
-        )
-    ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
-
-```
 
 
 

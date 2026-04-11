@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test art/Rappy Placeholder Test Post.md",
+                "file": "Test Dataview Gallery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rappy Placeholder Test Post"
+              "title": "Test Dataview Gallery"
             }
           },
           {
@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45ab876dc7a2eb05",
+  "active": "dfebb9e1887d3847",
   "lastOpenFiles": [
+    "test art/Rappy Placeholder Test Post.md",
+    "test index.md",
     "src/site/notes/src/site/notes/test index.md",
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
@@ -267,8 +269,6 @@
     "src/site/notes/test art",
     "src/site/notes/Test Dataview Gallery.md",
     "_templates/add Art Entry.md",
-    "test index.md",
-    "test art/Rappy Placeholder Test Post.md",
     "Gallery Test.base",
     "Test Dataview Gallery.md",
     "test art/Rappy Smile Test Post.md",
