@@ -1,0 +1,59 @@
+---
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["pws-tables-cards"]}}
+---
+
+# 4/11 - Getting the whole gallery thing working
+While we get everything all figured out, and also my head hurts. It's pretty though! Rainbows.  And pain for my head. 
+
+![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
+
+I'm trying to connect Neocities with Obsidian, so I can share a whole bunch of art I do.  
+
+Currently, the setup I'm testing is using a plugin called Digital Garden.  At the moment it looks a bit more promising than Kiln, so here's hoping?
+
+## Goals:
+Once everything is connected properly and stuff publishes, here are the next orders of business:
+* *add the actual art lol*
+* Make the site pretty with a snazzy layout
+
+## Steps to get there: 
+* adding the plugins I use for general working-on-stuff-in-Obsidian
+* Setting up to sync between local devices, so I can add art from wherever (heck yeah)
+* changing vault settings so a few of the defaults don't drive me nuts
+* other stuff but for now let's just see if this publishes
+
+Wish me luck please, I am clueless but stubborn. :D
+
+
+## Testing Various Stuff:
+
+### Formatting
+
+[[Test Dataview Gallery\|Test Dataview Gallery]] <-link
+
+> This is a test quote
+
+- [ ] This is a test checkbox
+- [x] And this one's checked
+
+```
+oh hey look! A test code block!
+```
+
+
+### Test Galleries
+
+#### - DataviewJS: 
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Preview</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span>Link</span></th><th class="table-view-th"><span>info</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a href="test art/2026-04-11-1536 - rappy smile.md" class="clickable-cover"><img src="app://755f30547928cfcdaad6619ae6ff3736200b/N:/Sites/DigitalGarden%20to%20Neocities/DigitalGardenSightings/attachments/rappy%20smile%20png.png?1775606678555" style="width: 250px; display: block; cursor: pointer;"></a></span></td><td><span><a data-tooltip-position="top" aria-label="test art/2026-04-11-1536 - rappy smile.md" data-href="test art/2026-04-11-1536 - rappy smile.md" href="test art/2026-04-11-1536 - rappy smile.md" class="internal-link" target="_blank" rel="noopener nofollow">Rappy Smile</a></span></td><td><span><strong>2026, 04/11</strong> -- a large placeholder image</span></td></tr><tr><td><span><a href="test art/2026-04-11-1550 - yellow square.md" class="clickable-cover"><img src="app://755f30547928cfcdaad6619ae6ff3736200b/N:/Sites/DigitalGarden%20to%20Neocities/DigitalGardenSightings/attachments/bg/smbg-lines-yellow.png?1710875731632" style="width: 250px; display: block; cursor: pointer;"></a></span></td><td><span><a data-tooltip-position="top" aria-label="test art/2026-04-11-1550 - yellow square.md" data-href="test art/2026-04-11-1550 - yellow square.md" href="test art/2026-04-11-1550 - yellow square.md" class="internal-link" target="_blank" rel="noopener nofollow">Yellow Square of Lines lol</a></span></td><td><span><strong>2026, 04/11</strong> -- a background image here just for the sake of testing the gallery stuff</span></td></tr></tbody></table></div>
+
+
+
+
+#### - Standard Dataview: 
+| Preview                                        | Link                                                                                | info                                                                                      |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![attachments/bg/smbg-lines-yellow.png\|250](/img/user/attachments/bg/smbg-lines-yellow.png) | ** *[[test art/2026-04-11-1550 - yellow square\|Yellow Square of Lines lol]]* ** | **2026, 04/11** -- a background image here just for the sake of testing the gallery stuff |
+| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)      | ** *[[test art/2026-04-11-1536 - rappy smile\|Rappy Smile]]* **                  | **2026, 04/11** -- a large placeholder image                                              |
+
+{ .block-language-dataview}
+
