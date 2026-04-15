@@ -4,10 +4,10 @@
 
 
 
-# Zu Cool As A Cucumber
+
 ---
 Sighted In The Wild:  ![ws - zu cool kabab.png](/img/user/attachments/ws%20-%20zu%20cool%20kabab.png)
-
+# Zu Cool As A Cucumber
 Spotted hangin' on the napkins
 
 

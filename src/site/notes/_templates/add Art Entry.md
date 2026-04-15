@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/templates/add-art-entry/","tags":["art","art/IndexCard"],"created":"<% tp.file.creation_date(\"YYYY, MM/DD\") %>","dg-note-properties":{"tags":["art","art/IndexCard"],"tagline":"(empty)","created":"<% tp.file.creation_date(\"YYYY-MM-DD, HH:mm\") %>","created_date":"<% tp.file.creation_date(\"YYYY, MM/DD\") %>","created_time":"<% tp.file.creation_date(\"HH:mm\") %>","coverImage":null,"header":null,"description":null}}
+{"dg-publish":true,"permalink":"/templates/add-art-entry/","tags":["art","art/IndexCard"],"created":"<% tp.file.creation_date(\"YYYY, MM/DD\") %>","dg-note-properties":{"tags":["art","art/IndexCard"],"tagline":"(empty)","created":"<% tp.file.creation_date(\"YYYY-MM-DD, HH:mm\") %>","created_date":"<% tp.file.creation_date(\"YYYY, MM/DD\") %>","created_time":"<% tp.file.creation_date(\"HH:mm\") %>","coverImage":null,"header":null,"description":null,"thumbnail":null}}
 ---
 
 <%*
 	// Prompt for header
-	let header = await tp.system.prompt('Enter a header / title');
+	let header = await tp.system.prompt('What will you name it? (header)');
 
 	// Prompt for description
 	let description = await tp.system.prompt('Enter single sentence description');
@@ -20,11 +20,11 @@
 	await tp.file.rename(tp.date.now("YYYY-MM-DD-HHmm") + " - " + header);
 %>
 
-# <%- header %>
+
 ---
 Sighted In The Wild:  
 
-
+# <%- header %>
 <%- description %>
 
 

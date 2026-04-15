@@ -4,10 +4,10 @@
 
 
 
-# Embrace the Sweet Things
+
 ---
 ![ws - rappy sweet.png](/img/user/attachments/ws%20-%20rappy%20sweet.png)
-
+# Embrace the Sweet Things
 Left at a favorite diner, inspired by just how sweet the waitstaff there always is to us
 
 
