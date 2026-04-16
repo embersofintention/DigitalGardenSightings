@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +234,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f18d3c83b6e97e7",
+  "active": "28f56bf987464be4",
   "lastOpenFiles": [
     "src/site/notes/Home.md",
     "src/site/notes/Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
