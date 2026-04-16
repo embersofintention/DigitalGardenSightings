@@ -4,13 +4,7 @@
 
 # 4/16 - things
 
-
-Settings are getting nailed down!
-Plugins are plugin-ing! 
-Template does template things!
-Soon enough I'll be able to go through my stash and post these lil guys!
-
-now I'm just messing with the gallery layout and I keep breaking it but ok ffff
+ALMOST THERE FAM I've got so much of this working now
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
 
