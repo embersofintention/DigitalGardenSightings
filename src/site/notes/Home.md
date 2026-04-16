@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","dg-content-classes"],"coverImage":"[attachments/placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)","thumbnail":"[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp](/img/user/attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["pws-tables-cards","dg-css"],"coverImage":"[attachments/placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)","thumbnail":"[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp](/img/user/attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp)"}}
 ---
 
-# 4/15 - ?????????
+# 4/15 - soidfjodsfj
 
 Settings are getting nailed down!
 Plugins are plugin-ing! 
 Template does template things!
 Soon enough I'll be able to go through my stash and post these lil guys!
 
-now I'm just messing with the gallery layout and I keep breaking it but ok
+now I'm just messing with the gallery layout and I keep breaking it but ok ffff
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
 
 
 # Test Gallery
 
-| Preview                                        | Link                                                                                      | info                                                                                                        |
+| Thumbnail                                      | Link                                                                                      | info                                                                                                        |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | ![attachments/ws - zu cool kabab.png\|250](/img/user/attachments/ws%20-%20zu%20cool%20kabab.png)   | **[[Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber\|Zu Cool As A Cucumber]]**       | **2026, 04/11** -- Spotted hangin' on the napkins                                                           |
 | ![attachments/ws - rappy sweet.png\|250](/img/user/attachments/ws%20-%20rappy%20sweet.png)     | **[[Art Posts/2026-04-11-1933 - Embrace the Sweet Things\|Embrace the Sweet Things]]** | **2026, 04/11** -- Left at a favorite diner, inspired by just how sweet the waitstaff there always is to us |
