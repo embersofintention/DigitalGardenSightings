@@ -9,12 +9,7 @@ dg-publish: true
 cssclasses:
   - pws-tables-cards
 ---
-
-
-Dataview Gallery Test, using Jon Lee's Pub Wrap stuff
-
-
-
+# Gallery Title
 ```dataview
 
 TABLE WITHOUT ID 
@@ -23,11 +18,15 @@ EmbededCoverImg
 	as "Preview", 
 
 
-link(file.name) 
+link(file.path, header)
 	  as "Link",
 
-tagline
-	as "tagline"
+"**" + created_date + "**"
+	+ " -- "
+	+ description
+	as "info"
+	
+
 
 
 
@@ -44,12 +43,8 @@ FLATTEN choice(typeof(coverImage)="link",
         )
     ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
 
+
 ```
-
-
-
-
-
 
 
 

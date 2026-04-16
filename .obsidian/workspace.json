@@ -8,44 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c882cf016da01ff1",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Gallery Test.base",
-                "viewName": "Art"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Gallery Test"
-            }
-          },
-          {
             "id": "45ab876dc7a2eb05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test index.md",
+                "file": "Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test index"
-            }
-          },
-          {
-            "id": "dfebb9e1887d3847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Dataview Gallery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test Dataview Gallery"
+              "title": "2026-04-11-1941 - Zu Cool As A Cucumber"
             }
           },
           {
@@ -60,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "add Art Entry"
+            }
+          },
+          {
+            "id": "4f18d3c83b6e97e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ],
@@ -247,49 +234,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45ab876dc7a2eb05",
+  "active": "e7fd5ff66f46f757",
   "lastOpenFiles": [
-    "Test Dataview Gallery.md",
-    "test index.md",
-    "test art/Rappy Placeholder Test Post.md",
+    "src/site/notes/_templates/add Art Entry.md",
+    "src/site/notes/_templates",
+    "src/site/notes/Test Dataview Gallery.md",
+    "src/site/notes/Home.md",
+    "src/site/notes/Art Posts/2026-04-11-1933 - Embrace the Sweet Things.md",
+    "src/site/notes/Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
+    "src/site/notes/Art Posts/2026-04-11-1926 - Breakfast Rappy.md",
+    "src/site/notes/Art Posts/2026-04-11-1536 - rappy smile.md",
+    "src/site/notes/Art Posts",
+    "src/site/logo.svg",
+    "src/site/img/user/attachments/ws - zu cool kabab.png",
+    "src/site/img/user/attachments/ws - rappy sweet.png",
+    "src/site/img/user/attachments/ws - breakfast rappy.png",
+    "Home.md",
     "_templates/add Art Entry.md",
+    "Test Dataview Gallery.md",
+    "attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp",
+    "attachments/placeholder rappy.png",
+    "Art Posts/2026-04-15-1604 - test 6.md",
+    "attachments/thumbnails/resized",
+    "Art Posts/2026-04-15-1603 - test 5.md",
+    "Art Posts/2026-04-15-1602 - test 4.md",
+    "Art Posts/2026-04-15-1601 - test3.md",
+    "Art Posts/2026-04-11-1926 - Breakfast Rappy.md",
+    "Art Posts/2026-04-15-1600 - test1.md",
+    "Art Posts/2026-04-15-1553 - test1.md",
+    "Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
+    "Art Posts/2026-04-11-1933 - Embrace the Sweet Things.md",
+    "Art Posts/2026-04-11-1536 - rappy smile.md",
+    "attachments/thumbnails",
+    "attachments/ws - zu cool kabab.png",
+    "attachments/ws - rappy sweet.png",
+    "Art Posts/2026-04-11-1550 - yellow square.md",
+    "attachments/ws - breakfast rappy.png",
+    "Gallery test - Elegance and Cards.md",
+    "Gallery Test - No Cards.md",
+    "test art/2026-04-11-1915 - header.md",
+    "test art/2026-04-11-1907 - ass.md",
+    "test art/2026-04-11-1906 - test header.md",
+    "attachments/rappy whimsy r2.svg",
     "Gallery Test.base",
-    "attachments/bg/smbg-lines-brown.png",
-    "attachments/bg/smbg-lines-bold.png",
-    "attachments/bg/smbg-lines-yellow.png",
-    "attachments/bg/smbg-lines-dashed.png",
-    "attachments/bg/smbg-lines1.png",
-    "attachments/bg/smbg-cardboard.png",
-    "attachments/bg/bg_paper_cardboard.png",
-    "attachments/bg/bg_paper_sm1.png",
-    "attachments/bg/bg_paper_sm (5).png",
-    "attachments/bg/bg_paper_sm (4).png",
-    "attachments/bg",
-    "src/site/styles/user/pws-tables-cards.css",
-    "src/site/styles/user/New Text Document.txt",
-    "src/site/notes/src/site/notes/test index.md",
+    "src/site/notes/src/site/notes/test art",
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
     "src/site/notes/src",
-    "src/site/notes/src/site/notes/test art/Rappy Smile Test Post.md",
-    "src/site/notes/src/site/notes/test art/Rappy Placeholder Test Post.md",
-    "src/site/notes/src/site/notes/Test Dataview Gallery.md",
-    "src/site/notes/src/site/notes/test art",
-    "src/site/styles/user/flip-cards.css",
-    "src/site/styles/flip-cards.css",
-    "src/site/notes/test index.md",
-    "src/site/notes/test art/Rappy Smile Test Post.md",
-    "src/site/notes/test art/Rappy Placeholder Test Post.md",
-    "src/site/notes/Test Dataview Gallery.md",
-    "test art/Rappy Smile Test Post.md",
-    "src/site/notes/src/site/notes/_templates/_ADD DATE AND TAGLINE STUFF.md",
-    "_templates/_ADD DATE AND TAGLINE STUFF.md",
-    "Untitled.md",
-    "src/site/notes/_templates/_ADD DATE AND TAGLINE STUFF.md",
-    "_templates/add Whimsy Scoundrel.md",
-    "_templates/tag.md",
-    "src/site/notes/src/site/notes/src/site/notes/test index.md",
-    "DigitalGardenSightings/README.md",
-    "DigitalGardenSightings/src/site/random.md"
+    "src/site/img/user/attachments/bg"
   ]
 }

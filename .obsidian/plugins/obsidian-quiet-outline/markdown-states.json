@@ -1,19 +1,19 @@
 {
   "test index.md": {
-    "scroll": 42.4140625,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 50,
-        "ch": 73
+        "line": 8,
+        "ch": 0
       },
       "to": {
-        "line": 50,
-        "ch": 73
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": [
-      "item-2-3",
-      "item-1-0"
+      "item-1-0",
+      "item-2-3"
     ]
   },
   "test art/Apr07 2026 20-19 - Test Art 1.md": {
@@ -31,28 +31,28 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 1.2320328542094456,
+    "scroll": 12.650602409638553,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 10
+        "line": 38,
+        "ch": 0
       },
       "to": {
-        "line": 18,
-        "ch": 10
+        "line": 38,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "test art/Rappy Smile Test Post.md": {
-    "scroll": 5.2383073496659245,
+    "scroll": 13.312857142857142,
     "cursor": {
       "from": {
-        "line": 14,
+        "line": 18,
         "ch": 0
       },
       "to": {
-        "line": 14,
+        "line": 18,
         "ch": 0
       }
     },
@@ -101,15 +101,15 @@
     "expandedKeys": []
   },
   "test art/Rappy Placeholder Test Post.md": {
-    "scroll": 6.332962138084633,
+    "scroll": 8.043875685557587,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 0
+        "line": 16,
+        "ch": 33
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 16,
+        "ch": 33
       }
     },
     "expandedKeys": []
@@ -129,14 +129,14 @@
     "expandedKeys": []
   },
   "Test Dataview Gallery.md": {
-    "scroll": 7.871111111111111,
+    "scroll": 7.589743589743589,
     "cursor": {
       "from": {
-        "line": 15,
+        "line": 49,
         "ch": 0
       },
       "to": {
-        "line": 15,
+        "line": 49,
         "ch": 0
       }
     },
@@ -152,6 +152,492 @@
       "to": {
         "line": 38,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr11 2026 15-28 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr11 2026 15-28 - WS.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr11 2026 15-28 - Rappy Smile.md": {
+    "scroll": 3.7142857142857144,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11_1534 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1536 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 12
+      },
+      "to": {
+        "line": 15,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1550 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 16
+      },
+      "to": {
+        "line": 17,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1550 - yellow square.md": {
+    "scroll": 2.610441767068273,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1536 - rappy smile.md": {
+    "scroll": 8.980083857442349,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled.md": {
+    "scroll": 2.611940298507463,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Alternate Test Gallery.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 46,
+        "ch": 1
+      },
+      "to": {
+        "line": 46,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "Vault.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-3-5"
+    ]
+  },
+  "Home.md": {
+    "scroll": 50.86999877060937,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 0
+      },
+      "to": {
+        "line": 29,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-1-6",
+      "item-3-8",
+      "item-2-7"
+    ]
+  },
+  "subject - Apr11 2026 16-56.md": {
+    "scroll": 2.611940298507463,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Gallery Test - No Cards.md": {
+    "scroll": 4.827493261455525,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Gallery test - Elegance and Cards.md": {
+    "scroll": 2.6490066225165565,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 44
+      },
+      "to": {
+        "line": 9,
+        "ch": 44
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add_thing.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1858 - Art.md": {
+    "scroll": 4.631927212572374,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1906 - test header.md": {
+    "scroll": 5.622489959839357,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 3
+      },
+      "to": {
+        "line": 16,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1907 - ass.md": {
+    "scroll": 5.622489959839357,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1915 - header.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1926 - Breakfast Rappy.md": {
+    "scroll": 19.469137859225324,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 17
+      },
+      "to": {
+        "line": 20,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1550 - yellow square.md": {
+    "scroll": 3.9548192771084336,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1933 - Embrace the Sweet Things.md": {
+    "scroll": 18.553225378285106,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 0
+      },
+      "to": {
+        "line": 25,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md": {
+    "scroll": 1.4023732470334411,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1536 - rappy smile.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1553 - test1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1600 - test1.md": {
+    "scroll": 11.3714859437751,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 30
+      },
+      "to": {
+        "line": 20,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1601 - test3.md": {
+    "scroll": 5.622489959839357,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 20
+      },
+      "to": {
+        "line": 20,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1602 - test 4.md": {
+    "scroll": 8.433734939759036,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1603 - test 5.md": {
+    "scroll": 1.4056224899598393,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1604 - test 6.md": {
+    "scroll": 10.570281124497992,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 60
+      },
+      "to": {
+        "line": 18,
+        "ch": 60
       }
     },
     "expandedKeys": []

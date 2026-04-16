@@ -19,7 +19,7 @@
       "template": "_templates/_ADD DATE AND TAGLINE STUFF.md"
     },
     {
-      "folder": "test art",
+      "folder": "Art Posts",
       "template": "_templates/add Art Entry.md"
     }
   ],
