@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"],"coverImage":"[attachments/placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)","thumbnail":"[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp](/img/user/attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp)"}}
 ---
 
-# 4/15 - it's getting somewhere and I am very excited about this
+# 4/15 - I think the gallery works now egads :D
 
 Settings are getting nailed down!
 Plugins are plugin-ing! 
+Template does template things!
+
 Soon enough I'll be able to go through my stash and post these lil guys!
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
