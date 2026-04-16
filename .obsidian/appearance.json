@@ -1,6 +1,8 @@
 {
   "cssTheme": "",
   "enabledCssSnippets": [
-    "pws-tables-cards"
+    "pws-tables-cards",
+    "minimal-cards",
+    "minimal-img-grid"
   ]
 }
