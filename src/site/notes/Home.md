@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"],"coverImage":"[attachments/placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)","thumbnail":"[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp](/img/user/attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","img-grid"],"coverImage":"[attachments/placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)","thumbnail":"[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp](/img/user/attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp)"}}
 ---
 
 # 4/15 - it's getting somewhere and I am very excited about this
@@ -29,7 +29,7 @@ Wish me luck please, I am clueless but stubborn. :D
 
 ### Formatting
 
-[[Test Dataview Gallery\|Test Dataview Gallery]] <-link
+
 
 > This is a test quote
 
@@ -60,4 +60,5 @@ Just to see if formatting etc can happen and look ok
 #### header 4
 
 ##### header 5
+
 
