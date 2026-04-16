@@ -576,8 +576,7 @@ module.exports = function(eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
-  
-eleventyConfig.addTransform("table", function(str) {
+  eleventyConfig.addTransform("table", function(str) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
     }
@@ -585,8 +584,8 @@ eleventyConfig.addTransform("table", function(str) {
     for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
       let inner = t.innerHTML;
       t.tagName = "div";
-      t.classList.add("cards", "minimal-cards");
-      t.innerHTML = `<div class="table-wrapper"><table>${inner}</table></div>`;
+      t.classList.add("table-wrapper");
+      t.innerHTML = `<table>${inner}</table>`;
     }
 
     for (const t of parsed.querySelectorAll(
