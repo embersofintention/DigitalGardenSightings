@@ -9,16 +9,22 @@ ALMOST THERE FAM I've got so much of this working now
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
 
 
-# Test Gallery
+# Sightings In The Wild
 
-| Thumbnail                                                 | Link                                                                                                        | info                                                                                                            |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![attachments/2026-04-16-1734--Zu Ice Cream 1.jpg\|250](/img/user/attachments/2026-04-16-1734--Zu%20Ice%20Cream%201.jpg) | **[[Sightings In The Wild/2026-04-16 - Ice Cream Zu\|A Shrub Is An Odd Place To Enjoy Ice Cream, Zu!]]** | **2026, 04/16** -- Spotted peeking from a bush outside of a Coldstone Creamery.  I wonder what flavor he's got? |
-| ![attachments/ws - zu cool kabab.png\|250](/img/user/attachments/ws%20-%20zu%20cool%20kabab.png)              | **[[Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber\|Zu Cool As A Cucumber]]**             | **2026, 04/11** -- Spotted hangin' on the napkins                                                               |
-| ![attachments/ws - rappy sweet.png\|250](/img/user/attachments/ws%20-%20rappy%20sweet.png)                | **[[Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things\|Embrace the Sweet Things]]**       | **2026, 04/11** -- Left at a favorite diner, inspired by just how sweet the waitstaff there always is to us     |
-| ![attachments/ws - breakfast rappy.png\|250](/img/user/attachments/ws%20-%20breakfast%20rappy.png)            | **[[Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy\|Breakfast Rappy]]**                         | **2026, 04/11** -- They're hungry too, where's theirs?                                                          |
+
+| Thumbnail                                                 | Link                                                                                                        | info                                                                                                                                                   |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![attachments/2026-04-16--Zu Hanging Out.jpg\|250](/img/user/attachments/2026-04-16--Zu%20Hanging%20Out.jpg)      | **[[Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym\|Zu Found A Playground]]**           | **2026, 04/16** -- Looks like he's having a good time hangin' out with the hot sauce guy.  Think tortilla chips would work like a ball pit to play in? |
+| ![attachments/2026-04-16-1734--Zu Ice Cream 1.jpg\|250](/img/user/attachments/2026-04-16-1734--Zu%20Ice%20Cream%201.jpg) | **[[Sightings In The Wild/2026-04-16 - Ice Cream Zu\|A Shrub Is An Odd Place To Enjoy Ice Cream, Zu!]]** | **2026, 04/16** -- Spotted peeking from a bush outside of a Coldstone Creamery.  I wonder what flavor he's got?                                        |
+| ![attachments/ws - zu cool kabab.png\|250](/img/user/attachments/ws%20-%20zu%20cool%20kabab.png)              | **[[Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber\|Zu Cool As A Cucumber]]**             | **2026, 04/11** -- Spotted hangin' on the napkins                                                                                                      |
+| ![attachments/ws - rappy sweet.png\|250](/img/user/attachments/ws%20-%20rappy%20sweet.png)                | **[[Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things\|Embrace the Sweet Things]]**       | **2026, 04/11** -- Left at a favorite diner, inspired by just how sweet the waitstaff there always is to us                                            |
+| ![attachments/ws - breakfast rappy.png\|250](/img/user/attachments/ws%20-%20breakfast%20rappy.png)            | **[[Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy\|Breakfast Rappy]]**                         | **2026, 04/11** -- They're hungry too, where's theirs?                                                                                                 |
 
 { .block-language-dataview}
+
+
+
+
 
 ## Goals:
 Once everything is connected properly and stuff publishes, here are the next orders of business:
