@@ -17,7 +17,6 @@ ALMOST THERE FAM I've got so much of this working now
 | ![attachments/ws - zu cool kabab.png\|250](/img/user/attachments/ws%20-%20zu%20cool%20kabab.png)              | **[[Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber\|Zu Cool As A Cucumber]]**             | **2026, 04/11** -- Spotted hangin' on the napkins                                                               |
 | ![attachments/ws - rappy sweet.png\|250](/img/user/attachments/ws%20-%20rappy%20sweet.png)                | **[[Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things\|Embrace the Sweet Things]]**       | **2026, 04/11** -- Left at a favorite diner, inspired by just how sweet the waitstaff there always is to us     |
 | ![attachments/ws - breakfast rappy.png\|250](/img/user/attachments/ws%20-%20breakfast%20rappy.png)            | **[[Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy\|Breakfast Rappy]]**                         | **2026, 04/11** -- They're hungry too, where's theirs?                                                          |
-| ![attachments/rappy smile png.png\|250](/img/user/attachments/rappy%20smile%20png.png)                 | **[[Sightings In The Wild/2026-04-11-1536 - rappy smile\|Rappy Smile]]**                                 | **2026, 04/11** -- a large placeholder image                                                                    |
 
 { .block-language-dataview}
 
