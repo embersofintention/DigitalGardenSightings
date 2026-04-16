@@ -31,7 +31,6 @@ dg-publish:
 %>
 
 
----
 Sighted In The Wild:  
 
 # <%- header %>

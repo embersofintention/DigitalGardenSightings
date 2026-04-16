@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,15 +234,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7fd5ff66f46f757",
+  "active": "28f56bf987464be4",
   "lastOpenFiles": [
+    "src/site/notes/Home.md",
+    "README.md",
+    "src/site/notes/Test Dataview Gallery.md",
+    "Home.md",
+    "Test Dataview Gallery.md",
+    "_templates/add Art Entry.md",
     "src/site/styles/user/minimal-img-grid.css",
     "src/site/styles/user/New Text Document.txt",
     "src/site/styles/user/minimal-cards.css",
     "src/site/notes/_templates/add Art Entry.md",
     "src/site/notes/_templates",
-    "src/site/notes/Test Dataview Gallery.md",
-    "src/site/notes/Home.md",
     "src/site/notes/Art Posts/2026-04-11-1933 - Embrace the Sweet Things.md",
     "src/site/notes/Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
     "src/site/notes/Art Posts/2026-04-11-1926 - Breakfast Rappy.md",
@@ -252,9 +256,6 @@
     "src/site/img/user/attachments/ws - zu cool kabab.png",
     "src/site/img/user/attachments/ws - rappy sweet.png",
     "src/site/img/user/attachments/ws - breakfast rappy.png",
-    "Home.md",
-    "_templates/add Art Entry.md",
-    "Test Dataview Gallery.md",
     "attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp",
     "attachments/placeholder rappy.png",
     "Art Posts/2026-04-15-1604 - test 6.md",
@@ -280,7 +281,6 @@
     "attachments/rappy whimsy r2.svg",
     "Gallery Test.base",
     "src/site/notes/src/site/notes/test art",
-    "src/site/notes/src/site/notes",
-    "src/site/notes/src/site"
+    "src/site/notes/src/site/notes"
   ]
 }

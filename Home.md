@@ -15,39 +15,8 @@ Soon enough I'll be able to go through my stash and post these lil guys!
 ![[placeholder rappy.png]]
 
 
-## Goals:
-Once everything is connected properly and stuff publishes, here are the next orders of business:
-* *add the actual art lol*
-* Make the site pretty with a snazzy layout
+# Test Gallery
 
-## Steps to get there: 
-* adding the plugins I use for general working-on-stuff-in-Obsidian
-* Setting up to sync between local devices, so I can add art from wherever (heck yeah)
-* changing vault settings so a few of the defaults don't drive me nuts
-* other stuff but for now let's just see if this publishes
-
-Wish me luck please, I am clueless but stubborn. :D
-
-
-## Testing Various Stuff:
-
-### Formatting
-
-[[Test Dataview Gallery]] <-link
-
-> This is a test quote
-
-- [ ] This is a test checkbox
-- [x] And this one's checked
-
-```
-oh hey look! A test code block!
-```
-
-
-### Test Gallery
-
-Just to see if formatting etc can happen and look ok
 ```dataview
 
 TABLE WITHOUT ID 
@@ -81,6 +50,39 @@ FLATTEN choice(typeof(coverImage)="link",
 
 
 ```
+
+## Goals:
+Once everything is connected properly and stuff publishes, here are the next orders of business:
+* *add the actual art lol*
+* Make the site pretty with a snazzy layout
+
+## Steps to get there: 
+* adding the plugins I use for general working-on-stuff-in-Obsidian
+* Setting up to sync between local devices, so I can add art from wherever (heck yeah)
+* changing vault settings so a few of the defaults don't drive me nuts
+* other stuff but for now let's just see if this publishes
+
+Wish me luck please, I am clueless but stubborn. :D
+
+
+## Testing Various Stuff:
+
+### Formatting
+
+
+
+> This is a test quote
+
+- [ ] This is a test checkbox
+- [x] And this one's checked
+
+```
+oh hey look! A test code block!
+```
+
+
+
+
 # header 1
 ## header 2
 
@@ -89,4 +91,5 @@ FLATTEN choice(typeof(coverImage)="link",
 #### header 4
 
 ##### header 5
+
 
