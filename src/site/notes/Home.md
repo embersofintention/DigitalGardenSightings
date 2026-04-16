@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["pws-tables-cards","dg-css"],"coverImage":"[attachments/placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)","thumbnail":"[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp](/img/user/attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"],"coverImage":"[attachments/placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)","thumbnail":"[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp](/img/user/attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp)"}}
 ---
 
-# 4/15 - soidfjodsfj
+# 4/16 - attempt
+
 
 Settings are getting nailed down!
 Plugins are plugin-ing! 
