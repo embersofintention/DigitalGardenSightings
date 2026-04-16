@@ -31,7 +31,7 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 14.166666666666666,
+    "scroll": 8.383149448345035,
     "cursor": {
       "from": {
         "line": 33,
@@ -329,14 +329,14 @@
     ]
   },
   "Home.md": {
-    "scroll": 39.78189060880004,
+    "scroll": 18.795572916666668,
     "cursor": {
       "from": {
-        "line": 13,
+        "line": 15,
         "ch": 0
       },
       "to": {
-        "line": 13,
+        "line": 15,
         "ch": 0
       }
     },
