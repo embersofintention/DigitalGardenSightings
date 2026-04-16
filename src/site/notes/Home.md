@@ -7,7 +7,6 @@
 Settings are getting nailed down!
 Plugins are plugin-ing! 
 Template does template things!
-
 Soon enough I'll be able to go through my stash and post these lil guys!
 
 ![placeholder rappy.png](/img/user/attachments/placeholder%20rappy.png)
