@@ -329,22 +329,18 @@
     ]
   },
   "Home.md": {
-    "scroll": 28.60639903959838,
+    "scroll": 22.00120050202812,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 30
+        "line": 15,
+        "ch": 44
       },
       "to": {
-        "line": 12,
-        "ch": 30
+        "line": 15,
+        "ch": 44
       }
     },
     "expandedKeys": [
-      "item-4-9",
-      "item-3-8",
-      "item-2-7",
-      "item-1-6",
       "item-2-4",
       "item-1-1"
     ]
@@ -644,6 +640,20 @@
     "expandedKeys": []
   },
   "src/site/notes/Test Dataview Gallery.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "src/site/notes/Home.md": {
     "scroll": 0,
     "cursor": {
       "from": {

@@ -6,12 +6,14 @@ cssclasses:
 coverImage: "[[attachments/placeholder rappy.png]]"
 thumbnail: "[[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp]]"
 ---
-# 4/15 - I think the gallery works now egads :D
+# 4/15 - I think the gallery works now??????
 
 Settings are getting nailed down!
 Plugins are plugin-ing! 
 Template does template things!
 Soon enough I'll be able to go through my stash and post these lil guys!
+
+now I'm just messing with the gallery layout
 
 ![[placeholder rappy.png]]
 

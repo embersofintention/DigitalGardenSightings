@@ -585,7 +585,7 @@ eleventyConfig.addTransform("table", function(str) {
     for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
       let inner = t.innerHTML;
       t.tagName = "div";
-      t.classList.add("minimal-cards", "cards");
+      t.classList.add("cards", "minimal-cards");
       t.innerHTML = `<div class="table-wrapper"><table>${inner}</table></div>`;
     }
 
