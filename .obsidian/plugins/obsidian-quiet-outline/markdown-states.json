@@ -31,15 +31,15 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 8.383149448345035,
+    "scroll": 12.621951219512194,
     "cursor": {
       "from": {
-        "line": 33,
-        "ch": 22
+        "line": 41,
+        "ch": 0
       },
       "to": {
-        "line": 33,
-        "ch": 22
+        "line": 41,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -329,20 +329,24 @@
     ]
   },
   "Home.md": {
-    "scroll": 22.00120050202812,
+    "scroll": 5,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 44
+        "line": 9,
+        "ch": 15
       },
       "to": {
-        "line": 15,
-        "ch": 44
+        "line": 9,
+        "ch": 15
       }
     },
     "expandedKeys": [
+      "item-1-1",
       "item-2-4",
-      "item-1-1"
+      "item-2-7",
+      "item-1-6",
+      "item-4-9",
+      "item-3-8"
     ]
   },
   "subject - Apr11 2026 16-56.md": {
@@ -486,15 +490,15 @@
     "expandedKeys": []
   },
   "Art Posts/2026-04-11-1926 - Breakfast Rappy.md": {
-    "scroll": 19.469137859225324,
+    "scroll": 9.869608826479439,
     "cursor": {
       "from": {
-        "line": 20,
-        "ch": 17
+        "line": 15,
+        "ch": 0
       },
       "to": {
-        "line": 20,
-        "ch": 17
+        "line": 15,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -662,6 +666,20 @@
       },
       "to": {
         "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "src/site/_includes/components/user/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

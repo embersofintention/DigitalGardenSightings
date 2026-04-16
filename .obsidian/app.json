@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "showUnsupportedFiles": true
 }

@@ -14,9 +14,6 @@ image_path:
 dg-publish: true
 ---
 
-
-
----
 ![[ws - breakfast rappy.png]]
 # Breakfast Rappy
 Hold some food up to your screen really close so they can have some, won't you?? Pleeeeease?

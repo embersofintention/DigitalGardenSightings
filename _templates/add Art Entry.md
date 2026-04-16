@@ -11,6 +11,7 @@ header:
 description:
 thumbnail:
 dg-publish:
+dg-content-classes: cards
 ---
 <%*
 	// Prompt for header
@@ -29,9 +30,8 @@ dg-publish:
 	//Rename the file with date and header
 	await tp.file.rename(tp.date.now("YYYY-MM-DD-HHmm") + " - " + header);
 %>
-
-
 Sighted In The Wild:  
+
 
 # <%- header %>
 

@@ -5,15 +5,17 @@ cssclasses:
   - cards
 coverImage: "[[attachments/placeholder rappy.png]]"
 thumbnail: "[[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp]]"
+dg-content-classes: cards
 ---
-# 4/15 - I think the gallery works now??????
+# 4/16 - things
+
 
 Settings are getting nailed down!
 Plugins are plugin-ing! 
 Template does template things!
 Soon enough I'll be able to go through my stash and post these lil guys!
 
-now I'm just messing with the gallery layout
+now I'm just messing with the gallery layout and I keep breaking it but ok ffff
 
 ![[placeholder rappy.png]]
 
@@ -25,7 +27,7 @@ now I'm just messing with the gallery layout
 TABLE WITHOUT ID 
 
 EmbededCoverImg 
-	as "Preview", 
+	as "Thumbnail", 
 
 
 "**" + link(file.path, header) + "**"
