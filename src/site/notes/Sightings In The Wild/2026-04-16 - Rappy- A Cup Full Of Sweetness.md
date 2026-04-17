@@ -20,5 +20,6 @@ WhenI asked the nice folks behind the counter for an empty cup "for a silly art 
 ---
 ## Other Critters In The Cup
 Made by other folks there
-![2026-04-16-194857--WS.jpg](/img/user/attachments/2026-04-16-194857--WS.jpg)
+![2026-04-16-194857--WS.jpg](/img/user/attachments/2026-04-16-194857--WS.jpg) Shuga the Star-Nosed Mole
 ![2026-04-16-194915--WS.jpg](/img/user/attachments/2026-04-16-194915--WS.jpg)
+Clovis
