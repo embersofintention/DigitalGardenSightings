@@ -7,7 +7,7 @@ coverImage: "[[attachments/rappy smile png.png]]"
 thumbnail: "[[attachments/thumbnails/resized/b4acf603be96c762d06b7bc5d7ece9d1_86cf658e.webp]]"
 dg-content-classes: cards
 ---
-# The Most Whimsical Form of Vandalism!
+# Have some things!
 ---
 
 Welcome to **Whimsy Scoundrel**: a silly little project by LvK!
