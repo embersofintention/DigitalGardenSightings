@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45ab876dc7a2eb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-11-1941 - Zu Cool As A Cucumber"
-            }
-          },
-          {
             "id": "e7fd5ff66f46f757",
             "type": "leaf",
             "state": {
@@ -41,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-04-18 - Misc Foxes- Soda Fox"
+            }
+          },
+          {
+            "id": "ff6329209709cbbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-17 - Zu- Whimsy at a Brewhouse"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -104,7 +104,7 @@
             }
           },
           {
-            "id": "75555c2f91f03632",
+            "id": "22fa18452243b927",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DigitalGardenSightings/Vault.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vault"
+              "title": "Outline of Home"
             }
           },
           {
@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,53 +234,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "928dbac7f5e80e9f",
+  "active": "4f18d3c83b6e97e7",
   "lastOpenFiles": [
-    "src/site/styles/user/image-zoom.scss",
-    "src/site/styles/user/Unconfirmed 110413.crdownload",
-    "src/site/notes/Home.md",
-    "src/site/notes/Art Posts/2026-04-11-1926 - Breakfast Rappy.md",
-    "src/site/notes/Art Posts",
-    "src/site/styles/user/cards.scss",
-    "src/site/styles/user/Unconfirmed 901036.crdownload",
-    "src/site/_includes/components/user/common/head",
-    "src/site/_includes/components/user/common",
-    "src/site/_includes/components/user/Untitled.md",
     "Home.md",
-    "src/site/_includes/components/user",
-    "_templates/add Art Entry.md",
-    "Art Posts/2026-04-11-1926 - Breakfast Rappy.md",
-    "src/site/notes/Art Posts/2026-04-11-1933 - Embrace the Sweet Things.md",
-    "src/site/notes/Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
-    "src/site/notes/Art Posts/2026-04-11-1536 - rappy smile.md",
-    "README.md",
-    "src/site/notes/Test Dataview Gallery.md",
-    "Test Dataview Gallery.md",
-    "src/site/styles/user/minimal-img-grid.css",
+    "src/site/styles/user/img-grid-web.scss",
     "src/site/styles/user/New Text Document.txt",
-    "src/site/styles/user/minimal-cards.css",
-    "src/site/notes/_templates/add Art Entry.md",
-    "src/site/logo.svg",
-    "src/site/img/user/attachments/ws - zu cool kabab.png",
-    "src/site/img/user/attachments/ws - rappy sweet.png",
-    "src/site/img/user/attachments/ws - breakfast rappy.png",
-    "attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp",
-    "attachments/placeholder rappy.png",
-    "Art Posts/2026-04-15-1604 - test 6.md",
-    "Art Posts/2026-04-15-1603 - test 5.md",
-    "Art Posts/2026-04-15-1602 - test 4.md",
-    "Art Posts/2026-04-15-1601 - test3.md",
-    "Art Posts/2026-04-15-1600 - test1.md",
-    "Art Posts/2026-04-15-1553 - test1.md",
-    "Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md",
-    "Art Posts/2026-04-11-1933 - Embrace the Sweet Things.md",
-    "Art Posts/2026-04-11-1536 - rappy smile.md",
-    "attachments/ws - zu cool kabab.png",
-    "attachments/ws - rappy sweet.png",
-    "Art Posts/2026-04-11-1550 - yellow square.md",
-    "attachments/ws - breakfast rappy.png",
-    "Gallery test - Elegance and Cards.md",
-    "Gallery Test - No Cards.md",
-    "attachments/rappy whimsy r2.svg"
+    "Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
+    "attachments/thumbnails/resized/2026-04-18 - Misc Foxes- Soda Fox-1.webp",
+    "attachments/2026-04-18 - Misc Foxes- Soda Fox-3.png",
+    "attachments/2026-04-18 - Misc Foxes- Soda Fox-2.png",
+    "attachments/thumbnails/resized/2026-04-18 - Misc Foxes- Soda Fox-1.webp",
+    "attachments/2026-04-18 - Misc Foxes- Soda Fox-1.png",
+    "Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
+    "Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
+    "attachments/2026-04-17 - Zu- Sugar Bath of Luxury-3.png",
+    "attachments/2026-04-17 - Zu- Sugar Bath of Luxury-2.png",
+    "attachments/thumbnails/resized/2026-04-17 - Zu- Sugar Bath of Luxury-1.webp",
+    "attachments/2026-04-17 - Zu- Sugar Bath of Luxury-1.png",
+    "Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md",
+    "attachments/2026-04-17 - Phaedra- Prickly And Sweet-2.png",
+    "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
+    "Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
+    "Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md",
+    "Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
+    "Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
+    "Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md",
+    "Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md",
+    "Sightings In The Wild/2026-04-16 - Ice Cream Zu.md",
+    "Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md",
+    "Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
+    "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
+    "_templates/add Art Entry.md",
+    "attachments/pasted and unsorted",
+    "Tags/#rappy",
+    "Tags/#zu",
+    "--DASHBOARD--.md",
+    "_templates/add Whimsy Scoundrel.md",
+    "Sightings In The Wild/2026-04-16 - aosjfidsaodjf.md",
+    "_templates/tag Zu.md",
+    "Sightings In The Wild/2026-04-16 - test1.md",
+    "Tags/#character+zu",
+    "Sightings - backlog/2026-04-16 - null.md",
+    "Sightings - backlog/2026-04-16 - saff.md",
+    "Sightings - backlog/2026-04-16 - piss.md",
+    "Tags/#art+whimsyscoundrel",
+    "Tags/#art",
+    "Sightings - backlog",
+    "src/site/styles/user/image-grid.scss"
   ]
 }

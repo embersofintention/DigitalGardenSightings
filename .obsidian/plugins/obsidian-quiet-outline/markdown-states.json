@@ -31,14 +31,14 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 12.621951219512194,
+    "scroll": 3.219269102990033,
     "cursor": {
       "from": {
-        "line": 41,
+        "line": 58,
         "ch": 0
       },
       "to": {
-        "line": 41,
+        "line": 58,
         "ch": 0
       }
     },
@@ -269,7 +269,7 @@
     "expandedKeys": []
   },
   "Untitled.md": {
-    "scroll": 2.611940298507463,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 0,
@@ -329,24 +329,20 @@
     ]
   },
   "Home.md": {
-    "scroll": 5,
+    "scroll": 31.595052083333332,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 15
+        "line": 13,
+        "ch": 79
       },
       "to": {
-        "line": 9,
-        "ch": 15
+        "line": 13,
+        "ch": 79
       }
     },
     "expandedKeys": [
-      "item-1-1",
-      "item-2-4",
-      "item-2-7",
-      "item-1-6",
-      "item-4-9",
-      "item-3-8"
+      "item-1-5",
+      "item-2-6"
     ]
   },
   "subject - Apr11 2026 16-56.md": {
@@ -532,7 +528,7 @@
     "expandedKeys": []
   },
   "Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md": {
-    "scroll": 1.4023732470334411,
+    "scroll": 13.5,
     "cursor": {
       "from": {
         "line": 15,
@@ -681,6 +677,402 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16-1739 - Zu Ice Cream 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 0
+      },
+      "to": {
+        "line": 26,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md": {
+    "scroll": 18.007152322109935,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Whimsy Scoundrel.md": {
+    "scroll": 12.290748898678414,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 2
+      },
+      "to": {
+        "line": 49,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Ice Cream Zu.md": {
+    "scroll": 6.684897959183673,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 56
+      },
+      "to": {
+        "line": 29,
+        "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1536 - rappy smile.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--DASHBOARD--.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings - backlog/2026-04-16 - Ice Cream Zu.md": {
+    "scroll": 7.396193771626297,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 41
+      },
+      "to": {
+        "line": 21,
+        "ch": 41
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag Zu.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings - backlog/2026-04-16 - piss.md": {
+    "scroll": 1.5859030837004404,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings - backlog/2026-04-16 - saff.md": {
+    "scroll": 1.5859030837004404,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - test1.md": {
+    "scroll": 5.022026431718062,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - aosjfidsaodjf.md": {
+    "scroll": 12.78942731277533,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings - backlog/2026-04-11-1926 - Breakfast Rappy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md": {
+    "scroll": 16.460176991150444,
+    "cursor": {
+      "from": {
+        "line": 27,
+        "ch": 75
+      },
+      "to": {
+        "line": 27,
+        "ch": 75
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md": {
+    "scroll": 8.587665198237886,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 30
+      },
+      "to": {
+        "line": 22,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md": {
+    "scroll": 9.74273127753304,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 30
+      },
+      "to": {
+        "line": 22,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md": {
+    "scroll": 23.41870498876257,
+    "cursor": {
+      "from": {
+        "line": 40,
+        "ch": 6
+      },
+      "to": {
+        "line": 40,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md": {
+    "scroll": 24.644912757761162,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 0
+      },
+      "to": {
+        "line": 28,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md": {
+    "scroll": 10.016611295681063,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md": {
+    "scroll": 10.59647577092511,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 42
+      },
+      "to": {
+        "line": 22,
+        "ch": 42
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md": {
+    "scroll": 28.110712756000446,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 49
+      },
+      "to": {
+        "line": 28,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md": {
+    "scroll": 4.513540621865597,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md": {
+    "scroll": 23.223436106510384,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 50
+      },
+      "to": {
+        "line": 23,
+        "ch": 50
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 39,
+        "ch": 27
+      },
+      "to": {
+        "line": 39,
+        "ch": 27
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md": {
+    "scroll": 13.108490566037736,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 44
+      },
+      "to": {
+        "line": 23,
+        "ch": 44
       }
     },
     "expandedKeys": []

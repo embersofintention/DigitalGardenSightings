@@ -3,24 +3,42 @@ dg-home: true
 dg-publish: true
 cssclasses:
   - cards
-coverImage: "[[attachments/placeholder rappy.png]]"
-thumbnail: "[[attachments/thumbnails/resized/db79e302df68799c485f3c2c5dc3be02_86cf658e.webp]]"
+coverImage: "[[attachments/rappy smile png.png]]"
+thumbnail: "[[attachments/thumbnails/resized/b4acf603be96c762d06b7bc5d7ece9d1_86cf658e.webp]]"
 dg-content-classes: cards
 ---
-# 4/16 - things
+# The Most Whimsical Form of Vandalism!
+---
+
+Welcome to **Whimsy Scoundrel**: a silly little project by LvK!
+I'll add more proper text later on, but for now let's get some placeholder info going...
+![[attachments/rappy smile png.png|286]]
+## So What is a Whimsy Scoundrel?
+
+* This is the name I've given to my little **index card cutout characters** that I leave about town for folks to find.  
+
+## And Who is LvK?
+
+* That's me! Hi!  
+* I'm the artist, and the goofball behind these silly lil' pals.  
+* A very friendly dude with a colorful hobby
+
+## But Who are these little critters?
+
+* Most of the lil' guys I leave about are one of two characters:  
+
+	* Rapscallien / "Rappy" -- the sweet little lion-adjacent critter
+	* Zu Nug -- the mischief-making cat, and personal character of my wonderful partner
 
 
-Settings are getting nailed down!
-Plugins are plugin-ing! 
-Template does template things!
-Soon enough I'll be able to go through my stash and post these lil guys!
-
-now I'm just messing with the gallery layout and I keep breaking it but ok ffff
-
-![[placeholder rappy.png]]
 
 
-# Test Gallery
+
+# Sightings In The Wild
+---
+Here are some of the lil' guys I've left around town for folks to find!
+
+Have you spotted any of these?
 
 ```dataview
 
@@ -36,13 +54,19 @@ EmbededCoverImg
 "**" + created_date + "**"
 	+ " -- "
 	+ description
-	as "info"
+	as "info",
+
+"**Left at**"
+	+ ": "
+	+ leftAt
+	as "Left At"
 
 
 
 
-FROM "Art Posts" AND !"_Templates" AND !"index"
-SORT created_date
+FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+SORT created_date DESC
+
 
 WHERE file.name != this.file.name AND coverImage
 FLATTEN choice(typeof(coverImage)="link",
@@ -56,19 +80,13 @@ FLATTEN choice(typeof(coverImage)="link",
 
 ```
 
-## Goals:
-Once everything is connected properly and stuff publishes, here are the next orders of business:
-* *add the actual art lol*
-* Make the site pretty with a snazzy layout
 
-## Steps to get there: 
-* adding the plugins I use for general working-on-stuff-in-Obsidian
-* Setting up to sync between local devices, so I can add art from wherever (heck yeah)
-* changing vault settings so a few of the defaults don't drive me nuts
-* other stuff but for now let's just see if this publishes
 
-Wish me luck please, I am clueless but stubborn. :D
 
+
+
+# Please Note:  This is a work in progress!!
+---
 
 ## Testing Various Stuff:
 

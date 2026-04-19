@@ -1,6 +1,6 @@
 {
   "githubRepo": "DigitalGardenSightings",
-  "githubToken": "",
+  "githubToken": "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",
   "githubUserName": "embersofintention",
   "gardenBaseUrl": "https://whimsyscoundrel.neocities.org",
   "prHistory": [
@@ -32,7 +32,7 @@
   "pathRewriteRules": "",
   "customFilters": [],
   "publishPlatform": "SelfHosted",
-  "contentClassesKey": "dg-content-classes",
+  "contentClassesKey": "cssclasses",
   "forestrySettings": {
     "forestryPageName": "",
     "apiKey": "",
@@ -41,9 +41,9 @@
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,
-    "dgShowBacklinks": true,
+    "dgShowBacklinks": false,
     "dgShowLocalGraph": false,
-    "dgShowInlineTitle": false,
+    "dgShowInlineTitle": true,
     "dgShowFileTree": true,
     "dgEnableSearch": true,
     "dgShowToc": true,

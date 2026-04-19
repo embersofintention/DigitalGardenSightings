@@ -3,6 +3,7 @@
   "enabledCssSnippets": [
     "pws-tables-cards",
     "minimal-cards",
-    "minimal-img-grid"
+    "minimal-img-grid",
+    "image-grid"
   ]
 }

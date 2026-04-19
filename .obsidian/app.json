@@ -4,5 +4,5 @@
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
   "showLineNumber": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false
 }
