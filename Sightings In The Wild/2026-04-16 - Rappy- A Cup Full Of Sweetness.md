@@ -9,8 +9,8 @@ tagline: (empty)
 created: 2026-04-16, 19:42
 created_date: 2026, 04/16
 created_time: 19:42
-coverImage: "[[attachments/2026-04-16-194236--WS.jpg]]"
-thumbnail: "[[attachments/thumbnails/resized/3082d27da15eb0aef24e7845058c6c63_86cf658e.webp]]"
+coverImage: "[[attachments/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png]]"
+thumbnail: "[[attachments/thumbnails/resized/30b8b7a4d88592073898913f8e98c562_86cf658e.webp]]"
 dg-publish: true
 dg-content-classes: cards, img-grid
 cssclasses:
@@ -20,6 +20,7 @@ leftAt: Panera in West Warwick
 ---
 
 Sighted In The Wild:  
+![[2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png]]
 ![[2026-04-16-194236--WS.jpg]]
 ![[2026-04-16-194729--WS.jpg]]
 # A Cup Full Of Sweetness

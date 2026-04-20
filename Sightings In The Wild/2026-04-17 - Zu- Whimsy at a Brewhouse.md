@@ -21,7 +21,7 @@ cssclasses:
 
 Sighted In The Wild:  
 ![[2026-04-17 - Zu- Whimsy at a Brewhouse-1.png]]
-![[2026-04-17 - Zu- Whimsy at a Brewhouse-2.png]]
+![[attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-2.png]]
 ![[2026-04-17 - Zu- Whimsy at a Brewhouse-3.png]]
 ![[2026-04-17 - Zu- Whimsy at a Brewhouse-4.png]]
 ![[2026-04-17 - Zu- Whimsy at a Brewhouse-5.png]]

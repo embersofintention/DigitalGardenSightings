@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-11-1926 - Breakfast Rappy"
+            }
+          },
+          {
+            "id": "ff6329209709cbbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Home.md",
                 "mode": "source",
                 "source": false
@@ -36,21 +50,21 @@
             }
           },
           {
-            "id": "ff6329209709cbbf",
+            "id": "a85f253ef6d1c351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
+                "file": "_templates/tag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-17 - Zu- Whimsy at a Brewhouse"
+              "title": "tag"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +118,7 @@
             }
           },
           {
-            "id": "22fa18452243b927",
+            "id": "69f6beed6ed3cd73",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -234,53 +248,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f18d3c83b6e97e7",
+  "active": "ff6329209709cbbf",
   "lastOpenFiles": [
-    "Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
-    "_templates/add Art Entry.md",
+    "src/site/notes/Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md",
     "src/site/notes/Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
-    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
-    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md",
+    "src/site/notes/Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
+    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md",
+    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Ice Cream Zu.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md",
     "src/site/notes/Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md",
+    "src/site/notes/Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md",
+    "src/site/notes/Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
     "src/site/notes/Sightings In The Wild",
     "src/site/notes/Home.md",
-    "src/site/img/user/attachments/pasted and unsorted/Pasted image 20260416195633.png",
-    "src/site/img/user/attachments/pasted and unsorted/2026-04-18 - Misc Foxes- Soda Fox-1.png",
-    "src/site/img/user/attachments/pasted and unsorted",
-    "src/site/img/user/attachments/2026-04-18 - Misc Foxes- Soda Fox-3.png",
-    "src/site/img/user/attachments/2026-04-18 - Misc Foxes- Soda Fox-2.png",
-    "src/site/img/user/attachments/2026-04-18 - Misc Foxes- Soda Fox-1.png",
-    "src/site/img/user/attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-7.png",
-    "src/site/img/user/attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-6.png",
-    "src/site/img/user/attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-5.png",
-    "src/site/img/user/attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-4.png",
-    "src/site/img/user/attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-3.png",
+    "src/site/img/user/attachments/pasted and unsorted/Pasted image 20260416195838.png",
+    "src/site/img/user/attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-4.png",
+    "src/site/img/user/attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.png",
+    "src/site/img/user/attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-2.png",
+    "src/site/img/user/attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-1.png",
+    "src/site/img/user/attachments/Home-3.png",
+    "src/site/img/user/attachments/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.png",
+    "src/site/img/user/attachments/Home-2.png",
+    "src/site/img/user/attachments/Home-1.jpg",
+    "src/site/img/user/attachments/Home-1.png",
+    "Sightings In The Wild/2026-04-20 - - test 1.md",
     "Home.md",
+    "--List--  DigitalGardenSightings.md",
+    "--List-- Sightings In The Wild.md",
+    "Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
+    "Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md",
+    "src/--List--  src.md",
+    "--Index - DigitalGardenSightings.md",
+    "Tags/#phaedra",
+    "src/site/img/user/attachments/pasted and unsorted",
     "src/site/styles/user/img-grid-web.scss",
     "src/site/styles/user/New Text Document.txt",
-    "Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
-    "Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
-    "Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md",
-    "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
-    "Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
-    "Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md",
-    "Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
     "attachments/pasted and unsorted",
     "Tags/#rappy",
     "Tags/#zu",
     "Tags/#character+zu",
-    "Tags/#art+whimsyscoundrel",
-    "Tags/#art"
+    "Tags/#art+whimsyscoundrel"
   ]
 }

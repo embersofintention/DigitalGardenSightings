@@ -329,19 +329,24 @@
     ]
   },
   "Home.md": {
-    "scroll": 6.572834645669292,
+    "scroll": 86.38151041666667,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 62
+        "line": 113,
+        "ch": 12
       },
       "to": {
-        "line": 13,
-        "ch": 62
+        "line": 113,
+        "ch": 12
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-2-6",
+      "item-1-5",
+      "item-3-10",
+      "item-2-9",
+      "item-1-8",
+      "item-4-11"
     ]
   },
   "subject - Apr11 2026 16-56.md": {
@@ -765,18 +770,21 @@
     "expandedKeys": []
   },
   "--DASHBOARD--.md": {
-    "scroll": 0,
+    "scroll": 0.5021582733812949,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 0
+        "line": 4,
+        "ch": 24
       },
       "to": {
-        "line": 10,
-        "ch": 0
+        "line": 4,
+        "ch": 24
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-2",
+      "item-1-0"
+    ]
   },
   "Sightings - backlog/2026-04-16 - Ice Cream Zu.md": {
     "scroll": 7.396193771626297,
@@ -933,18 +941,20 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md": {
-    "scroll": 23.41870498876257,
+    "scroll": 19.0531561461794,
     "cursor": {
       "from": {
-        "line": 40,
-        "ch": 6
+        "line": 22,
+        "ch": 54
       },
       "to": {
-        "line": 40,
-        "ch": 6
+        "line": 22,
+        "ch": 54
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md": {
     "scroll": 24.644912757761162,
@@ -991,14 +1001,14 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md": {
-    "scroll": 28.110712756000446,
+    "scroll": 25.774382198185283,
     "cursor": {
       "from": {
-        "line": 28,
+        "line": 22,
         "ch": 49
       },
       "to": {
-        "line": 28,
+        "line": 22,
         "ch": 49
       }
     },
@@ -1019,7 +1029,7 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md": {
-    "scroll": 4.513540621865597,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 16,
@@ -1063,7 +1073,7 @@
     ]
   },
   "Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md": {
-    "scroll": 5.547169811320755,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 23,
@@ -1072,6 +1082,291 @@
       "to": {
         "line": 23,
         "ch": 44
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 0
+      },
+      "to": {
+        "line": 33,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - Phaedra- Prickles and Waffles.md": {
+    "scroll": 6.3754152823920265,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 0
+      },
+      "to": {
+        "line": 32,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag - Rappy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag - Zu.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - - test Rapscallien Post.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - - test 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--DASHBOARD WIP--.md": {
+    "scroll": 0.4672897196261682,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 0
+      },
+      "to": {
+        "line": 48,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-2",
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/--DASHBOARD WIP--.md": {
+    "scroll": 32.442708333333336,
+    "cursor": {
+      "from": {
+        "line": 50,
+        "ch": 0
+      },
+      "to": {
+        "line": 50,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-2"
+    ]
+  },
+  "Sightings In The Wild/--unnamed.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/_Index_of_Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 102
+      },
+      "to": {
+        "line": 10,
+        "ch": 102
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/_Index_of__templates.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md": {
+    "scroll": 22.299041075818504,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 0
+      },
+      "to": {
+        "line": 33,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/--List-- Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/--Index - Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Publish and Hide From Filetree.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Index_of_DigitalGardenSightings.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--Index - DigitalGardenSightings.md": {
+    "scroll": 0.4672897196261682,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--List--  DigitalGardenSightings.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "src/--List--  src.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--List-- Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

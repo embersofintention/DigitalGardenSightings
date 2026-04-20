@@ -1,6 +1,8 @@
 ---
 dg-home: true
 dg-publish: true
+dg-pinned: true
+
 cssclasses:
   - cards
 coverImage: "[[attachments/rappy smile png.png]]"
