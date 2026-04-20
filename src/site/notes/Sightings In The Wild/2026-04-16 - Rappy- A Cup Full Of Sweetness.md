@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sightings-in-the-wild/2026-04-16-rappy-a-cup-full-of-sweetness/","contentClasses":"cards img-grid","tags":["Rappy","art","art/WhimsyScoundrel"],"created":"2026, 04/16","dg-note-properties":{"header":"A Cup Full Of Sweetness","description":"Rappy, the heck are you doing  in there?","tags":["Rappy","art","art/WhimsyScoundrel"],"tagline":"(empty)","created":"2026-04-16, 19:42","created_date":"2026, 04/16","created_time":"19:42","coverImage":"[attachments/2026-04-16-194236--WS.jpg](/img/user/attachments/2026-04-16-194236--WS.jpg)","thumbnail":"[attachments/thumbnails/resized/3082d27da15eb0aef24e7845058c6c63_86cf658e.webp](/img/user/attachments/thumbnails/resized/3082d27da15eb0aef24e7845058c6c63_86cf658e.webp)","cssclasses":["cards","img-grid"],"leftAt":"Panera in West Warwick"}}
+{"dg-publish":true,"permalink":"/sightings-in-the-wild/2026-04-16-rappy-a-cup-full-of-sweetness/","contentClasses":"cards img-grid","tags":["Rappy","art","art/WhimsyScoundrel"],"created":"2026, 04/16","dg-note-properties":{"header":"A Cup Full Of Sweetness","description":"Rappy, the heck are you doing  in there?","tags":["Rappy","art","art/WhimsyScoundrel"],"tagline":"(empty)","created":"2026-04-16, 19:42","created_date":"2026, 04/16","created_time":"19:42","coverImage":"[attachments/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png](/img/user/attachments/2026-04-16%20-%20Rappy-%20A%20Cup%20Full%20Of%20Sweetness-1.png)","thumbnail":"[[attachments/thumbnails/resized/30b8b7a4d88592073898913f8e98c562_86cf658e.webp]]","cssclasses":["cards","img-grid"],"leftAt":"Panera in West Warwick"}}
 ---
 
 
 Sighted In The Wild:  
+![2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png](/img/user/attachments/2026-04-16%20-%20Rappy-%20A%20Cup%20Full%20Of%20Sweetness-1.png)
 ![2026-04-16-194236--WS.jpg](/img/user/attachments/2026-04-16-194236--WS.jpg)
 ![2026-04-16-194729--WS.jpg](/img/user/attachments/2026-04-16-194729--WS.jpg)
 # A Cup Full Of Sweetness
