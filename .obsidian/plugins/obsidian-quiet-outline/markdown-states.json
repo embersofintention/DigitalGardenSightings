@@ -329,25 +329,18 @@
     ]
   },
   "Home.md": {
-    "scroll": 86.38151041666667,
+    "scroll": 30.420572916666668,
     "cursor": {
       "from": {
-        "line": 113,
-        "ch": 12
+        "line": 110,
+        "ch": 10
       },
       "to": {
-        "line": 113,
-        "ch": 12
+        "line": 110,
+        "ch": 10
       }
     },
-    "expandedKeys": [
-      "item-2-6",
-      "item-1-5",
-      "item-3-10",
-      "item-2-9",
-      "item-1-8",
-      "item-4-11"
-    ]
+    "expandedKeys": []
   },
   "subject - Apr11 2026 16-56.md": {
     "scroll": 2.611940298507463,
@@ -1057,15 +1050,15 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md": {
-    "scroll": 0,
+    "scroll": 24.636224780576768,
     "cursor": {
       "from": {
-        "line": 39,
-        "ch": 27
+        "line": 41,
+        "ch": 5
       },
       "to": {
-        "line": 39,
-        "ch": 27
+        "line": 41,
+        "ch": 5
       }
     },
     "expandedKeys": [
@@ -1246,14 +1239,14 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md": {
-    "scroll": 22.299041075818504,
+    "scroll": 8.338870431893687,
     "cursor": {
       "from": {
-        "line": 33,
+        "line": 44,
         "ch": 0
       },
       "to": {
-        "line": 33,
+        "line": 37,
         "ch": 0
       }
     },
@@ -1366,6 +1359,20 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - Zu- Incognito Mode.md": {
+    "scroll": 22.540387885075358,
+    "cursor": {
+      "from": {
+        "line": 34,
+        "ch": 0
+      },
+      "to": {
+        "line": 34,
         "ch": 0
       }
     },

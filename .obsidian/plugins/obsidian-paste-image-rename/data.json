@@ -5,6 +5,6 @@
   "dupNumberAlways": true,
   "autoRename": true,
   "handleAllAttachments": true,
-  "excludeExtensionPattern": "",
+  "excludeExtensionPattern": "css|scss|md\n",
   "disableRenameNotice": false
 }

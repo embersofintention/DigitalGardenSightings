@@ -17,6 +17,7 @@ dg-content-classes: cards, img-grid
 cssclasses:
   - cards
   - img-grid
+isCurrent: true
 ---
 
 Sighted In The Wild:  
@@ -35,6 +36,11 @@ Phaedra makes an appearance at our brekky date
 
 
 
+---
+cssclasses:
+  - cards
+  - img-grid
+---
 
 
 
