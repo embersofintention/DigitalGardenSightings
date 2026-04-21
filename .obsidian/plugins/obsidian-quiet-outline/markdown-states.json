@@ -329,7 +329,7 @@
     ]
   },
   "Home.md": {
-    "scroll": 30.420572916666668,
+    "scroll": 47.48880047523724,
     "cursor": {
       "from": {
         "line": 110,
@@ -340,7 +340,9 @@
         "ch": 10
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-5"
+    ]
   },
   "subject - Apr11 2026 16-56.md": {
     "scroll": 2.611940298507463,
@@ -994,15 +996,15 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md": {
-    "scroll": 25.774382198185283,
+    "scroll": 24.995932568852297,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 49
+        "line": 27,
+        "ch": 0
       },
       "to": {
-        "line": 22,
-        "ch": 49
+        "line": 27,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1365,15 +1367,15 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-20 - Zu- Incognito Mode.md": {
-    "scroll": 22.540387885075358,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 0
+        "line": 22,
+        "ch": 54
       },
       "to": {
-        "line": 34,
-        "ch": 0
+        "line": 22,
+        "ch": 54
       }
     },
     "expandedKeys": []

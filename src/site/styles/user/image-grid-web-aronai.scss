@@ -22,6 +22,6 @@ body {
     }
     > picture {
         object-fit: var(--image-grid-fit);
-        align-self: stretch;
+        align-self: center;
     }
 }
