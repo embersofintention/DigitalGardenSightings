@@ -10,7 +10,7 @@ Sighted In The Wild:
 # Incognito Mode
 
 
-Cleverly hiding next to a plant. It's like he isn't even there, right?
+Cleverly hiding next to a plant. It's like he isn't even there, right? Sneaky
 
 
 
