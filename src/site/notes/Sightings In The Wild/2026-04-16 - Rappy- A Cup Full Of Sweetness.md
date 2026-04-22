@@ -4,7 +4,7 @@
 
 
 Sighted In The Wild:  
-![2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png](/img/user/attachments/2026-04-16%20-%20Rappy-%20A%20Cup%20Full%20Of%20Sweetness-1.png)
+![attachments/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png](/img/user/attachments/2026-04-16%20-%20Rappy-%20A%20Cup%20Full%20Of%20Sweetness-1.png)
 ![2026-04-16-194236--WS.jpg](/img/user/attachments/2026-04-16-194236--WS.jpg)
 ![2026-04-16-194729--WS.jpg](/img/user/attachments/2026-04-16-194729--WS.jpg)
 # A Cup Full Of Sweetness
