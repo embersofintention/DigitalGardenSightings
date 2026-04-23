@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gallery-of-sightings/","created":"2026, 04/22","dg-note-properties":{"tags":null,"tagline":"(empty)","date":null,"created":"2026-04-22, 18:46","created_date":"2026, 04/22","created_time":"18:46","cssclasses":["pws-tables-cards","pws-tables-cards-ccg"]}}
+{"dg-publish":true,"permalink":"/gallery-of-sightings/","contentClasses":"pws-tables-cards, pws-tables-cards-ccg","created":"2026, 04/22","dg-note-properties":{"tags":null,"tagline":"(empty)","date":null,"created":"2026-04-22, 18:46","created_date":"2026, 04/22","created_time":"18:46","cssclasses":["pws-tables-cards","pws-tables-cards-ccg"]}}
 ---
 
 
