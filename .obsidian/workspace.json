@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gallery of Sightings.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gallery of Sightings"
+              "title": "Home"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE"
             }
           },
           {
@@ -55,10 +55,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "attachments/thumbnails/resized/67cd7ebce48c7665bfb7e336ea5eeac9_86cf658e.webp"
+                "file": "attachments/thumbnails/resized/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.webp"
               },
               "icon": "lucide-image",
-              "title": "67cd7ebce48c7665bfb7e336ea5eeac9_86cf658e"
+              "title": "2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1"
             }
           },
           {
@@ -75,8 +75,7 @@
               "title": "test bs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,52 +259,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "335e7230fd618963",
+  "active": "e7fd5ff66f46f757",
   "lastOpenFiles": [
-    "attachments/thumbnails/resized/67cd7ebce48c7665bfb7e336ea5eeac9_86cf658e.webp",
-    "Home.md",
-    "attachments/thumbnails/resized/Home-1.webp",
-    "attachments/thumbnails/resized/7a1eb900c32487494f855320f80f02af_86cf658e.webp",
-    "attachments/thumbnails/resized/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.webp",
-    "attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-1.webp",
-    "attachments/thumbnails/resized/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.webp",
-    "attachments/thumbnails/resized/2026-04-18 - Misc Foxes- Soda Fox-1.webp",
-    "attachments/thumbnails/resized/test bs-2.webp",
-    "attachments/thumbnails/resized/ef35ae9e0056e739a09a6f642b34b9e0_86cf658e.webp",
-    "attachments/thumbnails/resized/2026-04-20 - Zu- Incognito Mode-2.webp",
-    "test bs.md",
-    "_templates/add Art Entry.md",
+    "src/site/notes/Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md",
+    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
+    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
+    "src/site/notes/Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md",
+    "src/site/notes/Sightings In The Wild",
+    "src/site/notes/Home.md",
+    "src/site/img/user/attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.webp",
+    "src/site/img/user/attachments/thumbnails/resized/Home-1.webp",
+    "src/site/img/user/attachments/Home-2.png",
+    "src/site/img/user/attachments/Home-1.jpg",
+    "src/site/img/user/attachments/Home-1.png",
     "Gallery of Sightings.md",
+    "test bs.md",
+    "attachments/thumbnails/resized/test bs-5.webp",
+    "attachments/test bs-1.png",
+    "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
+    "Home.md",
+    "attachments/thumbnails/resized/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.webp",
+    "attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-1.webp",
+    "attachments/thumbnails/resized/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.webp",
+    "src/site/styles/user/callout-conversation.css",
+    "FAQ.md",
+    "_templates/add Art Entry.md",
     "src/site/styles/user/callout-comic.css",
     "src/site/styles/user/callout-cards-deck.css",
     "src/site/styles/user/callout-clue.css",
     "src/site/notes/Sightings In The Wild/2026-04-20 - Zu- Incognito Mode.md",
     "src/site/notes/Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
-    "src/site/notes/Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md",
     "src/site/notes/Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
-    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
-    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Ice Cream Zu.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
     "src/site/notes/Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md",
     "src/site/notes/Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
-    "src/site/notes/Sightings In The Wild",
-    "src/site/notes/Home.md",
-    "src/site/notes/Gallery of Sightings.md",
-    "src/site/notes/FAQ.md",
     "Mental Health Stuff",
     "backups and drafts",
     "src/site/img/user/attachments/thumbnails/resized",
     "src/site/img/user/attachments/thumbnails",
-    "src/site/styles/user/image-grid-web-aronai.scss",
-    "src/site/styles/user/New Text Document.txt"
+    "src/site/styles/user/image-grid-web-aronai.scss"
   ]
 }

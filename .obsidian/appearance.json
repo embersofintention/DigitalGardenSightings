@@ -8,7 +8,9 @@
     "pws-tables-cards-edit1",
     "callout-clue",
     "callout-cards-deck",
-    "callout-comic"
+    "callout-comic",
+    "callout-conversation",
+    "callout-profile"
   ],
   "theme": "system"
 }

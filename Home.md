@@ -23,20 +23,16 @@ I'll add more proper text later on, but for now let's get some placeholder info 
 * [[FAQ]] - Curious about anything? Click here
 * [[Gallery of Sightings]] - View the collection!
 
-
-
-
-
 > [!comic]
 >> [!comic-panel|bubble top left]
 >> > ![[2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp]]
 >> 
->> KAY COOL
+>>  [[Gallery of Sightings|Gallery]] ok
 >
 >> [!comic-panel|bubble top right]
 >> > ![[attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.webp]]
 >> 
->> YE NIFTY!
+>> Go look at it
 >
 
 
@@ -47,8 +43,6 @@ I'll add more proper text later on, but for now let's get some placeholder info 
 
 # Most Recent Sightings In The Wild
 ---
-
-
 
 ```dataview
 
