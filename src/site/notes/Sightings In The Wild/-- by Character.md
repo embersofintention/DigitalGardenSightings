@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sightings-in-the-wild/by-character/","contentClasses":"cards, img-grid","created":"2026, 04/23","dg-note-properties":{"aliases":null,"tags":null,"tagline":"(empty)","date":null,"created":"2026-04-23, 13:37","created_date":"2026, 04/23","created_time":"13:37","cssclasses":["cards","img-grid"],"coverImage":"[attachments/rappy whimsy sketch 2.png](/img/user/attachments/rappy%20whimsy%20sketch%202.png)","thumbnail":"[[attachments/thumbnails/resized/e284d2d6aea662dfd450952a1141e586_86cf658e.webp]]"}}
+{"dg-publish":true,"permalink":"/sightings-in-the-wild/by-character/","contentClasses":"cards, img-grid","created":"2026, 04/23","dg-note-properties":{"aliases":null,"tags":null,"tagline":"(empty)","date":null,"created":"2026-04-23, 13:37","created_date":"2026, 04/23","created_time":"13:37","cssclasses":["cards","img-grid"],"coverImage":"[attachments/rappy whimsy sketch 2.png](/img/user/attachments/rappy%20whimsy%20sketch%202.png)","thumbnail":"[attachments/thumbnails/resized/e284d2d6aea662dfd450952a1141e586_86cf658e.webp](/img/user/attachments/thumbnails/resized/e284d2d6aea662dfd450952a1141e586_86cf658e.webp)","dataviewIgnore":true}}
 ---
 
 # Whimsy By Character
+> [!full-width-image] # 
+> > ![rappy whimsy sketch 2.png](/img/user/attachments/rappy%20whimsy%20sketch%202.png)
 ---
 
 
@@ -10,11 +12,8 @@
 
 
 
-
+---
 ## Rappy
-> [!full-width-image] # 
-> > ![rappy whimsy sketch 2.png](/img/user/attachments/rappy%20whimsy%20sketch%202.png)
-
 ---
 
 
@@ -35,6 +34,7 @@
 
 ---
 ## Zu
+---
 
 
 | Thumbnail                                                                       | Link                                                                                                                                   | info                                                                                                                                                                 | Left At                                                           |
@@ -55,10 +55,12 @@
 { .block-language-dataview}
 
 ---
-
 ## Phaedra
+---
+
 | Thumbnail                                                                     | Link                                                                                                            | info                                                              | Left At                                        |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------- |
+| ![attachments/2026-04-23 - Phaedra- Found a new fave-2.png\|250](/img/user/attachments/2026-04-23%20-%20Phaedra-%20Found%20a%20new%20fave-2.png)            | **[[Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave\|Found a new fave]]**                       | **2026, 04/23** -- ...and left a lil' pal to find, naturally      | **Left at**: diner                             |
 | ![attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-5.png\|250](/img/user/attachments/2026-04-20%20-%20Phaedra-%20Fruit%20Waffle%20Prickle%20Friend-5.png) | **[[Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend\|Fruit Waffle Prickle Friend]]** | **2026, 04/20** -- Phaedra makes an appearance at our brekky date | **Left at**: Lovely breakfast spot in Cranston |
 | ![attachments/2026-04-17 - Phaedra- Prickly And Sweet-1.png\|250](/img/user/attachments/2026-04-17%20-%20Phaedra-%20Prickly%20And%20Sweet-1.png)           | **[[Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet\|Prickly And Sweet]]**                     | **2026, 04/17** -- Phaedra the Porcupine makes an appearance!     | **Left at**: a diner                           |
 
