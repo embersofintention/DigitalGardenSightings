@@ -17,6 +17,7 @@ cssclasses:
   - cards
   - img-grid
 leftAt: Donut shop in Cranston
+characters: Zu
 ---
 
 Sighted In The Wild:  

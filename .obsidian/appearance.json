@@ -10,7 +10,11 @@
     "callout-cards-deck",
     "callout-comic",
     "callout-conversation",
-    "callout-profile"
+    "callout-profile",
+    "callout-pinned",
+    "callout-full-width-image",
+    "callout-masonry",
+    "dataview-cards-deck"
   ],
   "theme": "system"
 }

@@ -18,6 +18,9 @@ dg-content-classes: cards, img-grid
 cssclasses:
   - cards
   - img-grid
+characters:
+  - Rappy
+  - Zu
 ---
 
 Sighted In The Wild:  

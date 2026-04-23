@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: kziku-ywtgp
+created: 2026-04-23T12:58:41-04:00

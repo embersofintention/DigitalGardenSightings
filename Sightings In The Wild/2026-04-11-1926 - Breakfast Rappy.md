@@ -13,6 +13,7 @@ coverImage: "[[ws - breakfast rappy.png]]"
 image_path:
 dg-publish: true
 leftAt: a brekkie place
+characters: Rappy
 ---
 
 ![[ws - breakfast rappy.png]]

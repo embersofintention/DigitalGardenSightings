@@ -17,6 +17,7 @@ cssclasses:
   - cards
   - img-grid
 leftAt: Panera in West Warwick
+characters: Rappy
 ---
 
 Sighted In The Wild:  

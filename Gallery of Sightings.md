@@ -48,6 +48,7 @@ EmbededCoverImg
 
 FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
 SORT created_date DESC
+WHERE dataviewIgnore != true
 
 
 WHERE file.name != this.file.name AND coverImage

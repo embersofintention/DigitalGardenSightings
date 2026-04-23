@@ -22,14 +22,24 @@ dg-publish: false
 * each art entry gets its own page / post
 
 
-## Setup Option 2
+## Setup Option 2 - current option
 
 * One database
 * each skill has one page, with all art and notes contained in it
 	* top image is some sort of header
-	* 
+	* visual notes, art and resources below
 
+possible tags for each skill note could include...
+* DBT
+* mental-health
+* visual-journal
+* reflections
 
+DBT Skill categories: 
+* Mindfulness
+* Distress Tolerance
+* Emotional Regulation
+* Interpersonal Skills
 
 
 

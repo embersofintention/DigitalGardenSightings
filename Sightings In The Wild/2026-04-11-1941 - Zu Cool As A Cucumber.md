@@ -11,6 +11,7 @@ created_time: 19:40
 coverImage: "[[ws - zu cool kabab.png]]"
 dg-publish: true
 leftAt: A spot with bangin' kabob
+characters: Zu
 ---
 
 

@@ -17,6 +17,7 @@ cssclasses:
   - cards
   - img-grid
 leftAt: A breakfast diner in Cranston
+characters: Zu
 ---
 
 Sighted In The Wild:  

@@ -22,6 +22,7 @@ I'll add more proper text later on, but for now let's get some placeholder info 
 
 * [[FAQ]] - Curious about anything? Click here
 * [[Gallery of Sightings]] - View the collection!
+* [[-- by Character|Character Gallery]] - Sorted by character
 
 > [!comic]
 >> [!comic-panel|bubble top left]
@@ -69,6 +70,7 @@ EmbededCoverImg
 
 
 FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+WHERE dataviewIgnore != true
 SORT created_date DESC
 
 

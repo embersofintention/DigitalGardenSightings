@@ -16,6 +16,7 @@ dg-content-classes: cards, img-grid
 cssclasses:
   - img-grid
 leftAt: Ice cream place in Cranston
+characters: Zu
 ---
 
 Sighted In The Wild: 

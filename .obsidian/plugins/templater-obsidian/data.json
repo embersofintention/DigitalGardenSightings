@@ -23,6 +23,10 @@
       "template": "_templates/add Art Entry.md"
     },
     {
+      "folder": "Mental Health Stuff",
+      "template": "_templates/add Mental Health Art.md"
+    },
+    {
       "folder": "",
       "template": ""
     }

@@ -16,6 +16,7 @@ cssclasses:
   - cards
   - img-grid
 leftAt:
+characters:
 ---
 <%*
 	// Prompt for header
@@ -42,6 +43,7 @@ leftAt:
 		frontmatter.header = header;
 		frontmatter.description = description;
 		frontmatter.leftAt = leftAt;
+		frontmatter.characters = charTags;
 		//add character tags to frontmatter
 		const existingTags = Array.isArray(frontmatter.tags)
 			? frontmatter.tags

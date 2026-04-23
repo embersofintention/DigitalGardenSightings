@@ -17,6 +17,7 @@ cssclasses:
   - cards
   - img-grid
 leftAt: a Mexican food place in Cranston
+characters: Zu
 ---
 
 Sighted In The Wild:  

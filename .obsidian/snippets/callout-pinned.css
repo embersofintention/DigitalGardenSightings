@@ -1,0 +1,113 @@
+/* GPLv3 license
+FAS - Callout Pinned
+Author: ElsaTam (Kapirklaa on Discord)
+*/
+
+body {
+  --font-typewriter: Courier, monospace;
+  --pushpin-image: url('https://ragx2.carrd.co/assets/images/image03.png?v=cd293e2b');
+}
+
+.markdown-source-view .callout[data-callout=pinned] {
+  margin-inline: auto;
+}
+
+.callout[data-callout=pinned] {
+  --callout-blend-mode: normal;
+  --callout-border-width: 0;
+  --callout-content-background: transparent;
+  --callout-radius: var(--radius-m);
+  --callout-title-weight: var(--h3-weight);
+  --callout-title-size: var(--h3-size);
+  --callout-padding: var(--size-4-3) var(--size-4-3) var(--size-4-3) var(--size-4-3);
+  --pushpin-size: 40px;
+  --pushpin-scale-collapsed: 0.8;
+  --pinned-small-width: 200px;
+  --pinned-medium-width: 350px;
+  --pinned-large-width: 100%;
+  position: relative;
+  margin-inline: auto;
+  background-color: white;
+  color: black;
+}
+
+.callout[data-callout=pinned][data-callout-metadata~=small] {
+  width: var(--pinned-small-width);
+}
+
+.callout[data-callout=pinned][data-callout-metadata~=medium] {
+  width: var(--pinned-medium-width);
+}
+
+.callout[data-callout=pinned][data-callout-metadata~=large] {
+  width: var(--pinned-large-width);
+}
+
+.callout[data-callout=pinned] .callout-icon {
+  display: none;
+}
+
+.callout[data-callout=pinned] .callout-fold svg {
+  display: none;
+}
+
+.callout[data-callout=pinned] .callout-fold {
+  position: absolute;
+  width: var(--pushpin-size);
+  height: var(--pushpin-size);
+  top: 1px;
+  left: 1px;
+  background-image: var(--pushpin-image);
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: all 0.2s ease;
+  transform: scaleX(-1);
+}
+
+.callout[data-callout=pinned].is-collapsed .callout-fold {
+  transform: scaleX(-1) scale(var(--pushpin-scale-collapsed));
+  filter: saturate(0%) contrast(90%) brightness(150%);
+}
+
+.callout[data-callout=pinned]:not([data-callout-metadata~=default-font]) {
+  --callout-font-header: var(--font-typewriter);
+  --callout-font-body: var(--font-typewriter);
+}
+
+.callout[data-callout=pinned]:not([data-callout-metadata~=default-font]) .callout-title-inner {
+  font-family: var(--callout-font-header);
+}
+
+.callout[data-callout=pinned]:not([data-callout-metadata~=default-font]) .callout-content {
+  font-family: var(--callout-font-body);
+}
+
+.callout[data-callout=pinned] .callout-title {
+  padding-left: calc(var(--pushpin-size) * 0.6);
+  justify-content: center;
+  background: none;
+}
+
+.callout[data-callout=pinned] .callout-title-inner {
+  color: var(--color-accent);
+}
+
+.callout[data-callout=pinned] .callout-content {
+  border: none;
+}
+
+.callout[data-callout=pinned] p:last-of-type {
+  margin-bottom: 0;
+}
+
+.theme-light .callout[data-callout=pinned]:not([data-callout-metadata~=dark]) {
+  --callout-border-width: 1px;
+  --callout-border-opacity: 0.15;
+}
+
+.callout[data-callout=pinned][data-callout-metadata~=dark] {
+  background-color: black;
+  color: white;
+}
+
+/* Fixes for themes preserved as-is */

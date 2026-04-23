@@ -17,6 +17,7 @@ cssclasses:
   - cards
   - img-grid
 leftAt: a small Boba Tea spot in Cranston
+characters: Zu
 ---
 
 Sighted In The Wild:  

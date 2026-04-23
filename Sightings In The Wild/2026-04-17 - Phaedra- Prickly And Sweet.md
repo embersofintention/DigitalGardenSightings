@@ -17,6 +17,7 @@ dg-content-classes: cards, img-grid
 cssclasses:
   - cards
   - img-grid
+characters: Phaedra
 ---
 
 Sighted In The Wild:  

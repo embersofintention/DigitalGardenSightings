@@ -18,6 +18,7 @@ cssclasses:
   - cards
   - img-grid
 isCurrent: true
+characters: Phaedra
 ---
 
 Sighted In The Wild:  
