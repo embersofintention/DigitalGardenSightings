@@ -16,7 +16,9 @@ leftAt: A spot with bangin' kabob
 
 
 ---
-Sighted In The Wild:  ![[ws - zu cool kabab.png]]
+Sighted In The Wild:  
+
+![[ws - zu cool kabab.png]]
 # Zu Cool As A Cucumber
 Spotted hangin' on the napkins
 

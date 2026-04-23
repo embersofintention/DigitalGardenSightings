@@ -5,11 +5,11 @@ date:
 created: 2026-04-22, 18:46
 created_date: 2026, 04/22
 created_time: 18:46
-dg-publish: true
 cssclasses:
-  - cards
+  - pws-tables-cards
+  - pws-tables-cards-ccg
 dg-pinned: false
-dg-content-classes: cards
+dg-content-classes: pws-tables-cards, pws-tables-cards-ccg
 ---
 
 # Whimsy Scoundrel Sightings
@@ -19,12 +19,14 @@ Here are some of the lil' guys I've left around town for folks to find!
 Have you found any of these? 
 
 ## Collection of Whimsy
-Hover your mouse over the top text to preview, or click to see more! yay
+Hover your mouse over the top text to preview, or click to see more!
 
 ```dataview
 
 TABLE WITHOUT ID 
 
+EmbededCoverImg
+	as "background",
 
 EmbededCoverImg 
 	as "Thumbnail", 

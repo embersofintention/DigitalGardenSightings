@@ -20,6 +20,7 @@ leftAt: a Mexican food place in Cranston
 ---
 
 Sighted In The Wild:  
+
 ![[attachments/2026-04-16--Zu Hanging Out.jpg]]
 ![[2026-04-16--tortilla chips.jpg]]
 # Zu Found a Playground

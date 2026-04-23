@@ -20,6 +20,7 @@ leftAt: Panera in West Warwick
 ---
 
 Sighted In The Wild:  
+
 ![[attachments/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png]]
 ![[2026-04-16-194236--WS.jpg]]
 ![[2026-04-16-194729--WS.jpg]]

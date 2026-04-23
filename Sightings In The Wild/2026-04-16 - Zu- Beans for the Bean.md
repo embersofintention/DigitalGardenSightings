@@ -20,6 +20,7 @@ leftAt: Donut shop in Cranston
 ---
 
 Sighted In The Wild:  
+
 ![[2026-04-16-193315--WS.jpg]]
 
 # Beans for the Bean

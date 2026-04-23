@@ -20,9 +20,10 @@ leftAt: the Womxn Project Postcard Gallery fundraiser event!
 ---
 
 Sighted In The Wild:  
+
 ![[2026-04-16-195258--WS.jpg]]
 ![[Pasted image 20260416195633.png]]
-![[2026-04-16-195722--WS.jpg | My dad placed this one!]]
+![[2026-04-16-195722--WS.jpg ]]
 
 
 # Hangin' Out at the Postcard Gallery Event

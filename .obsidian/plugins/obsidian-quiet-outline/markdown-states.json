@@ -31,14 +31,14 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 34.729166666666664,
+    "scroll": 32.333333333333336,
     "cursor": {
       "from": {
-        "line": 58,
+        "line": 72,
         "ch": 0
       },
       "to": {
-        "line": 58,
+        "line": 72,
         "ch": 0
       }
     },
@@ -269,7 +269,7 @@
     "expandedKeys": []
   },
   "Untitled.md": {
-    "scroll": 0,
+    "scroll": 0.36115107913669064,
     "cursor": {
       "from": {
         "line": 0,
@@ -329,19 +329,18 @@
     ]
   },
   "Home.md": {
-    "scroll": 33.503097948867065,
+    "scroll": 49.344401041666664,
     "cursor": {
       "from": {
-        "line": 30,
+        "line": 27,
         "ch": 0
       },
       "to": {
-        "line": 30,
+        "line": 27,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-6",
       "item-1-3"
     ]
   },
@@ -710,14 +709,14 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md": {
-    "scroll": 18.007152322109935,
+    "scroll": 9.885656970912738,
     "cursor": {
       "from": {
-        "line": 14,
+        "line": 19,
         "ch": 0
       },
       "to": {
-        "line": 14,
+        "line": 19,
         "ch": 0
       }
     },
@@ -898,12 +897,12 @@
     "scroll": 16.460176991150444,
     "cursor": {
       "from": {
-        "line": 27,
-        "ch": 75
+        "line": 22,
+        "ch": 0
       },
       "to": {
-        "line": 27,
-        "ch": 75
+        "line": 22,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -913,11 +912,11 @@
     "cursor": {
       "from": {
         "line": 22,
-        "ch": 30
+        "ch": 0
       },
       "to": {
         "line": 22,
-        "ch": 30
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -937,15 +936,15 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md": {
-    "scroll": 19.0531561461794,
+    "scroll": 18.654485049833887,
     "cursor": {
       "from": {
         "line": 22,
-        "ch": 54
+        "ch": 0
       },
       "to": {
         "line": 22,
-        "ch": 54
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -953,14 +952,14 @@
     ]
   },
   "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md": {
-    "scroll": 24.644912757761162,
+    "scroll": 24.444702040816328,
     "cursor": {
       "from": {
-        "line": 28,
+        "line": 27,
         "ch": 0
       },
       "to": {
-        "line": 28,
+        "line": 27,
         "ch": 0
       }
     },
@@ -1000,11 +999,11 @@
     "scroll": 10.040816326530612,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       }
     },
@@ -1053,15 +1052,15 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md": {
-    "scroll": 24.636224780576768,
+    "scroll": 11.544850498338871,
     "cursor": {
       "from": {
-        "line": 41,
-        "ch": 5
+        "line": 22,
+        "ch": 0
       },
       "to": {
-        "line": 41,
-        "ch": 5
+        "line": 22,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1083,7 +1082,7 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md": {
-    "scroll": 26.52218762164266,
+    "scroll": 24.905029162539893,
     "cursor": {
       "from": {
         "line": 25,
@@ -1245,12 +1244,12 @@
     "scroll": 17.53301886792453,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 22
+        "line": 23,
+        "ch": 0
       },
       "to": {
-        "line": 22,
-        "ch": 22
+        "line": 23,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1426,15 +1425,133 @@
     "expandedKeys": []
   },
   "Gallery of Sightings.md": {
-    "scroll": 20.955729166666668,
+    "scroll": 13.75,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 72
+      },
+      "to": {
+        "line": 21,
+        "ch": 72
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Gallery of Sightings 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "_templates/add Art Entry 1.md": {
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 19,
-        "ch": 28
+        "ch": 0
       },
       "to": {
         "line": 19,
-        "ch": 28
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Mental Health Art.md": {
+    "scroll": 11.030730897009967,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/subject - Apr22 2026 21-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Art.md": {
+    "scroll": 4.237974683544304,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 3
+      },
+      "to": {
+        "line": 29,
+        "ch": 3
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
+  },
+  "Sightings In The Wild/2026-04-22 - Rappy- test.md": {
+    "scroll": 16.611295681063122,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test bs.md": {
+    "scroll": 1.5695067264573992,
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 0
+      },
+      "to": {
+        "line": 41,
+        "ch": 0
       }
     },
     "expandedKeys": []

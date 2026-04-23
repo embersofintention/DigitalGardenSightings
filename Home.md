@@ -2,11 +2,10 @@
 dg-home: true
 dg-publish: true
 dg-pinned: true
-
 cssclasses:
   - cards
-coverImage: "[[attachments/rappy smile png.png]]"
-thumbnail: "[[attachments/thumbnails/resized/b4acf603be96c762d06b7bc5d7ece9d1_86cf658e.webp]]"
+coverImage: "[[attachments/thumbnails/resized/2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp]]"
+thumbnail: "[[attachments/thumbnails/resized/757fcbd95057ae7b840163d9252fc941_86cf658e.webp]]"
 dg-content-classes: cards
 ---
 # Have some things!
@@ -14,7 +13,10 @@ dg-content-classes: cards
 
 Welcome to **Whimsy Scoundrel**: a silly little project by LvK!
 I'll add more proper text later on, but for now let's get some placeholder info going...
-![[attachments/rappy smile png.png|286]]
+
+
+
+
 # Links To Start With
 ---
 
@@ -25,9 +27,27 @@ I'll add more proper text later on, but for now let's get some placeholder info 
 
 
 
+> [!comic]
+>> [!comic-panel|bubble top left]
+>> > ![[2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp]]
+>> 
+>> KAY COOL
+>
+>> [!comic-panel|bubble top right]
+>> > ![[attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.webp]]
+>> 
+>> YE NIFTY!
+>
+
+
+
+
+
+
+
 # Most Recent Sightings In The Wild
 ---
-Want to see [[Gallery of Sightings.md|more]]?  
+
 
 
 ```dataview
@@ -71,7 +91,8 @@ LIMIT 9
 
 
 ```
-
+> [!clue|tape-b paper-d]+ Want More Whimsy?
+> Head to the [[Gallery of Sightings.md|Gallery of Sightings]] and look around!
 
 
 

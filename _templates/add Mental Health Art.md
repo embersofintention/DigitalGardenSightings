@@ -65,9 +65,6 @@ Sighted In The Wild:
 
 
 
-> [!clue|tape-b paper-d]+ Where Was I?
-> <%- leftAt %>
-
 
 
 
