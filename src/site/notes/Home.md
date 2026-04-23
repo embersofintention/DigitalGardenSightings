@@ -21,12 +21,12 @@ I'll add more proper text later on, but for now let's get some placeholder info 
 >> [!comic-panel|bubble top left]
 >> > ![2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp](/img/user/attachments/thumbnails/resized/2026-04-17%20-%20Zu-%20Whimsy%20at%20a%20Brewhouse-2.webp)
 >> 
->> KAY COOL
+>>  [[Gallery of Sightings\|Gallery]] ok
 >
 >> [!comic-panel|bubble top right]
 >> > ![attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.webp](/img/user/attachments/thumbnails/resized/2026-04-20%20-%20Phaedra-%20Fruit%20Waffle%20Prickle%20Friend-3.webp)
 >> 
->> YE NIFTY!
+>> Go look at it
 >
 
 
