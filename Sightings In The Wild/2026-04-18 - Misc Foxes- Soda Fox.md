@@ -11,7 +11,7 @@ created: 2026-04-18, 19:57
 created_date: 2026, 04/18
 created_time: 19:57
 coverImage: "[[attachments/2026-04-18 - Misc Foxes- Soda Fox-3.png]]"
-thumbnail: "[[2026-04-18 - Misc Foxes- Soda Fox-1.webp]]"
+thumbnail: "[[attachments/thumbnails/resized/2026-04-18 - Misc Foxes- Soda Fox-1.webp]]"
 dg-publish: true
 dg-content-classes: cards, img-grid
 cssclasses:
@@ -21,6 +21,7 @@ isCurrent: true
 ---
 
 Sighted In The Wild:  
+
 ![[2026-04-18 - Misc Foxes- Soda Fox-3.png]]
 ![[attachments/2026-04-18 - Misc Foxes- Soda Fox-1.png]]
 ![[2026-04-18 - Misc Foxes- Soda Fox-2.png]]

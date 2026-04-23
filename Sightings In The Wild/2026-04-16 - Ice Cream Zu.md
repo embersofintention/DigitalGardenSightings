@@ -1,5 +1,5 @@
 ---
-header: A Shrub Is An Odd Place To Enjoy Ice Cream, Zu!
+header: Shrubbin' It
 description: Spotted peeking from a bush outside of a Coldstone Creamery.  I wonder what flavor he's got?
 tags:
   - art

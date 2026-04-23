@@ -18,15 +18,15 @@ cssclasses:
   - cards
   - img-grid
 ---
-
 Sighted In The Wild:  
+
 ![[attachments/2026-04-20 - Zu- Incognito Mode-2.png]]
 ![[attachments/2026-04-20 - Zu- Incognito Mode-1.png]]
 
 # Incognito Mode
 
 
-Cleverly hiding next to a plant. It's like he isn't even there, right?
+Cleverly hiding next to a plant. It's like he isn't even there, right? Sneaky
 
 
 

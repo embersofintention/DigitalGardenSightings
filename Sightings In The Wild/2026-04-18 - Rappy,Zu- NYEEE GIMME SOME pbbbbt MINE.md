@@ -21,7 +21,9 @@ cssclasses:
 ---
 
 Sighted In The Wild:  
+
 ![[2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.png]]
+
 ![[attachments/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-2.png]]
 # "NYEEE GIMME SOME!" ...."pbbbbt MINE!!"
 

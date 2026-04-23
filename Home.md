@@ -15,32 +15,20 @@ dg-content-classes: cards
 Welcome to **Whimsy Scoundrel**: a silly little project by LvK!
 I'll add more proper text later on, but for now let's get some placeholder info going...
 ![[attachments/rappy smile png.png|286]]
-## So What is a Whimsy Scoundrel?
-
-* This is the name I've given to my little **index card cutout characters** that I leave about town for folks to find.  
-
-## And Who is LvK?
-
-* That's me! Hi!  
-* I'm the artist, and the goofball behind these silly lil' pals.  
-* A very friendly dude with a colorful hobby
-
-## But Who are these little critters?
-
-* Most of the lil' guys I leave about are one of two characters:  
-
-	* Rapscallien / "Rappy" -- the sweet little lion-adjacent critter
-	* Zu Nug -- the mischief-making cat, and personal character of my wonderful partner
-
-
-
-
-
-# Sightings In The Wild
+# Links To Start With
 ---
-Here are some of the lil' guys I've left around town for folks to find!
 
-Have you spotted any of these?
+* [[FAQ]] - Curious about anything? Click here
+* [[Gallery of Sightings]] - View the collection!
+
+
+
+
+
+# Most Recent Sightings In The Wild
+---
+Want to see [[Gallery of Sightings.md|more]]?  
+
 
 ```dataview
 
@@ -78,6 +66,8 @@ FLATTEN choice(typeof(coverImage)="link",
                 coverImage, this.file.link
         )
     ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
+
+LIMIT 9
 
 
 ```
