@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sightings-in-the-wild/by-character/","contentClasses":"cards, img-grid","created":"2026, 04/23","dg-note-properties":{"aliases":null,"tags":null,"tagline":"(empty)","date":null,"created":"2026-04-23, 13:37","created_date":"2026, 04/23","created_time":"13:37","cssclasses":["img-grid","cards"],"coverImage":"[attachments/rappy whimsy sketch 2.png](/img/user/attachments/rappy%20whimsy%20sketch%202.png)","thumbnail":"[[attachments/thumbnails/resized/e284d2d6aea662dfd450952a1141e586_86cf658e.webp]]","dataviewIgnore":true}}
+{"dg-publish":true,"permalink":"/sightings-in-the-wild/by-character/","contentClasses":"cards, img-grid","created":"2026, 04/23","dg-note-properties":{"aliases":null,"tags":null,"tagline":"(empty)","date":null,"created":"2026-04-23, 13:37","created_date":"2026, 04/23","created_time":"13:37","cssclasses":["cards","img-grid"],"coverImage":"[attachments/rappy whimsy sketch 2.png](/img/user/attachments/rappy%20whimsy%20sketch%202.png)","thumbnail":"[[attachments/thumbnails/resized/e284d2d6aea662dfd450952a1141e586_86cf658e.webp]]"}}
 ---
 
 # Whimsy By Character
@@ -14,6 +14,11 @@
 ## Rappy
 > [!full-width-image] # 
 > > ![rappy whimsy sketch 2.png](/img/user/attachments/rappy%20whimsy%20sketch%202.png)
+
+---
+
+
+
 | Thumbnail                                                                       | Link                                                                                                                       | info                                                                                                        | Left At                                                    |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | ![attachments/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.png\|250](/img/user/attachments/2026-04-18%20-%20Rappy,Zu-%20NYEEE%20GIMME%20SOME%20pbbbbt%20MINE-1.png) | **[[Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE\|"NYEEE GIMME SOME!"  "pbbbbt MINE!!"]]** | **2026, 04/18** -- C'mon Rappy you gotta share some, that's a big cookie there's plenty!                    | **Left at**: Wooden divider blinds at Panera               |
@@ -31,10 +36,7 @@
 ---
 ## Zu
 
-> [!masonry]
-> ![Zu-5.png](/img/user/attachments/_Zu/Zu-5.png)
-> ![Zu-2.png](/img/user/attachments/_Zu/Zu-2.png)
-> ![Zu-3.png](/img/user/attachments/_Zu/Zu-3.png)
+
 | Thumbnail                                                                       | Link                                                                                                                                   | info                                                                                                                                                                 | Left At                                                           |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | ![attachments/2026-04-20 - Zu- Incognito Mode-2.png\|250](/img/user/attachments/2026-04-20%20-%20Zu-%20Incognito%20Mode-2.png)                     | **[[Sightings In The Wild/2026-04-20 - Zu- Incognito Mode\|Incognito Mode]]**                                                       | **2026, 04/20** -- Cleverly hiding next to a plant. It's like he isn't even there, right?                                                                            | **Left at**: Boba tea place                                       |
