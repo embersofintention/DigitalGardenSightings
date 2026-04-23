@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"],"coverImage":"[attachments/rappy smile png.png](/img/user/attachments/rappy%20smile%20png.png)","thumbnail":"[attachments/thumbnails/resized/b4acf603be96c762d06b7bc5d7ece9d1_86cf658e.webp](/img/user/attachments/thumbnails/resized/b4acf603be96c762d06b7bc5d7ece9d1_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"],"coverImage":"[attachments/thumbnails/resized/2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp](/img/user/attachments/thumbnails/resized/2026-04-17%20-%20Zu-%20Whimsy%20at%20a%20Brewhouse-2.webp)","thumbnail":"[[attachments/thumbnails/resized/757fcbd95057ae7b840163d9252fc941_86cf658e.webp]]"}}
 ---
 
 # Have some things!
@@ -7,12 +7,29 @@
 
 Welcome to **Whimsy Scoundrel**: a silly little project by LvK!
 I'll add more proper text later on, but for now let's get some placeholder info going...
-![attachments/rappy smile png.png\|286](/img/user/attachments/rappy%20smile%20png.png)
+
+
+
+
 # Links To Start With
 ---
 
 * [[FAQ\|FAQ]] - Curious about anything? Click here
 * [[Gallery of Sightings\|Gallery of Sightings]] - View the collection!
+
+> [!comic]
+>> [!comic-panel|bubble top left]
+>> > ![2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp](/img/user/attachments/thumbnails/resized/2026-04-17%20-%20Zu-%20Whimsy%20at%20a%20Brewhouse-2.webp)
+>> 
+>> KAY COOL
+>
+>> [!comic-panel|bubble top right]
+>> > ![attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.webp](/img/user/attachments/thumbnails/resized/2026-04-20%20-%20Phaedra-%20Fruit%20Waffle%20Prickle%20Friend-3.webp)
+>> 
+>> YE NIFTY!
+>
+
+
 
 
 
@@ -20,8 +37,6 @@ I'll add more proper text later on, but for now let's get some placeholder info 
 
 # Most Recent Sightings In The Wild
 ---
-Want to see [[Gallery of Sightings\|more]]?  
-
 
 | Thumbnail                                                                       | Link                                                                                                                       | info                                                                                                           | Left At                                           |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -36,7 +51,8 @@ Want to see [[Gallery of Sightings\|more]]?
 | ![attachments/2026-04-17 - Phaedra- Prickly And Sweet-1.png\|250](/img/user/attachments/2026-04-17%20-%20Phaedra-%20Prickly%20And%20Sweet-1.png)             | **[[Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet\|Prickly And Sweet]]**                                | **2026, 04/17** -- Phaedra the Porcupine makes an appearance!                                                  | **Left at**: a diner                              |
 
 { .block-language-dataview}
-
+> [!clue|tape-b paper-d]+ Want More Whimsy?
+> Head to the [[Gallery of Sightings\|Gallery of Sightings]] and look around!
 
 
 

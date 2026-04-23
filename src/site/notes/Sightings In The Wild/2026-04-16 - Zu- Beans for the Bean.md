@@ -4,6 +4,7 @@
 
 
 Sighted In The Wild:  
+
 ![2026-04-16-193315--WS.jpg](/img/user/attachments/2026-04-16-193315--WS.jpg)
 
 # Beans for the Bean
