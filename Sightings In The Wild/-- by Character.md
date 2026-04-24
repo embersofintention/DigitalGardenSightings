@@ -8,14 +8,16 @@ created_date: 2026, 04/23
 created_time: 13:37
 dg-publish: true
 cssclasses:
-  - img-grid
   - cards
+  - img-grid
 dg-content-classes: cards, img-grid
 coverImage: "[[attachments/rappy whimsy sketch 2.png]]"
 thumbnail: "[[attachments/thumbnails/resized/e284d2d6aea662dfd450952a1141e586_86cf658e.webp]]"
 dataviewIgnore: true
 ---
 # Whimsy By Character
+> [!full-width-image] # 
+> > ![[rappy whimsy sketch 2.png]]
 ---
 
 
@@ -23,10 +25,12 @@ dataviewIgnore: true
 
 
 
-
+---
 ## Rappy
-> [!full-width-image] # 
-> > ![[rappy whimsy sketch 2.png]]
+---
+
+
+
 ```dataview
 
 
@@ -83,11 +87,9 @@ FLATTEN choice(typeof(coverImage)="link",
 
 ---
 ## Zu
+---
 
-> [!masonry]
-> ![[Zu-5.png]]
-> ![[Zu-2.png]]
-> ![[Zu-3.png]]
+
 ```dataview
 
 
@@ -138,8 +140,9 @@ FLATTEN choice(typeof(coverImage)="link",
 ```
 
 ---
-
 ## Phaedra
+---
+
 ```dataview
 
 

@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "pws-tables-cards",
     "minimal-cards",
@@ -14,7 +14,8 @@
     "callout-pinned",
     "callout-full-width-image",
     "callout-masonry",
-    "dataview-cards-deck"
+    "dataview-cards-deck",
+    "lvk-handwriting-font"
   ],
   "theme": "system"
 }

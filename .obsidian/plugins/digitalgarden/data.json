@@ -4,12 +4,12 @@
   "githubUserName": "embersofintention",
   "gardenBaseUrl": "https://whimsyscoundrel.neocities.org",
   "prHistory": [
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/6",
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/7"
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/7",
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/6"
   ],
-  "baseTheme": "light",
-  "theme": "{\"name\":\"Royal Velvet\",\"author\":\"caro401\",\"repo\":\"caro401/royal-velvet\",\"screenshot\":\"royal-velvet.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/caro401/royal-velvet/HEAD/theme.css\"}",
-  "faviconPath": "attachments/rappy whimsy r2.svg",
+  "baseTheme": "dark",
+  "theme": "{\"name\":\"Elegance\",\"author\":\"Victologo\",\"repo\":\"Victologo/elegance-theme\",\"screenshot\":\"assets/Miniatura - Elegance (tema para Obisidian).jpg\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/Victologo/elegance-theme/HEAD/theme.css\"}",
+  "faviconPath": "svg",
   "logoPath": "",
   "useFullResolutionImages": false,
   "noteSettingsIsInitialized": true,
@@ -68,5 +68,34 @@
     "canvasZoomHint": "",
     "canvasResetHint": ""
   },
-  "localExportPath": "N:\\Sites\\DigitalGarden to Neocities\\DigitalGardenSightings"
+  "localExportPath": "N:\\Sites\\DigitalGarden to Neocities\\DigitalGardenSightings",
+  "navigationOrder": {
+    "/": [
+      "Home",
+      "Gallery of Sightings",
+      "FAQ",
+      "Sightings In The Wild"
+    ],
+    "/Sightings In The Wild": [
+      "-- by Character",
+      "2026-04-11-1926 - Breakfast Rappy",
+      "2026-04-11-1933 - Embrace the Sweet Things",
+      "2026-04-11-1941 - Zu Cool As A Cucumber",
+      "2026-04-16 - Ice Cream Zu",
+      "2026-04-16 - Rappy- A Cup Full Of Sweetness",
+      "2026-04-16 - Zu- Beans for the Bean",
+      "2026-04-16 - Zu- Found A Metal Jungle Gym",
+      "2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event",
+      "2026-04-16 - Zu- Zu and a Burger Pal",
+      "2026-04-17 - Phaedra- Prickly And Sweet",
+      "2026-04-17 - Zu- Boba Cup Buddy",
+      "2026-04-17 - Zu- Splenda Zu",
+      "2026-04-17 - Zu- Sugar Bath of Luxury",
+      "2026-04-17 - Zu- Whimsy at a Brewhouse",
+      "2026-04-18 - Misc Foxes- Soda Fox",
+      "2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE",
+      "2026-04-20 - Phaedra- Fruit Waffle Prickle Friend",
+      "2026-04-20 - Zu- Incognito Mode"
+    ]
+  }
 }
