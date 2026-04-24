@@ -6,7 +6,7 @@
 ---
 
 Welcome to **Whimsy Scoundrel**: a silly little project by LvK!
-I'll add more proper text later on, but for now let's get some placeholder info going...
+I'll add more proper text later on, but for now let's get some placeholder info going....
 
 
 
