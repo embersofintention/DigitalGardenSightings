@@ -1,15 +1,15 @@
 {
   "githubRepo": "DigitalGardenSightings",
-  "githubToken": "",
+  "githubToken": "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",
   "githubUserName": "embersofintention",
-  "gardenBaseUrl": "https://whimsyscoundrel.neocities.org",
+  "gardenBaseUrl": "",
   "prHistory": [
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/7",
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/6"
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/6",
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/7"
   ],
   "baseTheme": "dark",
-  "theme": "{\"name\":\"Elegance\",\"author\":\"Victologo\",\"repo\":\"Victologo/elegance-theme\",\"screenshot\":\"assets/Miniatura - Elegance (tema para Obisidian).jpg\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/Victologo/elegance-theme/HEAD/theme.css\"}",
-  "faviconPath": "svg",
+  "theme": "{\"name\":\"Royal Velvet\",\"author\":\"caro401\",\"repo\":\"caro401/royal-velvet\",\"screenshot\":\"royal-velvet.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/caro401/royal-velvet/HEAD/theme.css\"}",
+  "faviconPath": "attachments/SVGs/whimsy scoundrel logo svg1.svg",
   "logoPath": "",
   "useFullResolutionImages": false,
   "noteSettingsIsInitialized": true,

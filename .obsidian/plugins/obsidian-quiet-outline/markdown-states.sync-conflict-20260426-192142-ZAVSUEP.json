@@ -1,0 +1,1836 @@
+{
+  "test index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ]
+  },
+  "test art/Apr07 2026 20-19 - Test Art 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Art Entry.md": {
+    "scroll": 9.112333071484683,
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 36
+      },
+      "to": {
+        "line": 45,
+        "ch": 36
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Rappy Smile Test Post.md": {
+    "scroll": 13.312857142857142,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/_ADD DATE AND TAGLINE STUFF.md": {
+    "scroll": 3.5224333208323433,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr08 2026 14-58 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Rappy Placeholder Test Post.md": {
+    "scroll": 8.043875685557587,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 33
+      },
+      "to": {
+        "line": 16,
+        "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Test Dataview Gallery.md": {
+    "scroll": 5.32051282051282,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 0
+      },
+      "to": {
+        "line": 49,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "subject - Apr10 2026 14-37.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 38,
+        "ch": 0
+      },
+      "to": {
+        "line": 38,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr11 2026 15-28 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr11 2026 15-28 - WS.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/Apr11 2026 15-28 - Rappy Smile.md": {
+    "scroll": 3.7142857142857144,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11_1534 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1536 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 12
+      },
+      "to": {
+        "line": 15,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1550 - Art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 16
+      },
+      "to": {
+        "line": 17,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1550 - yellow square.md": {
+    "scroll": 2.610441767068273,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1536 - rappy smile.md": {
+    "scroll": 8.980083857442349,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Alternate Test Gallery.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 46,
+        "ch": 1
+      },
+      "to": {
+        "line": 46,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "Vault.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-3-5"
+    ]
+  },
+  "Home.md": {
+    "scroll": 6.687817258883249,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 36
+      },
+      "to": {
+        "line": 11,
+        "ch": 36
+      }
+    },
+    "expandedKeys": [
+      "item-1-3",
+      "item-4-9",
+      "item-3-8",
+      "item-2-7",
+      "item-1-6",
+      "item-2-4"
+    ]
+  },
+  "subject - Apr11 2026 16-56.md": {
+    "scroll": 2.611940298507463,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Gallery Test - No Cards.md": {
+    "scroll": 4.827493261455525,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Gallery test - Elegance and Cards.md": {
+    "scroll": 2.6490066225165565,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 44
+      },
+      "to": {
+        "line": 9,
+        "ch": 44
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add_thing.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1858 - Art.md": {
+    "scroll": 4.631927212572374,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1906 - test header.md": {
+    "scroll": 5.622489959839357,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 3
+      },
+      "to": {
+        "line": 16,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1907 - ass.md": {
+    "scroll": 5.622489959839357,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test art/2026-04-11-1915 - header.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1926 - Breakfast Rappy.md": {
+    "scroll": 9.869608826479439,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1550 - yellow square.md": {
+    "scroll": 3.9548192771084336,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1933 - Embrace the Sweet Things.md": {
+    "scroll": 18.553225378285106,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 0
+      },
+      "to": {
+        "line": 25,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1941 - Zu Cool As A Cucumber.md": {
+    "scroll": 13.5,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-11-1536 - rappy smile.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1553 - test1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1600 - test1.md": {
+    "scroll": 11.3714859437751,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 30
+      },
+      "to": {
+        "line": 20,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1601 - test3.md": {
+    "scroll": 5.622489959839357,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 20
+      },
+      "to": {
+        "line": 20,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1602 - test 4.md": {
+    "scroll": 8.433734939759036,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1603 - test 5.md": {
+    "scroll": 1.4056224899598393,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Art Posts/2026-04-15-1604 - test 6.md": {
+    "scroll": 10.570281124497992,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 60
+      },
+      "to": {
+        "line": 18,
+        "ch": 60
+      }
+    },
+    "expandedKeys": []
+  },
+  "src/site/notes/Test Dataview Gallery.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "src/site/notes/Home.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "src/site/_includes/components/user/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16-1739 - Zu Ice Cream 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 0
+      },
+      "to": {
+        "line": 26,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md": {
+    "scroll": 8.838554045282693,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Whimsy Scoundrel.md": {
+    "scroll": 12.290748898678414,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 2
+      },
+      "to": {
+        "line": 49,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Ice Cream Zu.md": {
+    "scroll": 4.653061224489796,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 56
+      },
+      "to": {
+        "line": 30,
+        "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1536 - rappy smile.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--DASHBOARD--.md": {
+    "scroll": 0.5021582733812949,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 24
+      },
+      "to": {
+        "line": 4,
+        "ch": 24
+      }
+    },
+    "expandedKeys": [
+      "item-1-2",
+      "item-1-0"
+    ]
+  },
+  "Sightings - backlog/2026-04-16 - Ice Cream Zu.md": {
+    "scroll": 7.396193771626297,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 41
+      },
+      "to": {
+        "line": 21,
+        "ch": 41
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag Zu.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings - backlog/2026-04-16 - piss.md": {
+    "scroll": 1.5859030837004404,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings - backlog/2026-04-16 - saff.md": {
+    "scroll": 1.5859030837004404,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - test1.md": {
+    "scroll": 5.022026431718062,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - aosjfidsaodjf.md": {
+    "scroll": 12.78942731277533,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings - backlog/2026-04-11-1926 - Breakfast Rappy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md": {
+    "scroll": 10.267310395908817,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md": {
+    "scroll": 8.587665198237886,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md": {
+    "scroll": 9.74273127753304,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 30
+      },
+      "to": {
+        "line": 23,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md": {
+    "scroll": 7.581047381546135,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md": {
+    "scroll": 11.091787243042974,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 0
+      },
+      "to": {
+        "line": 28,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md": {
+    "scroll": 10.016611295681063,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 0
+      },
+      "to": {
+        "line": 24,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md": {
+    "scroll": 10.59647577092511,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 42
+      },
+      "to": {
+        "line": 23,
+        "ch": 42
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md": {
+    "scroll": 10.040816326530612,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md": {
+    "scroll": 3.0120481927710845,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md": {
+    "scroll": 4.507042253521127,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md": {
+    "scroll": 8.84455527847049,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 50
+      },
+      "to": {
+        "line": 24,
+        "ch": 50
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md": {
+    "scroll": 11.544850498338871,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md": {
+    "scroll": 11.160377358490566,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 0
+      },
+      "to": {
+        "line": 24,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md": {
+    "scroll": 12.332075011055425,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 0
+      },
+      "to": {
+        "line": 24,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - Phaedra- Prickles and Waffles.md": {
+    "scroll": 6.3754152823920265,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 0
+      },
+      "to": {
+        "line": 32,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag - Rappy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/tag - Zu.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - - test Rapscallien Post.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - - test 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--DASHBOARD WIP--.md": {
+    "scroll": 0.4672897196261682,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 0
+      },
+      "to": {
+        "line": 48,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-2",
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/--DASHBOARD WIP--.md": {
+    "scroll": 32.442708333333336,
+    "cursor": {
+      "from": {
+        "line": 50,
+        "ch": 0
+      },
+      "to": {
+        "line": 50,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-2"
+    ]
+  },
+  "Sightings In The Wild/--unnamed.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/_Index_of_Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 102
+      },
+      "to": {
+        "line": 10,
+        "ch": 102
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/_Index_of__templates.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md": {
+    "scroll": 12.490746068242771,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 0
+      },
+      "to": {
+        "line": 24,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/--List-- Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/--Index - Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Publish and Hide From Filetree.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Index_of_DigitalGardenSightings.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--Index - DigitalGardenSightings.md": {
+    "scroll": 0.4672897196261682,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--List--  DigitalGardenSightings.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "src/--List--  src.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "--List-- Sightings In The Wild.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-20 - Zu- Incognito Mode.md": {
+    "scroll": 8.21945127009949,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "FAQ.md": {
+    "scroll": 4.556962025316456,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 6
+      },
+      "to": {
+        "line": 11,
+        "ch": 6
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "subject - Apr22 2026 18-42.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "subject - Apr22 2026 18-47.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Gallery of Sightings.md": {
+    "scroll": 14.65448768864178,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 53
+      },
+      "to": {
+        "line": 21,
+        "ch": 54
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Gallery of Sightings 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "_templates/add Art Entry 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Mental Health Art.md": {
+    "scroll": 13.675105485232068,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 14
+      },
+      "to": {
+        "line": 26,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/subject - Apr22 2026 21-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Art.md": {
+    "scroll": 11.86406151453654,
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 22
+      },
+      "to": {
+        "line": 41,
+        "ch": 22
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
+  },
+  "Sightings In The Wild/2026-04-22 - Rappy- test.md": {
+    "scroll": 16.611295681063122,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test bs.md": {
+    "scroll": 177.84513706933635,
+    "cursor": {
+      "from": {
+        "line": 123,
+        "ch": 36
+      },
+      "to": {
+        "line": 123,
+        "ch": 36
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/2026-04-23 -  - Check The Facts.md": {
+    "scroll": 6,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 0
+      },
+      "to": {
+        "line": 25,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/2026-04-23 - mindfulness - Ass Skill.md": {
+    "scroll": 7.68,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/2026-04-23 - distress tolerance - distressing ass.md": {
+    "scroll": 3.3250207813798838,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mental Health Stuff/2026-04-23 - Emotional Regulation - fffffffff.md": {
+    "scroll": 3.8237738985868663,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/Gallery by Character.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/- by Character.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 51,
+        "ch": 0
+      },
+      "to": {
+        "line": 51,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/subject - Apr23 2026 13-38.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 85,
+        "ch": 0
+      },
+      "to": {
+        "line": 85,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/osdjfj.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/-- by Character.md": {
+    "scroll": 3.8752052545155995,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 0
+      },
+      "to": {
+        "line": 24,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/2026-04-23 - Zu- asdfsfd.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Characters/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Characters/Rappy.md": {
+    "scroll": 9.246170587138451,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 1
+      },
+      "to": {
+        "line": 26,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "Characters/subject - Apr23 2026 15-19.md": {
+    "scroll": 4.746494066882416,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Characters/Zu.md": {
+    "scroll": 31.655165182589524,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 0
+      },
+      "to": {
+        "line": 35,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Characters/subject - Apr23 2026 15-22.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "-- by Character.md": {
+    "scroll": 4.750455373406193,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 8
+      },
+      "to": {
+        "line": 25,
+        "ch": 8
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "test bs 2.md": {
+    "scroll": 16.629268292682926,
+    "cursor": {
+      "from": {
+        "line": 37,
+        "ch": 0
+      },
+      "to": {
+        "line": 37,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Characters/Zu-image-index.md": {
+    "scroll": 4.048040319553912,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 0
+      },
+      "to": {
+        "line": 35,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave.md": {
+    "scroll": 22.565764631843926,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 0
+      },
+      "to": {
+        "line": 25,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  }
+}

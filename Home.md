@@ -4,15 +4,18 @@ dg-publish: true
 dg-pinned: true
 cssclasses:
   - cards
-coverImage: "[[attachments/thumbnails/resized/2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp]]"
-thumbnail: "[[attachments/thumbnails/resized/757fcbd95057ae7b840163d9252fc941_86cf658e.webp]]"
+coverImage: "[[attachments/Logos/whimsy scoundrel logo wip 2.png]]"
+thumbnail: "[[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp]]"
 dg-content-classes: cards
 ---
+
+![[whimsy scoundrel logo wip 2.png]]
+
 # Have some things!
 ---
 
 Welcome to **Whimsy Scoundrel**: a silly little project by LvK!
-I'll add more proper text later on, but for now let's get some placeholder info going...
+I'll add more proper text later on, but for now let's get some placeholder info going....
 
 
 
@@ -24,7 +27,7 @@ I'll add more proper text later on, but for now let's get some placeholder info 
 * [[Gallery of Sightings]] - View the collection!
 * [[-- by Character|Character Gallery]] - Sorted by character
 
-> [!comic]
+> [!comic] Placeholder Nonsense Hello
 >> [!comic-panel|bubble top left]
 >> > ![[2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp]]
 >> 

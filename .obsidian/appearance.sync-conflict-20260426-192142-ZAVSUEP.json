@@ -1,0 +1,21 @@
+{
+  "cssTheme": "Royal Velvet",
+  "enabledCssSnippets": [
+    "pws-tables-cards",
+    "minimal-cards",
+    "minimal-img-grid",
+    "image-grid",
+    "pws-tables-cards-edit1",
+    "callout-clue",
+    "callout-cards-deck",
+    "callout-comic",
+    "callout-conversation",
+    "callout-profile",
+    "callout-pinned",
+    "callout-full-width-image",
+    "callout-masonry",
+    "dataview-cards-deck",
+    "lvk-handwriting-font"
+  ],
+  "theme": "system"
+}

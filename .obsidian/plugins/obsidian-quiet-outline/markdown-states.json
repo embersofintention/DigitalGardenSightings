@@ -31,15 +31,15 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 9.112333071484683,
+    "scroll": 32.333333333333336,
     "cursor": {
       "from": {
-        "line": 45,
-        "ch": 36
+        "line": 72,
+        "ch": 0
       },
       "to": {
-        "line": 45,
-        "ch": 36
+        "line": 72,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -59,14 +59,14 @@
     "expandedKeys": []
   },
   "_templates/_ADD DATE AND TAGLINE STUFF.md": {
-    "scroll": 3.5224333208323433,
+    "scroll": 1.1173184357541899,
     "cursor": {
       "from": {
-        "line": 12,
+        "line": 14,
         "ch": 0
       },
       "to": {
-        "line": 12,
+        "line": 14,
         "ch": 0
       }
     },
@@ -269,7 +269,7 @@
     "expandedKeys": []
   },
   "Untitled.md": {
-    "scroll": 0,
+    "scroll": 0.36115107913669064,
     "cursor": {
       "from": {
         "line": 0,
@@ -329,23 +329,23 @@
     ]
   },
   "Home.md": {
-    "scroll": 52.05024589882037,
+    "scroll": 38.781202712548335,
     "cursor": {
       "from": {
-        "line": 42,
+        "line": 19,
         "ch": 0
       },
       "to": {
-        "line": 42,
+        "line": 19,
         "ch": 0
       }
     },
     "expandedKeys": [
       "item-1-3",
-      "item-4-9",
       "item-3-8",
       "item-2-7",
       "item-1-6",
+      "item-4-9",
       "item-2-4"
     ]
   },
@@ -714,14 +714,14 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md": {
-    "scroll": 8.838554045282693,
+    "scroll": 9.885656970912738,
     "cursor": {
       "from": {
-        "line": 20,
+        "line": 19,
         "ch": 0
       },
       "to": {
-        "line": 20,
+        "line": 19,
         "ch": 0
       }
     },
@@ -745,11 +745,11 @@
     "scroll": 4.653061224489796,
     "cursor": {
       "from": {
-        "line": 30,
+        "line": 29,
         "ch": 56
       },
       "to": {
-        "line": 30,
+        "line": 29,
         "ch": 56
       }
     },
@@ -899,14 +899,14 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md": {
-    "scroll": 10.267310395908817,
+    "scroll": 16.460176991150444,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       }
     },
@@ -916,11 +916,11 @@
     "scroll": 8.587665198237886,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       }
     },
@@ -930,25 +930,25 @@
     "scroll": 9.74273127753304,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 22,
         "ch": 30
       },
       "to": {
-        "line": 23,
+        "line": 22,
         "ch": 30
       }
     },
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md": {
-    "scroll": 7.581047381546135,
+    "scroll": 18.654485049833887,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       }
     },
@@ -957,14 +957,14 @@
     ]
   },
   "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md": {
-    "scroll": 11.091787243042974,
+    "scroll": 24.444702040816328,
     "cursor": {
       "from": {
-        "line": 28,
+        "line": 27,
         "ch": 0
       },
       "to": {
-        "line": 28,
+        "line": 27,
         "ch": 0
       }
     },
@@ -976,11 +976,11 @@
     "scroll": 10.016611295681063,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 23,
         "ch": 0
       },
       "to": {
-        "line": 24,
+        "line": 23,
         "ch": 0
       }
     },
@@ -990,67 +990,67 @@
     "scroll": 10.59647577092511,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 22,
         "ch": 42
       },
       "to": {
-        "line": 23,
+        "line": 22,
         "ch": 42
       }
     },
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md": {
-    "scroll": 10.040816326530612,
+    "scroll": 8.458222666899536,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 24,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 24,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md": {
-    "scroll": 3.0120481927710845,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
+        "line": 15,
         "ch": 0
       },
       "to": {
-        "line": 16,
+        "line": 15,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md": {
-    "scroll": 4.507042253521127,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
+        "line": 16,
         "ch": 0
       },
       "to": {
-        "line": 17,
+        "line": 16,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md": {
-    "scroll": 8.84455527847049,
+    "scroll": 23.223436106510384,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 23,
         "ch": 50
       },
       "to": {
-        "line": 24,
+        "line": 23,
         "ch": 50
       }
     },
@@ -1060,11 +1060,11 @@
     "scroll": 11.544850498338871,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 22,
         "ch": 0
       }
     },
@@ -1076,25 +1076,25 @@
     "scroll": 11.160377358490566,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 23,
         "ch": 0
       },
       "to": {
-        "line": 24,
+        "line": 23,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md": {
-    "scroll": 12.332075011055425,
+    "scroll": 19.430232558139537,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 25,
         "ch": 0
       },
       "to": {
-        "line": 24,
+        "line": 25,
         "ch": 0
       }
     },
@@ -1246,14 +1246,14 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md": {
-    "scroll": 12.490746068242771,
+    "scroll": 17.53301886792453,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 23,
         "ch": 0
       },
       "to": {
-        "line": 24,
+        "line": 23,
         "ch": 0
       }
     },
@@ -1372,14 +1372,14 @@
     "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-20 - Zu- Incognito Mode.md": {
-    "scroll": 8.21945127009949,
+    "scroll": 23.09004851310484,
     "cursor": {
       "from": {
-        "line": 22,
+        "line": 21,
         "ch": 0
       },
       "to": {
-        "line": 22,
+        "line": 21,
         "ch": 0
       }
     },
@@ -1430,15 +1430,15 @@
     "expandedKeys": []
   },
   "Gallery of Sightings.md": {
-    "scroll": 14.65448768864178,
+    "scroll": 6.852409638554217,
     "cursor": {
       "from": {
         "line": 21,
-        "ch": 53
+        "ch": 72
       },
       "to": {
         "line": 21,
-        "ch": 54
+        "ch": 72
       }
     },
     "expandedKeys": [
@@ -1476,15 +1476,15 @@
     "expandedKeys": []
   },
   "_templates/add Mental Health Art.md": {
-    "scroll": 13.675105485232068,
+    "scroll": 3.377777880041267,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 14
+        "line": 42,
+        "ch": 40
       },
       "to": {
-        "line": 26,
-        "ch": 14
+        "line": 42,
+        "ch": 40
       }
     },
     "expandedKeys": []
@@ -1548,76 +1548,20 @@
     "expandedKeys": []
   },
   "test bs.md": {
-    "scroll": 177.84513706933635,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 123,
-        "ch": 36
-      },
-      "to": {
-        "line": 123,
-        "ch": 36
-      }
-    },
-    "expandedKeys": []
-  },
-  "Mental Health Stuff/2026-04-23 -  - Check The Facts.md": {
-    "scroll": 6,
-    "cursor": {
-      "from": {
-        "line": 25,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 25,
+        "line": 6,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
-  "Mental Health Stuff/2026-04-23 - mindfulness - Ass Skill.md": {
-    "scroll": 7.68,
-    "cursor": {
-      "from": {
-        "line": 22,
-        "ch": 0
-      },
-      "to": {
-        "line": 22,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Mental Health Stuff/2026-04-23 - distress tolerance - distressing ass.md": {
-    "scroll": 3.3250207813798838,
-    "cursor": {
-      "from": {
-        "line": 20,
-        "ch": 0
-      },
-      "to": {
-        "line": 20,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Mental Health Stuff/2026-04-23 - Emotional Regulation - fffffffff.md": {
-    "scroll": 3.8237738985868663,
-    "cursor": {
-      "from": {
-        "line": 23,
-        "ch": 0
-      },
-      "to": {
-        "line": 23,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Sightings In The Wild/Gallery by Character.md": {
+  "attachments/thumbnails/resized/882d0dda55139b84a099d0ea3d4e27a1_86cf658e.webp.md": {
     "scroll": 0,
     "cursor": {
       "from": {
@@ -1631,57 +1575,29 @@
     },
     "expandedKeys": []
   },
-  "Sightings In The Wild/- by Character.md": {
-    "scroll": 0,
+  "Sightings In The Wild/2026-04-25 - Rappy- Whoooosh.md": {
+    "scroll": 4.991368605382052,
     "cursor": {
       "from": {
-        "line": 51,
-        "ch": 0
+        "line": 25,
+        "ch": 12
       },
       "to": {
-        "line": 51,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Sightings In The Wild/subject - Apr23 2026 13-38.md": {
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 85,
-        "ch": 0
-      },
-      "to": {
-        "line": 85,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Sightings In The Wild/osdjfj.md": {
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 10,
-        "ch": 0
-      },
-      "to": {
-        "line": 10,
-        "ch": 0
+        "line": 25,
+        "ch": 12
       }
     },
     "expandedKeys": []
   },
   "Sightings In The Wild/-- by Character.md": {
-    "scroll": 3.8752052545155995,
+    "scroll": 7.445255474452555,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 17,
         "ch": 0
       },
       "to": {
-        "line": 24,
+        "line": 17,
         "ch": 0
       }
     },
@@ -1689,145 +1605,45 @@
       "item-1-0"
     ]
   },
-  "Sightings In The Wild/2026-04-23 - Zu- asdfsfd.md": {
-    "scroll": 0,
+  "Home.sync-conflict-20260426-192140-ZAVSUEP.md": {
+    "scroll": 37.084627024603485,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 23,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Characters/Untitled.md": {
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Characters/Rappy.md": {
-    "scroll": 9.246170587138451,
-    "cursor": {
-      "from": {
-        "line": 26,
-        "ch": 1
-      },
-      "to": {
-        "line": 26,
-        "ch": 1
-      }
-    },
-    "expandedKeys": []
-  },
-  "Characters/subject - Apr23 2026 15-19.md": {
-    "scroll": 4.746494066882416,
-    "cursor": {
-      "from": {
-        "line": 16,
-        "ch": 0
-      },
-      "to": {
-        "line": 16,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Characters/Zu.md": {
-    "scroll": 31.655165182589524,
-    "cursor": {
-      "from": {
-        "line": 35,
-        "ch": 0
-      },
-      "to": {
-        "line": 35,
+        "line": 10,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-1-3"
     ]
-  },
-  "Characters/subject - Apr23 2026 15-22.md": {
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 11,
-        "ch": 0
-      },
-      "to": {
-        "line": 11,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "-- by Character.md": {
-    "scroll": 4.750455373406193,
-    "cursor": {
-      "from": {
-        "line": 25,
-        "ch": 8
-      },
-      "to": {
-        "line": 25,
-        "ch": 8
-      }
-    },
-    "expandedKeys": [
-      "item-1-0"
-    ]
-  },
-  "test bs 2.md": {
-    "scroll": 16.629268292682926,
-    "cursor": {
-      "from": {
-        "line": 37,
-        "ch": 0
-      },
-      "to": {
-        "line": 37,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "Characters/Zu-image-index.md": {
-    "scroll": 4.048040319553912,
-    "cursor": {
-      "from": {
-        "line": 35,
-        "ch": 0
-      },
-      "to": {
-        "line": 35,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
   },
   "Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave.md": {
-    "scroll": 22.565764631843926,
+    "scroll": 3.203342618384401,
     "cursor": {
       "from": {
-        "line": 25,
+        "line": 31,
         "ch": 0
       },
       "to": {
-        "line": 25,
+        "line": 31,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "test bs 2.md": {
+    "scroll": 32.38331970564187,
+    "cursor": {
+      "from": {
+        "line": 43,
+        "ch": 17
+      },
+      "to": {
+        "line": 42,
         "ch": 0
       }
     },

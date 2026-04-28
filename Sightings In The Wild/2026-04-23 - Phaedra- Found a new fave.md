@@ -1,5 +1,5 @@
 ---
-header: Found a new fave
+header: Found a new fave brekky spot!
 description: ...and left a lil' pal to find, naturally
 leftAt: diner
 characters:
@@ -27,7 +27,7 @@ cssclasses:
 ![[2026-04-23 - Phaedra- Found a new fave-1.png]]
 
 
-# Found a new fave
+# Found a new fave brekky spot!
 
 
 ...and left a lil' pal to find, naturally
