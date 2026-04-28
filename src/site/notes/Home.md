@@ -28,17 +28,7 @@ Sed auctor vitae sapien mollis tincidunt.
 
 
 
-> [!profile]+ Layout Test
->> > [!polaroid|right] Derp
->> ![Rappy-1.png](/img/user/attachments/Rappy-1.png)
->  
-> ---
->  * **Name**: Rapscallien / "Rappy"
->  * **Pronouns**: They/them
-> 
-> ---
-> 
-> A whimsical little dingus what can I say I love him lol
+
 
 
 
@@ -88,7 +78,17 @@ Sed auctor vitae sapien mollis tincidunt.
 > Head to the [[Gallery of Sightings\|Gallery of Sightings]] and look around!
 
 
-
+> [!profile]+ Layout Test
+>> > [!polaroid|right] Derp
+>> ![Rappy-1.png](/img/user/attachments/Rappy-1.png)
+>  
+> ---
+>  * **Name**: Rapscallien / "Rappy"
+>  * **Pronouns**: They/them
+> 
+> ---
+> 
+> A whimsical little dingus what can I say I love him lol
 
 
 # Please Note:  This is a work in progress!!
