@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards, cards-1-1, cards-align-bottom, img-grid","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","cards-1-1","cards-align-bottom"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards, cards-align-bottom, img-grid","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","cards-align-bottom"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
 ---
 
 
@@ -35,24 +35,19 @@
 
 > [!polaroid|left] Zu / Nug (cat)
 > ![Zu-5.png](/img/user/attachments/_Zu/Zu-5.png)
-## Why?
+## Why I Do The Thing
 
 Well... Life is rough. We're stuck running around this way and that, all caught up in a relentless grind that's often pretty thankless.  And for a lot of folks, it's getting harder and harder to find those *little moments in the day that leave us with a sense of genuine joy.*
 
-But we don't have to accept this at face value -- **Why not create those moments ourselves**, and make things a little more interesting?
+But we don't have to accept this at face value -- **Why not create those moments ourselves**, and make things a little more interesting?  
+
+It costs next to nothing, it's fun to do, and it has the potential to make a stranger's day.  Good things all around!
 
 > [!polaroid] Rappy (Whoosh!)
 > ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)
 
->[!fwi|wide no-title] wheeee 
+>[!fwi|wide no-title] egads! 
 >![2026-04-29 - Zu- Dancin On A Street Sign-thumb.webp](/img/user/attachments/thumbnails/2026-04-29%20-%20Zu-%20Dancin%20On%20A%20Street%20Sign-thumb.webp)
-
-
-
-
-
-
-
 
 # Links For Now (while I'm getting stuff set up)
 ---
