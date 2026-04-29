@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards, img-grid, headings-rainbow","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","headings-rainbow"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards img-grid headings-rainbow","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","headings-rainbow"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
 ---
 
 
