@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards, cards-align-bottom, img-grid","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","cards-align-bottom"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards, img-grid, headings-rainbow","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","headings-rainbow"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
 ---
 
 
@@ -116,7 +116,7 @@ It costs next to nothing, it's fun to do, and it has the potential to make a str
 
 ### Formatting
 
-
+==highlights==
 
 > This is a test quote
 
