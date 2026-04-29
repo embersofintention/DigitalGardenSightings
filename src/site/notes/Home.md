@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"pws-tables-cards","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["pws-tables-cards"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
 ---
 
 
@@ -11,21 +11,32 @@
 > [!polaroid] Whoosh!!
 > ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)
 
-HELLO HI THIS IS A BUNCH OF PLACEHOLDER TEXT FOR NOW OKAY
-
+## So What Is a Whimsy Scoundrel?
 > [!polaroid|right] Derp
 > ![attachments/2026-04-23 - Phaedra- Found a new fave-1.png](/img/user/attachments/2026-04-23%20-%20Phaedra-%20Found%20a%20new%20fave-1.png)
+* Playful little index card critters
+* often created on the spot, designed to be interacting with something in the environment
+* left with friendly notes on the back, to bring a smile to whoever may find them
 
-butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt butt 
+(The term can also refer to both the concept as a *fun little artistic movement*, and a *name for folks who embrace it!*)
 
+---
 
 > [!polaroid|left] More Derp
 > ![Zu-5.png](/img/user/attachments/_Zu/Zu-5.png)
+## Why?
 
-Sed auctor vitae sapien mollis tincidunt.
+Well... Life is rough. We're stuck running around this way and that, all caught up in a relentless grind that's often pretty thankless.  And for a lot of folks, it's getting harder and harder to find those *little moments in the day that leave us with a sense of genuine joy.*
+
+But we don't have to accept this at face value -- **Why not create those moments ourselves**, and make things a little more interesting?
 
 
 
+
+>[!pinned]+ Site Is Heavily Under Construction
+>expect weird stuff all over the place for now.
+>
+>Seriously, 'til I'm ready to consider this shareable, I'm gonna be tossing weird placeholder nonsense all over the place.  Expect a mess, but feel free to poke around and enjoy the chaos haha
 
 
 
@@ -39,6 +50,7 @@ Sed auctor vitae sapien mollis tincidunt.
 * [[FAQ\|FAQ]] - Curious about anything? Click here
 * [[Gallery of Sightings\|Gallery of Sightings]] - View the collection!
 * [[Sightings In The Wild/-- by Character\|Character Gallery]] - Sorted by character
+* ...Or maybe you'd like to [[Try It Out/Whimsy Questing\|try it out]] for yourself..?
 
 > [!comic] Placeholder Nonsense Hello
 >> [!comic-panel|bubble top left]
