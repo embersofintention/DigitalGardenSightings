@@ -13,11 +13,10 @@
 # Imagination, Good Vibes and Whimsy
 ---
 
-> [!polaroid] Whoosh!!
-> ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)
+
 
 ## So What Is a Whimsy Scoundrel?
-> [!polaroid|right] Derp
+> [!polaroid|right] Phaedra (porcupine)
 > ![attachments/2026-04-23 - Phaedra- Found a new fave-1.png](/img/user/attachments/2026-04-23%20-%20Phaedra-%20Found%20a%20new%20fave-1.png)
 * Playful little index card critters
 * often created on the spot, designed to be interacting with something in the environment
@@ -27,7 +26,7 @@
 
 ---
 
-> [!polaroid|left] More Derp
+> [!polaroid|left] Zu / Nug (cat)
 > ![Zu-5.png](/img/user/attachments/_Zu/Zu-5.png)
 ## Why?
 
@@ -35,6 +34,8 @@ Well... Life is rough. We're stuck running around this way and that, all caught 
 
 But we don't have to accept this at face value -- **Why not create those moments ourselves**, and make things a little more interesting?
 
+> [!polaroid] Rappy (Whoosh!)
+> ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)
 
 
 
@@ -45,14 +46,13 @@ But we don't have to accept this at face value -- **Why not create those moments
 
 
 
-
-# Links To Start With
+# Links For Now
 ---
 
 * [[FAQ\|FAQ]] - Curious about anything? Click here
 * [[Gallery of Sightings\|Gallery of Sightings]] - View the collection!
 * [[Sightings In The Wild/-- by Character\|Character Gallery]] - Sorted by character
-* ...Or maybe you'd like to [[Try It Out/Whimsy Questing\|try it out]] for yourself..?
+* ...Or maybe you'd like to [[Try It Out/Whimsy Questing\|try out]] something like this yourself..?
 
 > [!comic] Placeholder Nonsense Hello
 >> [!comic-panel|bubble top left]
@@ -60,8 +60,8 @@ But we don't have to accept this at face value -- **Why not create those moments
 >> 
 >>  [[Gallery of Sightings\|Gallery]] ok
 >
->> [!comic-panel|bubble top right]
->> > ![attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.webp](/img/user/src/site/img/user/src/site/img/user/attachments/thumbnails/resized/2026-04-20%20-%20Phaedra-%20Fruit%20Waffle%20Prickle%20Friend-3.webp)
+>> [!comic-panel|bubble bottom right]
+>> > ![attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.png](/img/user/attachments/2026-04-20%20-%20Phaedra-%20Fruit%20Waffle%20Prickle%20Friend-3.png)
 >> 
 >> Go look at it
 >
@@ -92,7 +92,7 @@ But we don't have to accept this at face value -- **Why not create those moments
 > Head to the [[Gallery of Sightings\|Gallery of Sightings]] and look around!
 
 
-> [!profile]+ Layout Test
+> [!profile]+ Profile WIP Test Thing
 >> > [!polaroid|right] Derp
 >> ![Rappy-1.png](/img/user/attachments/Rappy-1.png)
 >  
