@@ -4,6 +4,11 @@
 
 
 ![whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)
+>[!pinned]+ Site Is Heavily Under Construction
+>expect weird stuff all over the place for now.
+>
+>Seriously, 'til I'm ready to consider this shareable, I'm gonna be tossing weird placeholder nonsense all over the place.  Expect a mess, but feel free to poke around and enjoy the chaos haha
+
 
 # Imagination, Good Vibes and Whimsy
 ---
@@ -33,10 +38,7 @@ But we don't have to accept this at face value -- **Why not create those moments
 
 
 
->[!pinned]+ Site Is Heavily Under Construction
->expect weird stuff all over the place for now.
->
->Seriously, 'til I'm ready to consider this shareable, I'm gonna be tossing weird placeholder nonsense all over the place.  Expect a mess, but feel free to poke around and enjoy the chaos haha
+
 
 
 
