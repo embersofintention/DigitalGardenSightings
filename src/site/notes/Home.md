@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"pws-tables-cards","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["pws-tables-cards"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"contentClasses":"cards, cards-1-1, cards-align-bottom, img-grid","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["cards","cards-1-1","cards-align-bottom"],"coverImage":"[attachments/Logos/whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)","thumbnail":"[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp](/img/user/attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp)"}}
 ---
 
 
@@ -10,19 +10,24 @@
 >Seriously, 'til I'm ready to consider this shareable, I'm gonna be tossing weird placeholder nonsense all over the place.  Expect a mess, but feel free to poke around and enjoy the chaos haha
 
 
+---
 # Imagination, Good Vibes and Whimsy
 ---
-
-
-
+>[!fwi|wide] ## Sweet! 
+>![attachments/2026-04-16-1734--Zu Ice Cream 1.jpg](/img/user/attachments/2026-04-16-1734--Zu%20Ice%20Cream%201.jpg)
+.
+.
+.
 ## So What Is a Whimsy Scoundrel?
 > [!polaroid|right] Phaedra (porcupine)
 > ![attachments/2026-04-23 - Phaedra- Found a new fave-1.png](/img/user/attachments/2026-04-23%20-%20Phaedra-%20Found%20a%20new%20fave-1.png)
-* Playful little index card critters
-* often created on the spot, designed to be interacting with something in the environment
-* left with friendly notes on the back, to bring a smile to whoever may find them
 
-(The term can also refer to both the concept as a *fun little artistic movement*, and a *name for folks who embrace it!*)
+**It's what I call my little index card critters!**
+* often created on the spot, designed to be interacting with something in the environment
+* left for others to find, with friendly little notes on the back
+* Done as a silly lil' way to bring some playfulness and whimsy into each day!
+
+(The term can also refer to both the concept as a *fun little artistic movement*, and a *name for folks who do it too!*)
 
 ---
 
@@ -37,6 +42,8 @@ But we don't have to accept this at face value -- **Why not create those moments
 > [!polaroid] Rappy (Whoosh!)
 > ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)
 
+>[!fwi|wide grayscale] # wheeee 
+>![2026-04-29 - Zu- Dancin On A Street Sign-thumb.webp](/img/user/attachments/thumbnails/2026-04-29%20-%20Zu-%20Dancin%20On%20A%20Street%20Sign-thumb.webp)
 
 
 
@@ -45,9 +52,9 @@ But we don't have to accept this at face value -- **Why not create those moments
 
 
 
-
-# Links For Now
+# Links For Now (while I'm getting stuff set up)
 ---
+(Remember, this site is very much a work in progress. Everything is still a mess and not intended to be seen JUST yet, but click around if you'd like since you're here!)
 
 * [[FAQ\|FAQ]] - Curious about anything? Click here
 * [[Gallery of Sightings\|Gallery of Sightings]] - View the collection!
@@ -75,17 +82,17 @@ But we don't have to accept this at face value -- **Why not create those moments
 # Most Recent Sightings In The Wild
 ---
 
-| Thumbnail                                                                       | Link                                                                                                                       | info                                                                                                           | Left At                                           |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg\|250](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)                        | **[[Sightings In The Wild/2026-04-25 - Rappy- Whoooosh\|Whoooosh!!]]**                                                  | **2026, 04/25** -- Nice skateboard, Rappy!                                                                     | **Left at**: Brekky diner                         |
-| ![attachments/2026-04-23 - Phaedra- Found a new fave-2.png\|250](/img/user/attachments/2026-04-23%20-%20Phaedra-%20Found%20a%20new%20fave-2.png)              | **[[Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave\|Found a new fave brekky spot!]]**                     | **2026, 04/23** -- ...and left a lil' pal to find, naturally                                                   | **Left at**: diner                                |
-| ![attachments/2026-04-20 - Zu- Incognito Mode-2.png\|250](/img/user/attachments/2026-04-20%20-%20Zu-%20Incognito%20Mode-2.png)                     | **[[Sightings In The Wild/2026-04-20 - Zu- Incognito Mode\|Incognito Mode]]**                                           | **2026, 04/20** -- Cleverly hiding next to a plant. It's like he isn't even there, right?                      | **Left at**: Boba tea place                       |
-| ![attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-5.png\|250](/img/user/attachments/2026-04-20%20-%20Phaedra-%20Fruit%20Waffle%20Prickle%20Friend-5.png)   | **[[Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend\|Fruit Waffle Prickle Friend]]**            | **2026, 04/20** -- Phaedra makes an appearance at our brekky date                                              | **Left at**: Lovely breakfast spot in Cranston    |
-| ![attachments/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.png\|250](/img/user/attachments/2026-04-18%20-%20Rappy,Zu-%20NYEEE%20GIMME%20SOME%20pbbbbt%20MINE-1.png) | **[[Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE\|"NYEEE GIMME SOME!"  "pbbbbt MINE!!"]]** | **2026, 04/18** -- C'mon Rappy you gotta share some, that's a big cookie there's plenty!                       | **Left at**: Wooden divider blinds at Panera      |
-| ![attachments/2026-04-18 - Misc Foxes- Soda Fox-3.png\|250](/img/user/attachments/2026-04-18%20-%20Misc%20Foxes-%20Soda%20Fox-3.png)                   | **[[Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox\|Soda Fox]]**                                               | **2026, 04/18** -- Caught frolicking at the local Panera during an art jam (heh heh)                           | **Left at**: On the soda machine at a coffee shop |
-| ![attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-8.png\|250](/img/user/attachments/2026-04-17%20-%20Zu-%20Whimsy%20at%20a%20Brewhouse-8.png)              | **[[Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse\|Whimsy at a Brewhouse]]**                             | **2026, 04/17** -- This spot was a real treat. They make the sammiches on soft pretzels, all made to order! :0 | **Left at**: A Brewhouse in Prov                  |
-| ![attachments/2026-04-17 - Zu- Sugar Bath of Luxury-1.png\|250](/img/user/attachments/2026-04-17%20-%20Zu-%20Sugar%20Bath%20of%20Luxury-1.png)               | **[[Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury\|Sugar Bath of Luxury]]**                               | **2026, 04/17** -- Step aside bubble baths lol, Zu found something better                                      | **Left at**: Denny's                              |
-| ![attachments/2026-04-17 - Zu- Splenda-1.png\|250](/img/user/attachments/2026-04-17%20-%20Zu-%20Splenda-1.png)                            | **[[Sightings In The Wild/2026-04-17 - Zu- Splenda Zu\|Splenda Zu]]**                                                   | **2026, 04/17** -- He might be a mischievous gremlin, but he's a sweet one! You'd trust that face, right?      | **Left at**: A breakfast diner in Cranston        |
+| Thumbnail                                                                            | Link                                                                                                                       | info                                                                                                                                         | Left At                                           |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| ![attachments/thumbnails/2026-04-29 - Zu- Dancin On A Street Sign-thumb.webp\|250](/img/user/attachments/thumbnails/2026-04-29%20-%20Zu-%20Dancin%20On%20A%20Street%20Sign-thumb.webp) | **[[Sightings In The Wild/2026-04-29 - Zu- Dancin On A Street Sign\|Dancin On A Street Sign]]**                         | **2026, 04/29** -- Left swingin' in the breeze. Wasn't anticipating the shadows from his googly eyes to make him look so weird haha, whoops! | **Left at**: A street downtown during a walk      |
+| ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg\|250](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)                             | **[[Sightings In The Wild/2026-04-25 - Rappy- Whoooosh\|Whoooosh!!]]**                                                  | **2026, 04/25** -- Nice skateboard, Rappy!                                                                                                   | **Left at**: Brekky diner                         |
+| ![attachments/2026-04-23 - Phaedra- Found a new fave-2.png\|250](/img/user/attachments/2026-04-23%20-%20Phaedra-%20Found%20a%20new%20fave-2.png)                   | **[[Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave\|Found a new fave brekky spot!]]**                     | **2026, 04/23** -- ...and left a lil' pal to find, naturally                                                                                 | **Left at**: diner                                |
+| ![attachments/2026-04-20 - Zu- Incognito Mode-2.png\|250](/img/user/attachments/2026-04-20%20-%20Zu-%20Incognito%20Mode-2.png)                          | **[[Sightings In The Wild/2026-04-20 - Zu- Incognito Mode\|Incognito Mode]]**                                           | **2026, 04/20** -- Cleverly hiding next to a plant. It's like he isn't even there, right?                                                    | **Left at**: Boba tea place                       |
+| ![attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-5.png\|250](/img/user/attachments/2026-04-20%20-%20Phaedra-%20Fruit%20Waffle%20Prickle%20Friend-5.png)        | **[[Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend\|Fruit Waffle Prickle Friend]]**            | **2026, 04/20** -- Phaedra makes an appearance at our brekky date                                                                            | **Left at**: Lovely breakfast spot in Cranston    |
+| ![attachments/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE-1.png\|250](/img/user/attachments/2026-04-18%20-%20Rappy,Zu-%20NYEEE%20GIMME%20SOME%20pbbbbt%20MINE-1.png)      | **[[Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE\|"NYEEE GIMME SOME!"  "pbbbbt MINE!!"]]** | **2026, 04/18** -- C'mon Rappy you gotta share some, that's a big cookie there's plenty!                                                     | **Left at**: Wooden divider blinds at Panera      |
+| ![attachments/2026-04-18 - Misc Foxes- Soda Fox-3.png\|250](/img/user/attachments/2026-04-18%20-%20Misc%20Foxes-%20Soda%20Fox-3.png)                        | **[[Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox\|Soda Fox]]**                                               | **2026, 04/18** -- Caught frolicking at the local Panera during an art jam (heh heh)                                                         | **Left at**: On the soda machine at a coffee shop |
+| ![attachments/2026-04-17 - Zu- Whimsy at a Brewhouse-8.png\|250](/img/user/attachments/2026-04-17%20-%20Zu-%20Whimsy%20at%20a%20Brewhouse-8.png)                   | **[[Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse\|Whimsy at a Brewhouse]]**                             | **2026, 04/17** -- This spot was a real treat. They make the sammiches on soft pretzels, all made to order! :0                               | **Left at**: A Brewhouse in Prov                  |
+| ![attachments/2026-04-17 - Zu- Sugar Bath of Luxury-1.png\|250](/img/user/attachments/2026-04-17%20-%20Zu-%20Sugar%20Bath%20of%20Luxury-1.png)                    | **[[Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury\|Sugar Bath of Luxury]]**                               | **2026, 04/17** -- Step aside bubble baths lol, Zu found something better                                                                    | **Left at**: Denny's                              |
 
 { .block-language-dataview}
 > [!clue|tape-b paper-d]+ Want More Whimsy?
