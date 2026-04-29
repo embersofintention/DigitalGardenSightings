@@ -13,8 +13,10 @@
 ---
 # Imagination, Good Vibes and Whimsy
 ---
->[!fwi|wide] ## Sweet! 
+>[!fwi|wide no-title] Sweet! 
 >![attachments/2026-04-16-1734--Zu Ice Cream 1.jpg](/img/user/attachments/2026-04-16-1734--Zu%20Ice%20Cream%201.jpg)
+
+
 .
 .
 .
@@ -42,7 +44,7 @@ But we don't have to accept this at face value -- **Why not create those moments
 > [!polaroid] Rappy (Whoosh!)
 > ![attachments/2026-04-25 - Rappy- Whoooosh-1.jpg](/img/user/attachments/2026-04-25%20-%20Rappy-%20Whoooosh-1.jpg)
 
->[!fwi|wide grayscale] # wheeee 
+>[!fwi|wide no-title] wheeee 
 >![2026-04-29 - Zu- Dancin On A Street Sign-thumb.webp](/img/user/attachments/thumbnails/2026-04-29%20-%20Zu-%20Dancin%20On%20A%20Street%20Sign-thumb.webp)
 
 
