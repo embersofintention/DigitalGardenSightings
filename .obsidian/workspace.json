@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "614e2f95b8a3791c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/add Mental Health Art.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "add Mental Health Art"
-            }
-          },
-          {
             "id": "277c73e6e5517675",
             "type": "leaf",
             "state": {
@@ -41,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE"
+            }
+          },
+          {
+            "id": "20ade8c7508bffc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Site Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "__Site Planning"
             }
           },
           {
@@ -64,35 +64,33 @@
             }
           },
           {
-            "id": "96d30346f9134d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Zu-image-index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zu-image-index"
-            }
-          },
-          {
             "id": "9ebd42ae009ac65d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/2026-04-16-1734--Zu Ice Cream 1.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "2026-04-16-1734--Zu Ice Cream 1"
+            }
+          },
+          {
+            "id": "dacf21ab874a8ab6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "test bs 2.md",
+                "file": "attachments/banners/banner images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test bs 2"
+              "title": "banner images"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +144,7 @@
             }
           },
           {
-            "id": "4e921b60dc622610",
+            "id": "43c176d2e8ad60d2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -278,7 +276,34 @@
   },
   "active": "a6a461c69e8ccfc6",
   "lastOpenFiles": [
+    "Home.md",
+    "attachments/banners/banner images.md",
+    "attachments/banners/banner-1.png",
+    "attachments/2026-05-01 - Phaedra- Gimme Fry-1.png",
+    "attachments/banners",
+    "Sightings In The Wild/2026-05-01 - Phaedra- Gimme Fry.md",
+    "attachments/thumbnails/resized/2026-05-01 - Phaedra- Gimme Fry-1.webp",
+    "attachments/2026-04-16-1734--Zu Ice Cream 1.jpg",
+    "attachments/2026-04-16--Zu Ice Cream 2.jpg",
+    "attachments/2026-04-16--Zu Hanging Out.jpg",
+    "attachments/2026-04-16--tortilla chips.jpg",
+    "attachments/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png",
+    "Try It Out/Whimsy Questing.md",
+    "Sightings In The Wild/2026-04-29 - Zu- Dancin On A Street Sign.md",
+    "attachments/thumbnails/resized/d699770452a8a93581de32ead33aaadf_86cf658e.webp",
+    "attachments/thumbnails/resized/ddf0d632ad766b67ef5b23d42b0fda57_86cf658e.webp",
+    "Gallery of Sightings.md",
+    "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
     "test bs 2.md",
+    "Try It Out",
+    "__Site Planning.md",
+    "src/site/styles/user/callouts-letter.css",
+    "test bs.md",
+    "Characters/Rappy.md",
+    "Characters/Zu-image-index.md",
+    "Sightings In The Wild/2026-04-25 - Rappy- Whoooosh.md",
+    "Characters/transparent image index.md",
+    "Mental Health Art.md",
     "src/site/notes/Sightings In The Wild/2026-04-25 - Rappy- Whoooosh.md",
     "src/site/notes/Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
@@ -289,40 +314,12 @@
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Ice Cream Zu.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
-    "src/site/notes/Sightings In The Wild/-- by Character.md",
     "src/site/notes/Sightings In The Wild",
-    "src/site/img/user/src/site/img/user/attachments/thumbnails/resized/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.webp",
-    "src/site/img/user/src/site/img/user/attachments/thumbnails/resized/2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp",
     "src/site/img/user/src/site/img/user/attachments/thumbnails/resized",
     "src/site/img/user/src/site/img/user/attachments/thumbnails",
     "src/site/img/user/src/site/img/user/attachments",
     "src/site/img/user/src/site/img/user",
     "src/site/img/user/src/site/img",
-    "src/site/img/user/src/site",
-    "src/site/img/user/src",
-    "src/site/img/user/attachments/Logos/whimsy scoundrel logo wip 2.png",
-    "src/site/img/user/attachments/Logos",
-    "src/site/img/user/attachments/2026-04-25 - Rappy- Whoooosh-1.jpg",
-    "Home.md",
-    "src/site/styles/user/callout-polaroid.css",
-    "test bs.md",
-    "Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave.md",
-    "Sightings In The Wild/-- by Character.md",
-    "attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp",
-    "attachments/Logos/whimsy scoundrel logo wip 2.png",
-    "attachments/thumbnails/resized/757fcbd95057ae7b840163d9252fc941_86cf658e.webp",
-    "attachments/Logos/whimsy scoundrel logo svg1.svg",
-    "src/site/notes/Sightings In The Wild/2026-04-20 - Zu- Incognito Mode.md",
-    "src/site/notes/Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md",
-    "src/site/notes/Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md",
-    "src/site/img/user/attachments/rappy whimsy sketch 2.png",
-    "src/site/img/user/attachments/2026-04-23 - Phaedra- Found a new fave-2.png"
+    "src/site/img/user/src/site"
   ]
 }

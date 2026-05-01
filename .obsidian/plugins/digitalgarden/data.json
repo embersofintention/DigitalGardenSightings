@@ -1,11 +1,12 @@
 {
   "githubRepo": "DigitalGardenSightings",
-  "githubToken": "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",
+  "githubToken": "",
   "githubUserName": "embersofintention",
   "gardenBaseUrl": "",
   "prHistory": [
     "https://github.com/embersofintention/DigitalGardenSightings/pull/6",
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/7"
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/7",
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/8"
   ],
   "baseTheme": "dark",
   "theme": "{\"name\":\"Royal Velvet\",\"author\":\"caro401\",\"repo\":\"caro401/royal-velvet\",\"screenshot\":\"royal-velvet.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/caro401/royal-velvet/HEAD/theme.css\"}",
