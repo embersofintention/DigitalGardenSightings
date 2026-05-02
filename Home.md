@@ -51,8 +51,8 @@ But we don't have to accept this at face value -- **Why not create those moments
 
 It costs next to nothing, it's fun to do, and it has the potential to make a stranger's day.  Good things all around!
 
-> [!polaroid] Rappy (Whoosh!)
-> ![[attachments/2026-04-25 - Rappy- Whoooosh-1.jpg]]
+> [!polaroid] A friendly shiba
+> ![[2026-05-01 - Misc-Doggo- Boba Shibe-1.png]]
 
 
 >[!fwi|wide no-title] egads! 
@@ -70,17 +70,7 @@ It costs next to nothing, it's fun to do, and it has the potential to make a str
 * [[-- by Character|Character Gallery]] - Sorted by character
 * ...Or maybe you'd like to [[Whimsy Questing|try out]] something like this yourself..?
 
-> [!comic] Placeholder Nonsense Hello
->> [!comic-panel|bubble top left]
->> > ![[2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp]]
->> 
->>  [[Gallery of Sightings|Gallery]] ok
->
->> [!comic-panel|bubble bottom right]
->> > ![[attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.png]]
->> 
->> Go look at it
->
+
 
 
 

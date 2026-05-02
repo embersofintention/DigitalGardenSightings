@@ -1,3 +1,4 @@
+@ -0,0 +1,5837 @@
 /*
 :: 📄 origami
 🎨 a theme by kneecaps
@@ -4253,8 +4254,8 @@ strong,
 
 :not(.HyperMD-quote, .callout) + .HyperMD-quote {
 
-    border-top-left-radius: var(--radius-l);
-    border-top-right-radius: var(--radius-l);
+    border-top-left-radius: var(--radius-s);
+    border-top-right-radius: var(--radius-s);
     border: var(--o-border, var(--bb-border-dashed));
     border-bottom: none;
 }
@@ -4273,9 +4274,9 @@ strong,
 }
 
 :not(.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote, .callout) + .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
-    border-top-left-radius: var(--radius-l);
-    border-top-right-radius: var(--radius-l);
-    border: var(--o-border, var(--bb-border-dashed));
+    border-top-left-radius: var(--radius-s);
+    border-top-right-radius: var(--radius-s);
+    border: var(--o-border, var(--bb-border-transparent));
     border-bottom: none;
 }
 
@@ -4842,7 +4843,7 @@ img {
     /* background: linear-gradient(135deg, rgba(var(--callout-color), .3), rgba(var(--callout-color), .6)) !important; */
     background: rgba(var(--callout-color), .1);
     position: relative;
-    border: 1px dashed rgba(var(--callout-color), 1) !important;
+    border: 1px rgba(var(--callout-color), 1) !important;
     box-shadow: none;
     border-radius: var(--radius-s);
     backdrop-filter: blur(16px);
@@ -4850,7 +4851,7 @@ img {
 }
 
 .callout:hover {
-    border: 1px dashed var(--text-normal) !important;
+    border: 1px var(--text-normal) !important;
     transition: all 750ms !important;
 }
 

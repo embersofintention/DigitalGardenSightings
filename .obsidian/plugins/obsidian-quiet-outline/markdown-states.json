@@ -329,25 +329,22 @@
     ]
   },
   "Home.md": {
-    "scroll": 45.42311191992721,
+    "scroll": 17.701412239408203,
     "cursor": {
       "from": {
-        "line": 60,
-        "ch": 0
+        "line": 47,
+        "ch": 58
       },
       "to": {
-        "line": 60,
-        "ch": 0
+        "line": 47,
+        "ch": 58
       }
     },
     "expandedKeys": [
       "item-1-0",
-      "item-1-5",
-      "item-2-6",
       "item-1-8",
-      "item-2-9",
-      "item-3-10",
-      "item-4-11"
+      "item-2-6",
+      "item-1-5"
     ]
   },
   "subject - Apr11 2026 16-56.md": {
@@ -1665,14 +1662,14 @@
     "expandedKeys": []
   },
   "__Site Planning.md": {
-    "scroll": 35.204255319148935,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 54,
-        "ch": 221
+        "line": 78,
+        "ch": 0
       },
       "to": {
-        "line": 49,
+        "line": 78,
         "ch": 0
       }
     },
@@ -1832,6 +1829,20 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-05-01 - Misc-Doggo- Boba Shibe.md": {
+    "scroll": 29.389322916666668,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 194
+      },
+      "to": {
+        "line": 29,
+        "ch": 194
       }
     },
     "expandedKeys": []

@@ -74,7 +74,7 @@ Try it now -- look around you, and let your imagination run.  Picture little car
 
 ---
 
-
+# Misc code snippets and such
 
 
 > [!pinned|medium]+ Whimsy Scoundrels Are:
@@ -84,7 +84,17 @@ Try it now -- look around you, and let your imagination run.  Picture little car
 
 
 
-
+> [!comic] Placeholder Nonsense Hello
+>> [!comic-panel|bubble top left]
+>> > ![[2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp]]
+>> 
+>>  [[Gallery of Sightings|Gallery]] ok
+>
+>> [!comic-panel|bubble bottom right]
+>> > ![[attachments/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend-3.png]]
+>> 
+>> Go look at it
+>
 
 
 

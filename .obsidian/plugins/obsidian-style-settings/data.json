@@ -34,12 +34,10 @@
   "blue-topaz-theme@@tag-style-option": "rainbow-tag",
   "blue-topaz-theme@@bt-colorful-titlebar": true,
   "blue-topaz-theme@@quiet-outline-optimize": false,
-  "o-theme-settings@@o-header-line-h1": true,
+  "o-theme-settings@@o-color-accent": "o-red",
   "o-theme-settings@@o-list-distinct": true,
   "o-theme-settings@@o-border": "none",
-  "o-theme-settings@@o-colorful-headings": false,
-  "o-theme-settings@@o-header-line-accent": "o-rainbow-headers-body",
   "o-theme-settings@@o-header-size": "o-headings-origami-smaller",
-  "o-theme-settings@@o-color-accent": "o-red",
-  "o-theme-settings@@o-header-lapel": false
+  "o-theme-settings@@o-header-line-accent": "o-rainbow-headers-body",
+  "o-theme-settings@@o-header-line-h1": true
 }
