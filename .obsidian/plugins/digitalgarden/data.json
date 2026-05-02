@@ -4,12 +4,12 @@
   "githubUserName": "embersofintention",
   "gardenBaseUrl": "",
   "prHistory": [
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/8",
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/6",
     "https://github.com/embersofintention/DigitalGardenSightings/pull/7",
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/6"
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/8"
   ],
-  "baseTheme": "dark",
-  "theme": "{\"name\":\"Royal Velvet\",\"author\":\"caro401\",\"repo\":\"caro401/royal-velvet\",\"screenshot\":\"royal-velvet.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/caro401/royal-velvet/HEAD/theme.css\"}",
+  "baseTheme": "light",
+  "theme": "{\"name\":\"Origami\",\"author\":\"kneecaps\",\"repo\":\"7368697661/Origami\",\"screenshot\":\"screen.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/7368697661/Origami/HEAD/theme.css\"}",
   "faviconPath": "attachments/SVGs/whimsy scoundrel logo svg1.svg",
   "logoPath": "",
   "useFullResolutionImages": false,

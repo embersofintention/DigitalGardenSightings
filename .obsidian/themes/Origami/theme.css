@@ -875,7 +875,7 @@ body {
 
     /* Radiuses 
 	*/
-    --radius-s: 4px;
+    --radius-s: 1px;
     --radius-m: 8px;
     --radius-l: 12px;
     --radius-xl: 16px;
@@ -4844,7 +4844,7 @@ img {
     position: relative;
     border: 1px dashed rgba(var(--callout-color), 1) !important;
     box-shadow: none;
-    border-radius: var(--radius-l);
+    border-radius: var(--radius-s);
     backdrop-filter: blur(16px);
     transition: all 750ms !important;
 }
