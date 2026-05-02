@@ -9,7 +9,7 @@
     "https://github.com/embersofintention/DigitalGardenSightings/pull/6"
   ],
   "baseTheme": "light",
-  "theme": "{\"name\":\"Origami\",\"author\":\"kneecaps\",\"repo\":\"7368697661/Origami\",\"screenshot\":\"screen.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/7368697661/Origami/HEAD/theme.css\"}",
+  "theme": "{\"name\":\"Minimal\",\"author\":\"kepano\",\"repo\":\"kepano/obsidian-minimal\",\"screenshot\":\"dark-simple.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kepano/obsidian-minimal/HEAD/theme.css\"}",
   "faviconPath": "attachments/SVGs/whimsy scoundrel logo svg1.svg",
   "logoPath": "",
   "useFullResolutionImages": false,
