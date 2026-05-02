@@ -4,13 +4,13 @@
   "githubUserName": "embersofintention",
   "gardenBaseUrl": "",
   "prHistory": [
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/8",
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/6",
     "https://github.com/embersofintention/DigitalGardenSightings/pull/7",
-    "https://github.com/embersofintention/DigitalGardenSightings/pull/6"
+    "https://github.com/embersofintention/DigitalGardenSightings/pull/8"
   ],
   "baseTheme": "light",
   "theme": "{\"name\":\"Origami\",\"author\":\"kneecaps\",\"repo\":\"7368697661/Origami\",\"screenshot\":\"screen.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/7368697661/Origami/HEAD/theme.css\"}",
-  "faviconPath": "attachments/SVGs/whimsy scoundrel logo svg1.svg",
+  "faviconPath": "",
   "logoPath": "",
   "useFullResolutionImages": false,
   "noteSettingsIsInitialized": true,
@@ -28,8 +28,8 @@
   "showUpdatedTimestamp": false,
   "updatedTimestampKey": "",
   "timestampFormat": "MMM dd, yyyy h:mm a",
-  "styleSettingsCss": "",
-  "styleSettingsBodyClasses": "",
+  "styleSettingsCss": "body.css-settings-manager { --o-border: none; } body.theme-light.css-settings-manager { } body.theme-dark.css-settings-manager { }",
+  "styleSettingsBodyClasses": "mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title is-floating-nav auto-full-screen show-ribbon show-view-header mk-readable-line mk-folder-lines mk-spaces-enabled mk-inline-context-enabled mk-flow-replace mk-flow-minimal css-settings-manager anp-td-none fas-hue theme-light is-maximized minimal-theme minimal-readable minimal-default-dark minimal-atom-light minimal-light minimal-dark colorful-active links-int-on links-ext-on img-grid minimal-status-off full-file-names minimal-folding chart-default-width table-default-width img-default-width iframe-default-width map-default-width o-red o-list-distinct o-headings-origami-smaller o-rainbow-headers-body o-header-line-h1 is-focused",
   "pathRewriteRules": "",
   "customFilters": [],
   "publishPlatform": "SelfHosted",
