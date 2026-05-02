@@ -13,7 +13,7 @@ tagline: (empty)
 created: 2026-04-29, 15:47
 created_date: 2026, 04/29
 created_time: 15:47
-coverImage: "[[attachments/thumbnails/2026-04-29 - Zu- Dancin On A Street Sign-thumb.webp]]"
+coverImage: "[[attachments/2026-04-29 - Zu- Dancin On A Street Sign-3.png]]"
 thumbnail: "[[attachments/thumbnails/resized/d699770452a8a93581de32ead33aaadf_86cf658e.webp]]"
 dg-publish: true
 dg-content-classes: cards, img-grid
@@ -21,7 +21,7 @@ cssclasses:
   - cards
   - img-grid
 ---
-![[2026-04-29 - Zu- Dancin On A Street Sign-thumb.webp]]
+![[attachments/2026-04-29 - Zu- Dancin On A Street Sign-3.png]]
 ![[2026-04-29 - Zu- Dancin On A Street Sign-1.png]]
 ![[2026-04-29 - Zu- Dancin On A Street Sign-2.png]]
 

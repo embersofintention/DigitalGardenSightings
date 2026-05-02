@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE"
+              "title": "Home"
             }
           },
           {
@@ -271,32 +271,39 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "a6a461c69e8ccfc6",
   "lastOpenFiles": [
+    "src/site/styles/user/theme-origami-1.css",
+    "src/site/styles/user/New Text Document.txt",
+    "Sightings In The Wild/2026-05-01 - Phaedra- Gimme Fry.md",
     "Home.md",
+    "Gallery of Sightings.md",
+    "__Site Planning.md",
+    "Sightings In The Wild/2026-04-29 - Zu- Dancin On A Street Sign.md",
+    "attachments/thumbnails/resized/d699770452a8a93581de32ead33aaadf_86cf658e.webp.md",
+    "attachments/thumbnails/resized",
+    "attachments/thumbnails",
+    "attachments/2026-04-29 - Zu- Dancin On A Street Sign-1.png",
+    "attachments/2026-04-29 - Zu- Dancin On A Street Sign-2.png",
+    "attachments/2026-04-29 - Zu- Dancin On A Street Sign-3.png",
+    "Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
     "attachments/banners/banner images.md",
     "attachments/banners/banner-1.png",
     "attachments/2026-05-01 - Phaedra- Gimme Fry-1.png",
     "attachments/banners",
-    "Sightings In The Wild/2026-05-01 - Phaedra- Gimme Fry.md",
     "attachments/thumbnails/resized/2026-05-01 - Phaedra- Gimme Fry-1.webp",
     "attachments/2026-04-16-1734--Zu Ice Cream 1.jpg",
     "attachments/2026-04-16--Zu Ice Cream 2.jpg",
     "attachments/2026-04-16--Zu Hanging Out.jpg",
     "attachments/2026-04-16--tortilla chips.jpg",
-    "attachments/2026-04-16 - Rappy- A Cup Full Of Sweetness-1.png",
     "Try It Out/Whimsy Questing.md",
-    "Sightings In The Wild/2026-04-29 - Zu- Dancin On A Street Sign.md",
-    "attachments/thumbnails/resized/d699770452a8a93581de32ead33aaadf_86cf658e.webp",
-    "attachments/thumbnails/resized/ddf0d632ad766b67ef5b23d42b0fda57_86cf658e.webp",
-    "Gallery of Sightings.md",
     "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
     "test bs 2.md",
     "Try It Out",
-    "__Site Planning.md",
     "src/site/styles/user/callouts-letter.css",
     "test bs.md",
     "Characters/Rappy.md",
@@ -312,14 +319,9 @@
     "src/site/notes/Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
     "src/site/notes/Sightings In The Wild",
     "src/site/img/user/src/site/img/user/attachments/thumbnails/resized",
     "src/site/img/user/src/site/img/user/attachments/thumbnails",
-    "src/site/img/user/src/site/img/user/attachments",
-    "src/site/img/user/src/site/img/user",
-    "src/site/img/user/src/site/img",
-    "src/site/img/user/src/site"
+    "src/site/img/user/src/site/img/user/attachments"
   ]
 }

@@ -4,13 +4,11 @@ dg-publish: true
 dg-pinned: true
 cssclasses:
   - cards
-  - headings-rainbow
 coverImage: "[[attachments/Logos/whimsy scoundrel logo wip 2.png]]"
 thumbnail: "[[attachments/thumbnails/resized/39fdf70f2df74e0900390130ed3414bc_86cf658e.webp]]"
 dg-content-classes:
   - cards
   - img-grid
-  - font-mansalva
 ---
 
 ![[whimsy scoundrel logo wip 2.png]]
@@ -83,10 +81,6 @@ It costs next to nothing, it's fun to do, and it has the potential to make a str
 >> 
 >> Go look at it
 >
-
-
-
-
 
 
 

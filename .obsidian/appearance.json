@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Origami",
   "enabledCssSnippets": [
     "pws-tables-cards",
     "minimal-cards",
@@ -17,5 +17,6 @@
     "callout-masonry",
     "callout-pinned"
   ],
-  "theme": "system"
+  "theme": "system",
+  "accentColor": "#f42f2f"
 }
