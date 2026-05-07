@@ -31,14 +31,14 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 32.333333333333336,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 72,
+        "line": 73,
         "ch": 0
       },
       "to": {
-        "line": 72,
+        "line": 73,
         "ch": 0
       }
     },
@@ -329,25 +329,24 @@
     ]
   },
   "Home.md": {
-    "scroll": 81.06292437118333,
+    "scroll": 37.39810426540284,
     "cursor": {
       "from": {
-        "line": 48,
+        "line": 126,
         "ch": 0
       },
       "to": {
-        "line": 48,
+        "line": 126,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-0",
-      "item-1-8",
-      "item-2-6",
       "item-1-5",
-      "item-2-9",
+      "item-1-0",
       "item-4-11",
-      "item-3-10"
+      "item-3-10",
+      "item-2-9",
+      "item-1-8"
     ]
   },
   "subject - Apr11 2026 16-56.md": {
@@ -958,14 +957,14 @@
     ]
   },
   "Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md": {
-    "scroll": 0,
+    "scroll": 7.534246575342466,
     "cursor": {
       "from": {
-        "line": 27,
+        "line": 28,
         "ch": 0
       },
       "to": {
-        "line": 27,
+        "line": 28,
         "ch": 0
       }
     },
@@ -1019,11 +1018,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
+        "line": 17,
         "ch": 0
       },
       "to": {
-        "line": 15,
+        "line": 17,
         "ch": 0
       }
     },
@@ -1033,11 +1032,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
+        "line": 18,
         "ch": 0
       },
       "to": {
-        "line": 16,
+        "line": 18,
         "ch": 0
       }
     },
@@ -1431,15 +1430,15 @@
     "expandedKeys": []
   },
   "Gallery of Sightings.md": {
-    "scroll": 53.15261541391872,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 72
+        "line": 20,
+        "ch": 23
       },
       "to": {
-        "line": 21,
-        "ch": 72
+        "line": 20,
+        "ch": 23
       }
     },
     "expandedKeys": [
@@ -1549,14 +1548,14 @@
     "expandedKeys": []
   },
   "test bs.md": {
-    "scroll": 143.6853735789463,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 162,
-        "ch": 59
+        "line": 13,
+        "ch": 0
       },
       "to": {
-        "line": 153,
+        "line": 13,
         "ch": 0
       }
     },
@@ -1637,7 +1636,7 @@
     "expandedKeys": []
   },
   "test bs 2.md": {
-    "scroll": 45.500353427160356,
+    "scroll": 8.957654723127035,
     "cursor": {
       "from": {
         "line": 66,
@@ -1812,12 +1811,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 17
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 3,
-        "ch": 0
+        "line": 6,
+        "ch": 27
       }
     },
     "expandedKeys": []
@@ -1846,6 +1845,110 @@
       "to": {
         "line": 29,
         "ch": 194
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-05-03 - Misc-Raccoon- Duck Sauce Lad.md": {
+    "scroll": 1.2808716707021792,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 52
+      },
+      "to": {
+        "line": 24,
+        "ch": 52
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sightings In The Wild/2026-05-04 - Misc-Opossum- Planter pal possum.md": {
+    "scroll": 5.484184914841849,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 56
+      },
+      "to": {
+        "line": 25,
+        "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "backups and drafts/Gallery of Sightings backup1.md": {
+    "scroll": 8.490228013029316,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Sightings In The Wild/2026-05-06 - Baroness- Bearded Vulture From TTRPG Day.md": {
+    "scroll": 8.103202846975089,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 64
+      },
+      "to": {
+        "line": 24,
+        "ch": 64
+      }
+    },
+    "expandedKeys": []
+  },
+  "Lil Guy Sightings.md": {
+    "scroll": 23.48653716272577,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 23
+      },
+      "to": {
+        "line": 20,
+        "ch": 23
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Characters/Zu.md": {
+    "scroll": 32.735979941496026,
+    "cursor": {
+      "from": {
+        "line": 90,
+        "ch": 0
+      },
+      "to": {
+        "line": 90,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Lil Guy Posting/2026-05-06 - Baroness- Bearded Vulture From TTRPG Day.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
       }
     },
     "expandedKeys": []

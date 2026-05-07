@@ -8,7 +8,7 @@ created_time: 18:46
 dg-publish: true
 cssclasses:
   - cards
-dg-pinned: false
+dg-pinned: true
 dg-content-classes: cards
 ---
 
@@ -46,7 +46,7 @@ EmbededCoverImg
 
 
 
-FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+FROM "Lil Guy Posting" AND !"_Templates" AND !"index"
 SORT created_date DESC
 WHERE dataviewIgnore != true
 

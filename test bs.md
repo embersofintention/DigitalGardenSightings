@@ -1,10 +1,26 @@
 ---
 coverImage: "[[attachments/test bs-1.png]]"
 thumbnail: "[[attachments/thumbnails/resized/024884ea9ba6d532b93b363fd38f92eb_86cf658e.webp]]"
+cssclasses:
+  - cards
+polaroidCallout: "[!polaroid]"
 ---
 ![[test bs-1.png]]
 
 
+> [!paperstack]+
+> objaodjf
+
+
+> [!info] 
+> asdfasf
+
+
+
+
+
+
+---
 ```dataview
 
 
@@ -31,7 +47,7 @@ EmbededCoverImg
 
 
 
-FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+FROM "Lil Guy Posting" AND !"_Templates" AND !"index"
 WHERE contains(characters, "Zu")
 SORT created_date DESC
 
@@ -80,7 +96,7 @@ TABLE WITHOUT ID
   rows.Link AS Link,
   rows.Info AS Info,
   rows["Left At"] AS "Left At"
-FROM "Sightings In The Wild"
+FROM "Lil Guy Posting"
 WHERE file.name != this.file.name AND coverImage AND characters
 FLATTEN characters AS characterFlat
 FLATTEN choice(
@@ -181,11 +197,6 @@ The artist's internal experience, personified
 
 
 
-Raucous and rambunctious, these little doodle creatures are *living personifications* of all those thoughts and feelings that go unsaid.
-
--
-
-
 
 > [!pinned|medium]+ hi
 > osajdfosjfdf
@@ -200,12 +211,110 @@ Raucous and rambunctious, these little doodle creatures are *living personificat
 
 
 
+> [!polaroid] hi
+> ```dataview
+> TABLE WITHOUT ID
+> 	EmbededCoverImg as "Thumbnail"
+> FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+> WHERE dataviewIgnore != true
+> SORT created_date DESC
+> WHERE file.name != this.file.name AND coverImage
+> FLATTEN choice(typeof(coverImage)="link",
+> embed(link(meta(
+>        choice(
+>            typeof(coverImage)="link",
+>                coverImage, this.file.link
+>        )
+>    ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
+> 
+> LIMIT 1
+> ```
 
 
 
 
 
 
+```
+TABLE WITHOUT ID 
+
+EmbededCoverImg 
+	as "Thumbnail", 
+
+
+"**" + link(file.path, header) + "**"
+	  as "Link",
+
+"**" + created_date + "**"
+	+ " -- "
+	+ description
+	as "info",
+
+"**Left at**"
+	+ ": "
+	+ leftAt
+	as "Left At"
+
+
+
+
+FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+WHERE dataviewIgnore != true
+SORT created_date DESC
+
+
+WHERE file.name != this.file.name AND coverImage
+
+FLATTEN choice(typeof(coverImage)="link",
+    embed(link(meta(
+        choice(
+            typeof(coverImage)="link",
+                coverImage, this.file.link
+        )
+    ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
+
+
+
+LIMIT 9
+
+```
+
+
+
+
+
+
+
+
+```dataview
+TABLE WITHOUT ID 
+
+EmbededCoverImg 
+	as "Thumbnail"
+
+choice(true, "[!polaroid]<br>!" + EmbededCoverImg)
+
+
+
+FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+WHERE dataviewIgnore != true
+SORT created_date DESC
+
+
+WHERE file.name != this.file.name AND coverImage
+
+FLATTEN choice(typeof(coverImage)="link",
+    embed(link(meta(
+        choice(
+            typeof(coverImage)="link",
+                coverImage, this.file.link
+        )
+    ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
+
+
+
+LIMIT 1
+```
 
 
 

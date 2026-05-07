@@ -66,7 +66,7 @@ EmbededCoverImg
 
 
 
-FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+FROM "Lil Guy Posting" AND !"_Templates" AND !"index"
 WHERE contains(characters, "Zu")
 SORT created_date DESC
 

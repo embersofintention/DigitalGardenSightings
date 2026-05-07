@@ -32,8 +32,9 @@ dg-content-classes:
 > [!polaroid|right] Phaedra (porcupine)
 > ![[attachments/2026-04-23 - Phaedra- Found a new fave-1.png]]
 
+
 **It's what I call my little index card critters!**
-* often created on the spot, designed to be interacting with something in the environment
+* often created on the spot, crafted around the idea of them interacting with something in the environment
 * left for others to find, with friendly little notes on the back
 * Done as a silly lil' way to bring some playfulness and whimsy into each day!
 
@@ -66,7 +67,7 @@ It costs next to nothing, it's fun to do, and it has the potential to make a str
 (Remember, this site is very much a work in progress. Everything is still a mess and not intended to be seen JUST yet, but click around if you'd like since you're here!)
 
 * [[FAQ]] - Curious about anything? Click here
-* [[Gallery of Sightings]] - View the collection!
+* [[Lil Guy Sightings]] - View the collection!
 * [[-- by Character|Character Gallery]] - Sorted by character
 * ...Or maybe you'd like to [[Whimsy Questing|try out]] something like this yourself..?
 
@@ -101,7 +102,7 @@ EmbededCoverImg
 
 
 
-FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+FROM "Lil Guy Posting" AND !"_Templates" AND !"index"
 WHERE dataviewIgnore != true
 SORT created_date DESC
 
@@ -122,8 +123,8 @@ LIMIT 9
 
 
 ```
-> [!clue|tape-b paper-d]+ Want More Whimsy?
-> Head to the [[Gallery of Sightings.md|Gallery of Sightings]] and look around!
+
+
 
 
 > [!profile]+ Profile WIP Test Thing
@@ -168,5 +169,26 @@ oh hey look! A test code block!
 #### header 4
 
 ##### header 5
+
+> [!polaroid] hi
+> ```dataview
+> TABLE WITHOUT ID
+> 	EmbededCoverImg as "Thumbnail"
+> FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+> WHERE dataviewIgnore != true
+> SORT created_date DESC
+> WHERE file.name != this.file.name AND coverImage
+> FLATTEN choice(typeof(coverImage)="link",
+> embed(link(meta(
+>        choice(
+>            typeof(coverImage)="link",
+>                coverImage, this.file.link
+>        )
+>    ).path, "250")), "![](" + coverImage + ")") AS EmbededCoverImg
+> 
+> LIMIT 1
+> ```
+
+
 
 

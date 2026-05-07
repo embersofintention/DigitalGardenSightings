@@ -55,24 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gallery of Sightings.md",
+                "file": "Lil Guy Sightings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gallery of Sightings"
+              "title": "Lil Guy Sightings"
             }
           },
           {
             "id": "9ebd42ae009ac65d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/2026-04-16-1734--Zu Ice Cream 1.jpg"
+                "file": "test bs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "2026-04-16-1734--Zu Ice Cream 1"
+              "icon": "lucide-file",
+              "title": "test bs"
             }
           },
           {
@@ -81,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "attachments/banners/banner images.md",
+                "file": "Lil Guy Posting/2026-05-06 - Baroness- Bearded Vulture From TTRPG Day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banner images"
+              "title": "2026-05-06 - Baroness- Bearded Vulture From TTRPG Day"
             }
           }
         ],
@@ -144,7 +146,7 @@
             }
           },
           {
-            "id": "43c176d2e8ad60d2",
+            "id": "2c2885ef7c34c479",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -271,57 +273,56 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "a6a461c69e8ccfc6",
   "lastOpenFiles": [
-    "src/site/styles/user/theme-origami-2.css",
-    "src/site/styles/user/New Text Document.txt",
-    "src/site/notes/Home.md",
-    "src/site/styles/user/theme-minimal-1.css",
     "src/site/notes/Try It Out/Whimsy Questing.md",
     "src/site/notes/Try It Out",
-    "src/site/notes/Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md",
-    "src/site/notes/Sightings In The Wild/2026-05-01 - Misc-Doggo- Boba Shibe.md",
+    "src/site/notes/Sightings In The Wild/2026-05-06 - Baroness- Bearded Vulture From TTRPG Day.md",
     "src/site/notes/Sightings In The Wild/2026-05-01 - Phaedra- Gimme Fry.md",
-    "src/site/notes/Sightings In The Wild/2026-04-29 - Zu- Dancin On A Street Sign.md",
     "src/site/notes/Sightings In The Wild/2026-04-20 - Zu- Incognito Mode.md",
-    "src/site/notes/Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
-    "src/site/notes/Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md",
-    "src/site/notes/Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
-    "src/site/notes/Sightings In The Wild",
-    "src/site/notes/Gallery of Sightings.md",
-    "src/site/img/user/attachments/2026-05-01 - Misc-Doggo- Boba Shibe-1.png",
-    "Sightings In The Wild/2026-05-01 - Misc-Doggo- Boba Shibe.md",
-    "Home.md",
-    "__Site Planning.md",
-    "attachments/2026-05-01 - Misc-Doggo- Boba Shibe-1.png",
-    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
+    "src/site/notes/Sightings In The Wild/2026-05-01 - Misc-Doggo- Boba Shibe.md",
+    "src/site/notes/Sightings In The Wild/2026-05-04 - Misc-Opossum- Planter pal possum.md",
+    "src/site/notes/Sightings In The Wild/2026-04-29 - Zu- Dancin On A Street Sign.md",
     "src/site/notes/Sightings In The Wild/2026-04-25 - Rappy- Whoooosh.md",
-    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
     "src/site/notes/Sightings In The Wild/2026-04-23 - Phaedra- Found a new fave.md",
-    "src/site/notes/Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
+    "src/site/notes/Sightings In The Wild/2026-04-18 - Rappy,Zu- NYEEE GIMME SOME pbbbbt MINE.md",
+    "src/site/notes/Sightings In The Wild/2026-04-20 - Phaedra- Fruit Waffle Prickle Friend.md",
     "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Zu and a Burger Pal.md",
+    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Whimsy at a Brewhouse.md",
+    "src/site/notes/Sightings In The Wild/2026-04-18 - Misc Foxes- Soda Fox.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Rappy- A Cup Full Of Sweetness.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Sugar Bath of Luxury.md",
+    "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Splenda Zu.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Zu- Boba Cup Buddy.md",
     "src/site/notes/Sightings In The Wild/2026-04-17 - Phaedra- Prickly And Sweet.md",
-    "src/site/img/user/src/site/img/user/src/site/img/user/src/site/img/user/attachments/thumbnails/resized/2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Hangin' Out at the Postcard Gallery Event.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Found A Metal Jungle Gym.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Zu- Beans for the Bean.md",
+    "src/site/notes/Sightings In The Wild/2026-04-11-1941 - Zu Cool As A Cucumber.md",
+    "src/site/notes/Sightings In The Wild/2026-04-11-1926 - Breakfast Rappy.md",
+    "src/site/notes/Sightings In The Wild/2026-04-16 - Ice Cream Zu.md",
+    "src/site/notes/Sightings In The Wild/2026-04-11-1933 - Embrace the Sweet Things.md",
+    "src/site/notes/Sightings In The Wild",
+    "src/site/img/user/attachments/2026-05-06 - Baroness- Bearded Vulture From TTRPG Day-1.png",
+    "src/site/img/user/attachments/2026-05-04 - Misc-Opossum- Planter pal possum-2.png",
+    "src/site/img/user/attachments/2026-05-04 - Misc-Opossum- Planter pal possum-1.png",
+    "src/site/styles/user/lvk-callout-paperstack.css",
+    "attachments/rappy whimsy sketch 2.png",
+    "Mental Health Stuff/Sketch Journaling",
+    "attachments/2026-05-06 - Baroness- Bearded Vulture From TTRPG Day-1.png",
+    "attachments/banner opossum 1-1.png",
+    "attachments/2026-05-04 - Misc-Opossum- Planter pal possum-2.png",
+    "attachments/2026-05-04 - Misc-Opossum- Planter pal possum-1.png",
+    "attachments/2026-04-16-1734--Zu Ice Cream 1.jpg",
+    "attachments/2026-05-03 - Misc-Raccoon- Duck Sauce Lad-1.png",
+    "src/site/styles/user/theme-origami-2.css",
+    "src/site/styles/user/New Text Document.txt",
+    "src/site/styles/user/theme-minimal-1.css",
     "src/site/img/user/src/site/img/user/src/site/img/user/src/site/img/user/attachments/thumbnails/resized",
     "src/site/img/user/src/site/img/user/src/site/img/user/src/site/img/user/attachments/thumbnails",
-    "src/site/img/user/src/site/img/user/src/site/img/user/src/site/img/user/attachments",
-    "src/site/img/user/src/site/img/user/src/site/img/user/src/site/img/user",
-    "src/site/img/user/src/site/img/user/src/site/img/user/src/site/img",
-    "src/site/img/user/src/site/img/user/src/site/img/user/src/site",
-    "src/site/img/user/src/site/img/user/src/site/img/user/attachments/thumbnails/resized/2026-04-17 - Zu- Whimsy at a Brewhouse-2.webp",
-    "src/site/img/user/attachments/banners/banner-1.png",
-    "src/site/img/user/attachments/_Zu/Zu-5.png",
-    "src/site/img/user/attachments/Whimsy-Kit-1.jpg",
-    "src/site/img/user/attachments/Rappy-1.png",
-    "src/site/img/user/attachments/2026-05-01 - Phaedra- Gimme Fry-1.png",
-    "src/site/img/user/attachments/2026-04-29 - Zu- Dancin On A Street Sign-3.png"
+    "src/site/img/user/src/site/img/user/src/site/img/user/src/site/img/user/attachments"
   ]
 }

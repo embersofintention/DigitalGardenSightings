@@ -14,7 +14,8 @@
     "callout-polaroid",
     "callout-full-width-image",
     "callout-masonry",
-    "callout-pinned"
+    "callout-pinned",
+    "lvk-callout-paperstack"
   ],
   "theme": "system",
   "accentColor": ""

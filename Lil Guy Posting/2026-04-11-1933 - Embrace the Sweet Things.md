@@ -13,6 +13,7 @@ coverImage: "[[ws - rappy sweet.png]]"
 dg-publish: true
 leftAt: One of our favorite brekkie spots in Cranston
 characters: Rappy
+backlog: true
 ---
 
 

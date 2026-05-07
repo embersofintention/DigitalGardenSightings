@@ -14,6 +14,7 @@ image_path:
 dg-publish: true
 leftAt: a brekkie place
 characters: Rappy
+backlog: true
 ---
 
 ![[ws - breakfast rappy.png]]

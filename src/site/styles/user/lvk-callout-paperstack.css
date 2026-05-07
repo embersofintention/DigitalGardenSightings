@@ -1,0 +1,42 @@
+/* === PAPERSTACK === */
+.callout[data-callout="paperstack"] {
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  padding: 24px;
+  margin: 1.5em auto;
+  max-width: 550px;
+  position: relative;
+  border: none;
+}
+
+/* Remove default callout styling */
+.callout[data-callout="paperstack"] .callout-title {
+  display: none;
+}
+
+.callout[data-callout="paperstack"]::before,
+.callout[data-callout="paperstack"]::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 98%;
+  z-index: -1;
+}
+
+/* Bottom layer */
+.callout[data-callout="paperstack"]::before {
+  background: #fafafa;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  top: 4px;
+  left: -5px;
+  transform: rotate(-2.5deg);
+}
+
+/* Middle layer */
+.callout[data-callout="paperstack"]::after {
+  background: #f6f6f6;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+  top: 1px;
+  right: -3px;
+  transform: rotate(1.4deg);
+}
