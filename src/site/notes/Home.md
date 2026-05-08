@@ -84,62 +84,7 @@ It costs next to nothing, it's fun to do, and it has the potential to make a str
 
 { .block-language-dataview}
 
-
-
-
-> [!profile]+ Profile WIP Test Thing
->> > [!polaroid|right] Derp
->> ![Rappy-1.png](/img/user/attachments/Rappy-1.png)
->  
-> ---
->  * **Name**: Rapscallien / "Rappy"
->  * **Pronouns**: They/them
-> 
-> ---
-> 
-> A whimsical little dingus what can I say I love him lol
-
-
-# Please Note:  This is a work in progress!!
 ---
+Rather than litter the front page with formatting tests, let's move 'em to their own page lol
 
-## Testing Various Stuff:
-
-### Formatting
-
-==highlights==
-
-> This is a test quote
-
-- [ ] This is a test checkbox
-- [x] And this one's checked
-
-```
-oh hey look! A test code block!
-```
-
-
-
-
-# header 1
-## header 2
-
-### header 3
-
-#### header 4
-
-##### header 5
-
-> [!paperstack] hi
->  | Thumbnail                                                                         | text                    |
-> | --------------------------------------------------------------------------------- | ----------------------- |
-> | ![attachments/2026-05-06 - Baroness- Bearded Vulture From TTRPG Day-1.png\|250](/img/user/attachments/2026-05-06%20-%20Baroness-%20Bearded%20Vulture%20From%20TTRPG%20Day-1.png) | ## Most Recent (a test) |
-> 
-{ .block-language-dataview}
-
-^ hi this is me trying to get a css paper stack effect on a callout with a dataview table in it, having no idea what the heck I'm doing loool
-
-> [!paperstack]+ Another paperstack callout
-> Here's one without the dataview thing
-
-
+[[FORMATTING TESTS YEEHAW ignore this page ok\|FORMATTING TESTS YEEHAW ignore this page ok]]
