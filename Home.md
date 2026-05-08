@@ -170,11 +170,12 @@ oh hey look! A test code block!
 
 ##### header 5
 
-> [!polaroid] hi
+> [!paperstack] hi
 > ```dataview
 > TABLE WITHOUT ID
-> 	EmbededCoverImg as "Thumbnail"
-> FROM "Sightings In The Wild" AND !"_Templates" AND !"index"
+> 	EmbededCoverImg as "Thumbnail",
+> 	"## Most Recent (a test)" as "text"
+> FROM "Lil Guy Posting" AND !"_Templates" AND !"index"
 > WHERE dataviewIgnore != true
 > SORT created_date DESC
 > WHERE file.name != this.file.name AND coverImage
@@ -189,6 +190,9 @@ oh hey look! A test code block!
 > LIMIT 1
 > ```
 
+^ hi this is me trying to get a css paper stack effect on a callout with a dataview table in it, having no idea what the heck I'm doing loool
 
+> [!paperstack]+ Another paperstack callout
+> Here's one without the dataview thing
 
 

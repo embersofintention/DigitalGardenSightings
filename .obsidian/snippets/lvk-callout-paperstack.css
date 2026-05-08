@@ -1,7 +1,7 @@
 /* === PAPERSTACK === */
 .callout[data-callout="paperstack"] {
-  background: #fff;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  background: transparent;
+  /*box-shadow: 0 0 10px rgba(0,0,0,0.3); */
   padding: 24px;
   margin: 1.5em auto;
   max-width: 550px;
@@ -19,7 +19,7 @@
   content: "";
   position: absolute;
   width: 100%;
-  height: 98%;
+  height: 100%; /* changed from 98 */
   z-index: -1;
 }
 
