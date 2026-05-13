@@ -62,6 +62,7 @@ It costs next to nothing, it's fun to do, and it has the potential to make a str
 * [[Lil Guy Sightings\|Lil Guy Sightings]] - View the collection!
 * [[Lil Guy Posting/-- by Character\|Character Gallery]] - Sorted by character
 * ...Or maybe you'd like to [[Try It Out/Whimsy Questing\|try out]] something like this yourself..?
+* [[Sketch Journal Things\|Sketch Journal Things]] (WIP) - Come along on the adventure
 
 
 
