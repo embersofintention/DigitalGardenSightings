@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sketch-journal-things/","pinned":true,"contentClasses":"cards img-grid","created":"2026, 05/11","dg-note-properties":{"tags":null,"tagline":"(empty)","date":null,"created":"2026-05-11, 18:01","created_date":"2026, 05/11","created_time":"18:01","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/sketch-journal-things/","pinned":true,"contentClasses":"cards, img-grid","created":"2026, 05/11","dg-note-properties":{"tags":null,"tagline":"(empty)","date":null,"created":"2026-05-11, 18:01","created_date":"2026, 05/11","created_time":"18:01","cssclasses":["cards"]}}
 ---
 
 
@@ -24,7 +24,7 @@ Hover your mouse over the top text to preview, or click to see more! yay
 { .block-language-dataview}
 (More to come soon!)
 
-
+also I dunno why the CSS isn't working here wtf lol
 
 
 
