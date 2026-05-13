@@ -7,6 +7,8 @@
 ---
 *If you can doodle, you can Whimsy Quest!*
 
+It's simple:  Just draw a lil' duderino on whatever, write a nice note, and leave it somewhere for someone to find. :)
+
 > [!polaroid|right] Just Hangin' Out
 > ![attachments/2026-04-16-195258--WS.jpg](/img/user/attachments/2026-04-16-195258--WS.jpg)
 

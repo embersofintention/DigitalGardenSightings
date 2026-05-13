@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sketch-journal-things/","pinned":true,"contentClasses":"cards, img-grid","created":"2026, 05/11","dg-note-properties":{"tags":null,"tagline":"(empty)","date":null,"created":"2026-05-11, 18:01","created_date":"2026, 05/11","created_time":"18:01","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/sketch-journal-things/","pinned":true,"contentClasses":"cards","created":"2026, 05/11","dg-note-properties":{"tags":null,"tagline":"(empty)","date":null,"created":"2026-05-11, 18:01","created_date":"2026, 05/11","created_time":"18:01","cssclasses":["cards"]}}
 ---
 
 
@@ -8,8 +8,7 @@
 Some selected pages from my ongoing Sketch Journal
 This setup is definitely a WIP here ok yep yessss
 
-> [!tip] Pages About Mental Health, Life, and Self Discovery
-> Mental Health Subjects can be dicey at times. Anything potentially uncomfortable will be clearly labeled!
+
 
 
 ## Lookit 'Em OK
@@ -26,12 +25,15 @@ Hover your mouse over the top text to preview, or click to see more! yay
 
 also I dunno why the CSS isn't working here wtf lol
 
+> [!tip] Pages About Mental Health, Life, and Self Discovery
+> Mental Health Subjects can be dicey at times. Anything potentially uncomfortable will be clearly labeled!
 
 
 
 
 
-
-
+![hey look its LvK-1.png](/img/user/attachments/hey%20look%20its%20LvK-1.png)
+With love, 
+~LvK
 
 ---
