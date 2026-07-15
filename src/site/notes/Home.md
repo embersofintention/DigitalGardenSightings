@@ -4,6 +4,8 @@
 
 
 ![whimsy scoundrel logo wip 2.png](/img/user/attachments/Logos/whimsy%20scoundrel%20logo%20wip%202.png)
+# **Whimsy Scoundrel:** A Thing by LvK
+
 >[!pinned]+ Site Is Heavily Under Construction
 >expect weird stuff all over the place for now.
 >
@@ -11,18 +13,63 @@
 
 
 ---
+## So! looks like you found one of these little guys!
+---
+>[!fwi|wide no-title] Sweet! 
+>![Zu boba banner-1.png](/img/user/attachments/Zu%20boba%20banner-1.png)
+
+* Maybe you caught wind of these lil' goobers online? 
+* OR, maybe you stumbled upon one mid-shenanigan, out in the wilds?  
+
+Either way, *Welcome*!  I'm the artist, LvK, and I hope these fun little goofballs bring you a smile.  
+
+![Rappy Zu Talkyfaces-1.png\|646](/img/user/attachments/Rappy%20Zu%20Talkyfaces-1.png)
+Rappy (Left, artist's character) and Zu (Right, his partner's character)
+
+
+### Who Are These Critters? 
+
+
+> [!profile]+ Rappy
+>![pfp Rappy-3.png](/img/user/attachments/pfp%20Rappy-3.png)
+>  
+> ---
+> > * **Name**: Rapscallien / "Rappy"
+> > * **Pronouns**: They/them
+>  
+> ---
+>   A  little liondog critter, and personal shenanigan-persona of the artist LvK
+> 
+> 
+> 
+
+
+
+> [!profile]+ Zu
+>![pfp zu-1.png](/img/user/attachments/pfp%20zu-1.png)
+>  
+> ---
+> > * **Name**: Zu, aka "Nug" (short for Nugget)
+> > * **Pronouns**: He/They, Cha/os (lol)
+>  
+> ---
+>   This whirlwind of whimsical cartoon chaos barely contained in the body of a weird little cat is the character of my wonderful partner in crime
+>> [!cards-deck] The Bean
+>> ![Zu-3.png](/img/user/attachments/_Zu/Zu-3.png)
+>>  ![Zu-4.png](/img/user/attachments/_Zu/Zu-4.png)
+>> ![Zu-5.png](/img/user/attachments/_Zu/Zu-5.png) 
+
 # Imagination, Good Vibes and Whimsy
 ---
 >[!fwi|wide no-title] Sweet! 
 >![attachments/2026-04-16-1734--Zu Ice Cream 1.jpg](/img/user/attachments/2026-04-16-1734--Zu%20Ice%20Cream%201.jpg)
 
-
-.
-.
-.
 ## So What Is a Whimsy Scoundrel?
-> [!polaroid|right] Phaedra (porcupine)
-> ![attachments/2026-04-23 - Phaedra- Found a new fave-1.png](/img/user/attachments/2026-04-23%20-%20Phaedra-%20Found%20a%20new%20fave-1.png)
+> [!polaroid|right] Rappy!
+>![pfp Rappy-2.png](/img/user/attachments/pfp%20Rappy-2.png)
+
+
+
 
 
 **It's what I call my little index card critters!**
@@ -34,8 +81,8 @@
 
 ---
 
-> [!polaroid|left] Zu / Nug (cat)
-> ![Zu-5.png](/img/user/attachments/_Zu/Zu-5.png)
+> [!polaroid|left] Zu 
+> ![pfp zu-1.png](/img/user/attachments/pfp%20zu-1.png)
 ## Why I Do The Thing
 
 Well... Life is rough. We're stuck running around this way and that, all caught up in a relentless grind that's often pretty thankless.  And for a lot of folks, it's getting harder and harder to find those *little moments in the day that leave us with a sense of genuine joy.*
